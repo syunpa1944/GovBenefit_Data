@@ -1,0 +1,4853 @@
+{
+  "schema": 2,
+  "generated": "2026-10-26",
+  "items": [
+    {
+      "id": 501100,
+      "title": "서울 한강 봄꽃 문화 축제",
+      "amount": "최대 50,000원 상품권 지원",
+      "period": "2026.06.25 ~ 07.10",
+      "start": "2026-06-25",
+      "end": "2026-07-10",
+      "type": "행사",
+      "source": "https://culture.seoul.go.kr/",
+      "note": "서울시 주관. 한강 생태 복구 기념 봄꽃 체험 행사 참가자에게 제로페이 모바일 5만원권 지원.",
+      "color": "#0064FF",
+      "tags": [
+        "benefit",
+        "eco"
+      ],
+      "areaCd": 11,
+      "areaNm": "서울",
+      "sigunguCd": 11140,
+      "sigunguNm": "중구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%A4%91%EA%B5%AC",
+      "isAd": false,
+      "benefits": [
+        "서울사랑상품권"
+      ]
+    },
+    {
+      "id": 501101,
+      "title": "난지캠핑장 유공자 및 장애인 감면",
+      "amount": "이용 요금 30% 즉시 감면",
+      "period": "상시 운영",
+      "start": null,
+      "end": null,
+      "type": "행사",
+      "source": "https://yeyak.seoul.go.kr/",
+      "note": "서울시 한강공원 난지야영장 예약 시 복지카드 및 유공자 증빙 지참 시 이용액 30% 할인 제공.",
+      "color": "#0064FF",
+      "tags": [
+        "camp",
+        "barrier"
+      ],
+      "areaCd": 11,
+      "areaNm": "서울",
+      "sigunguCd": 11440,
+      "sigunguNm": "마포구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EB%A7%88%ED%8F%AC%EA%B5%AC",
+      "isAd": false,
+      "benefits": [
+        "서울사랑상품권"
+      ]
+    },
+    {
+      "id": 502600,
+      "title": "광안리 해양레저 SUP 서핑 체험 교실 지원",
+      "amount": "장비 대여 및 강습비 전액 무료",
+      "period": "2026.06.25 ~ 09.30",
+      "start": "2026-06-25",
+      "end": "2026-09-30",
+      "type": "행사",
+      "source": "https://www.suyeong.go.kr/",
+      "note": "부산 수영구 주관. 타 시도 거주 청년 관광객 광안리 해변 레포츠 저변 활성화 사업 무료 강습 패키지 제공.",
+      "color": "#0064FF",
+      "tags": [
+        "free"
+      ],
+      "areaCd": 26,
+      "areaNm": "부산",
+      "sigunguCd": 26500,
+      "sigunguNm": "수영구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%B6%80%EC%82%B0%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%88%98%EC%98%81%EA%B5%AC",
+      "isAd": false,
+      "benefits": [
+        "동백전 (부산화폐)"
+      ]
+    },
+    {
+      "id": 504100,
+      "title": "용인시 어린이 도심 공원 물놀이터 무료 개방",
+      "amount": "입장료 및 시설 전액 무료",
+      "period": "2026.06.20 ~ 08.31",
+      "start": "2026-06-20",
+      "end": "2026-08-31",
+      "type": "행사",
+      "source": "https://www.yongin.go.kr/",
+      "note": "용인시청 주관. 수지체육공원, 동백공원 등 야외 어린이 임시 물놀이터 상설 개방 및 안심 요원 배치.",
+      "color": "#0064FF",
+      "tags": [
+        "free",
+        "stroller"
+      ],
+      "areaCd": 41,
+      "areaNm": "경기",
+      "sigunguCd": 41460,
+      "sigunguNm": "용인시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%9A%A9%EC%9D%B8%EC%8B%9C",
+      "isAd": false,
+      "benefits": [
+        "경기지역화폐"
+      ]
+    },
+    {
+      "id": 504101,
+      "title": "자라섬 오토캠핑장 다자녀 및 장애인 감면",
+      "amount": "야영 사용료 50% 즉시 감면",
+      "period": "상시 운영",
+      "start": null,
+      "end": null,
+      "type": "행사",
+      "source": "https://www.gp.go.kr/",
+      "note": "가평군청 주관. 다자녀 가구 및 등록 장애인 자라섬 야영장 데크/오토캠핑 사이트 요금 50% 즉시 할인.",
+      "color": "#0064FF",
+      "tags": [
+        "camp",
+        "barrier"
+      ],
+      "areaCd": 41,
+      "areaNm": "경기",
+      "sigunguCd": 41820,
+      "sigunguNm": "가평군",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B0%80%ED%8F%89%EA%B5%B0",
+      "isAd": false,
+      "benefits": [
+        "경기지역화폐"
+      ]
+    },
+    {
+      "id": 504300,
+      "title": "제천시 일주일 살아보기 체류 여행 보조금",
+      "amount": "최대 100,000원 현금 환급",
+      "period": "2026.09.01 ~ 11.30",
+      "start": "2026-09-01",
+      "end": "2026-11-30",
+      "type": "행사",
+      "source": "https://www.jecheon.go.kr/",
+      "note": "제천시 주관. 제천 내 농촌체험마을 혹은 지정 숙소에서 5박 이상 체류 및 영수증 증빙 시 여비 지원.",
+      "color": "#0064FF",
+      "tags": [
+        "benefit",
+        "eco"
+      ],
+      "areaCd": 43,
+      "areaNm": "충북",
+      "sigunguCd": 43150,
+      "sigunguNm": "제천시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%B6%A9%EB%B6%81%EB%8F%84%20%EC%A0%9C%EC%B2%9C%EC%8B%9C",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 504400,
+      "title": "태안군 반려동물 동반 반려견 전용 댕댕버스 지원",
+      "amount": "교통 지원금 20,000원 즉시 할인",
+      "period": "2026.06.01 ~ 10.31",
+      "start": "2026-06-01",
+      "end": "2026-10-31",
+      "type": "행사",
+      "source": "https://www.taean.go.kr/",
+      "note": "태안군 주관. 반려동물 동반 가족 전용 서해안 댕댕버스 셔틀 패키지 이용 시 정가 대비 2만원 특별 지원.",
+      "color": "#0064FF",
+      "tags": [
+        "benefit",
+        "pet"
+      ],
+      "areaCd": 44,
+      "areaNm": "충남",
+      "sigunguCd": 44825,
+      "sigunguNm": "태안군",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%B6%A9%EB%82%A8%EB%8F%84%20%ED%83%9C%EC%95%88%EA%B5%B0",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 504600,
+      "title": "강진 반값 강진관광 여행 비용 환급",
+      "amount": "최대 100,000원 강진상품권 환급",
+      "period": "2026.03.01 ~ 12.31",
+      "start": "2026-03-01",
+      "end": "2026-12-31",
+      "type": "행사",
+      "source": "https://www.gangjin.go.kr/",
+      "note": "강진군 주관. 관외 거주 가족 단위 관광객이 강진 내 소비 영수증 인증 시 소비액의 50%를 강진사랑상품권으로 현장 즉시 환급.",
+      "color": "#0064FF",
+      "tags": [
+        "payback",
+        "eco"
+      ],
+      "areaCd": 46,
+      "areaNm": "전남",
+      "sigunguCd": 46810,
+      "sigunguNm": "강진군",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EB%82%A8%EB%8F%84%20%EA%B0%95%EC%A7%84%EA%B5%B0",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 504601,
+      "title": "여수시 청소년 수련관 실내 수영장 무료 개방",
+      "amount": "자유 수영 무료 입장",
+      "period": "2026.07.01 ~ 08.31",
+      "start": "2026-07-01",
+      "end": "2026-08-31",
+      "type": "행사",
+      "source": "https://www.yeosu.go.kr/",
+      "note": "여수시 주관. 청소년 및 어린이 물놀이 활성화를 위한 시립 실내 수영장 여름철 특정 주말 전면 무료입장 지원.",
+      "color": "#0064FF",
+      "tags": [
+        "free"
+      ],
+      "areaCd": 46,
+      "areaNm": "전남",
+      "sigunguCd": 46130,
+      "sigunguNm": "여수시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EB%82%A8%EB%8F%84%20%EC%97%AC%EC%88%98%EC%8B%9C",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 504700,
+      "title": "영덕 고캠핑 반려동물 차박 페스티벌 지원",
+      "amount": "캠핑 사이트 및 특산물 웰컴 키트 무료 제공",
+      "period": "2026.06.01 ~ 06.30",
+      "start": "2026-06-01",
+      "end": "2026-06-30",
+      "type": "행사",
+      "source": "https://www.yd.go.kr/",
+      "note": "영덕군 주관. 친환경 반려동물 동반 가구 선착순 100팀 무료 캠핑 제공 및 영덕 대게 맛보기 혜택.",
+      "color": "#0064FF",
+      "tags": [
+        "free",
+        "pet",
+        "camp"
+      ],
+      "areaCd": 47,
+      "areaNm": "경북",
+      "sigunguCd": 47820,
+      "sigunguNm": "영덕군",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B2%BD%EB%B6%81%EB%8F%84%20%EC%98%81%EB%8D%95%EA%B5%B0",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 504701,
+      "title": "안동 유교문화 체류형 여행 경비 페이백",
+      "amount": "최대 50,000원 안동사랑상품권 환급",
+      "period": "2026.08.01 ~ 11.30",
+      "start": "2026-08-01",
+      "end": "2026-11-30",
+      "type": "행사",
+      "source": "https://www.andong.go.kr/",
+      "note": "안동시 주관. 전통 한옥 마을 숙박 및 안동 내 전통시장 소비 영수증 20% 모바일 페이백 지원.",
+      "color": "#0064FF",
+      "tags": [
+        "payback",
+        "eco"
+      ],
+      "areaCd": 47,
+      "areaNm": "경북",
+      "sigunguCd": 47170,
+      "sigunguNm": "안동시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B2%BD%EB%B6%81%EB%8F%84%20%EC%95%88%EB%8F%99%EC%8B%9C",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 505100,
+      "title": "정선군 화암동굴 한여름 피서 야간 무료 특별 관람",
+      "amount": "입장 요금 전액 무료",
+      "period": "2026.07.15 ~ 08.20",
+      "start": "2026-07-15",
+      "end": "2026-08-20",
+      "type": "행사",
+      "source": "https://www.jsimc.or.kr/",
+      "note": "정선군 주관. 여름 피서철 밤 11시까지 동굴 탐험 코스 무료 야간 특별 개방 (교통약자 전용 데크길 제공).",
+      "color": "#0064FF",
+      "tags": [
+        "free",
+        "barrier",
+        "eco"
+      ],
+      "areaCd": 51,
+      "areaNm": "강원",
+      "sigunguCd": 51770,
+      "sigunguNm": "정선군",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B0%95%EC%9B%90%EB%8F%84%20%EC%A0%95%EC%84%A0%EA%B5%B0",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 505101,
+      "title": "평창 치유의숲 휠체어 투어 생태 가이드 동행",
+      "amount": "입장료 및 투어비 전액 무료",
+      "period": "상시 운영",
+      "start": null,
+      "end": null,
+      "type": "행사",
+      "source": "https://www.forest.go.kr/",
+      "note": "산림청 주관. 보행 약자 가구 대상 휠체어 전용 친환경 데크 숲길 무료 해설사 매칭 서비스.",
+      "color": "#0064FF",
+      "tags": [
+        "free",
+        "barrier",
+        "eco"
+      ],
+      "areaCd": 51,
+      "areaNm": "강원",
+      "sigunguCd": 51760,
+      "sigunguNm": "평창군",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B0%95%EC%9B%90%EB%8F%84%20%ED%8F%89%EC%B0%BD%EA%B5%B0",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 505200,
+      "title": "무주 반값 웰니스 힐링 여행 환급",
+      "amount": "최대 70,000원 무주상품권 환급",
+      "period": "2026.06.01 ~ 10.31",
+      "start": "2026-06-01",
+      "end": "2026-10-31",
+      "type": "행사",
+      "source": "https://www.muju.go.kr/",
+      "note": "무주군 주관. 청정 친환경 생태 여행 코스 숙박 및 식음료 소비액의 50%를 지자체 지역사랑카드 상품권으로 즉시 보존 환급.",
+      "color": "#0064FF",
+      "tags": [
+        "payback",
+        "eco",
+        "barrier"
+      ],
+      "areaCd": 52,
+      "areaNm": "전북",
+      "sigunguCd": 52730,
+      "sigunguNm": "무주군",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EB%B6%81%EB%8F%84%20%EB%AC%B4%EC%A3%BC%EA%B5%B0",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 400000,
+      "title": "인천 펜타포트 락 페스티벌",
+      "amount": "입장 요금 전액 무료 (선착순 티켓)",
+      "period": "2026.08.07 ~ 2026.08.09",
+      "start": "2026-08-07",
+      "end": "2026-08-09",
+      "type": "행사",
+      "source": "https://www.pentaportrock.com/",
+      "note": "[인천 행정 안내] 인천 펜타포트 락 페스티벌.",
+      "color": "#0064FF",
+      "tags": [
+        "festival"
+      ],
+      "areaCd": 28,
+      "areaNm": "인천",
+      "sigunguCd": 28185,
+      "sigunguNm": "연수구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%97%B0%EC%88%98%EA%B5%AC%20%EC%84%BC%ED%8A%B8%EB%9F%B4%EB%A1%9C%20350",
+      "isAd": false,
+      "benefits": [
+        "인천사랑상품권 (인천e음)"
+      ]
+    },
+    {
+      "id": 400001,
+      "title": "인천 개항장 문화재 야행",
+      "amount": "야간 특별 관람 전면 무료",
+      "period": "2026.06.20 ~ 2026.06.22",
+      "start": "2026-06-20",
+      "end": "2026-06-22",
+      "type": "행사",
+      "source": "https://www.incheon.go.kr/culture/index",
+      "note": "[인천 행정 안내] 인천 개항장 문화재 야행.",
+      "color": "#0064FF",
+      "tags": [
+        "free",
+        "festival"
+      ],
+      "areaCd": 28,
+      "areaNm": "인천",
+      "sigunguCd": 28110,
+      "sigunguNm": "중구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%A4%91%EA%B5%AC%20%EC%8B%A0%ED%8F%AC%EB%A1%9C27%EB%B2%88%EA%B8%B8%2080",
+      "isAd": false,
+      "benefits": [
+        "인천사랑상품권 (인천e음)"
+      ]
+    },
+    {
+      "id": 400002,
+      "title": "인천 소래포구 축제",
+      "amount": "수산물 무료 시식 체험권",
+      "period": "2026.09.18 ~ 2026.09.20",
+      "start": "2026-09-18",
+      "end": "2026-09-20",
+      "type": "행사",
+      "source": "https://www.incheon.go.kr/culture/index",
+      "note": "[인천 행정 안내] 인천 소래포구 축제.",
+      "color": "#0064FF",
+      "tags": [
+        "festival"
+      ],
+      "areaCd": 28,
+      "areaNm": "인천",
+      "sigunguCd": 28140,
+      "sigunguNm": "동구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%82%A8%EB%8F%99%EA%B5%AC%20%EC%95%84%EC%95%94%EB%8C%80%EB%A1%9C%201620",
+      "isAd": false,
+      "benefits": [
+        "인천사랑상품권 (인천e음)"
+      ]
+    },
+    {
+      "id": 400003,
+      "title": "대구 치맥 페스티벌",
+      "amount": "시식 할인 쿠폰 15,000원권",
+      "period": "2026.07.01 ~ 2026.07.05",
+      "start": "2026-07-01",
+      "end": "2026-07-05",
+      "type": "행사",
+      "source": "https://chimac.kr/",
+      "note": "[대구 행정 안내] 대구 치맥 페스티벌.",
+      "color": "#0064FF",
+      "tags": [
+        "festival"
+      ],
+      "areaCd": 27,
+      "areaNm": "대구",
+      "sigunguCd": 27170,
+      "sigunguNm": "서구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%8B%AC%EC%84%9C%EA%B5%AC%20%EA%B3%B5%EC%9B%90%EC%88%9C%ED%99%98%EB%A1%9C%20201",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 400004,
+      "title": "대구 수성못 페스티벌",
+      "amount": "수상 무대 관람료 전액 무료",
+      "period": "2026.09.25 ~ 2026.09.27",
+      "start": "2026-09-25",
+      "end": "2026-09-27",
+      "type": "행사",
+      "source": "https://tour.daegu.go.kr/",
+      "note": "[대구 행정 안내] 대구 수성못 페스티벌.",
+      "color": "#0064FF",
+      "tags": [
+        "festival"
+      ],
+      "areaCd": 27,
+      "areaNm": "대구",
+      "sigunguCd": 27260,
+      "sigunguNm": "수성구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%88%98%EC%84%B1%EA%B5%AC%20%EC%9A%A9%ED%95%99%EB%A1%9C%2035-5",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 400005,
+      "title": "대구 약령시 한방문화축제",
+      "amount": "한방 족욕 체험 무료 제공",
+      "period": "2026.05.05 ~ 2026.05.09",
+      "start": "2026-05-05",
+      "end": "2026-05-09",
+      "type": "행사",
+      "source": "https://tour.daegu.go.kr/",
+      "note": "[대구 행정 안내] 대구 약령시 한방문화축제.",
+      "color": "#0064FF",
+      "tags": [
+        "free",
+        "festival"
+      ],
+      "areaCd": 27,
+      "areaNm": "대구",
+      "sigunguCd": 27110,
+      "sigunguNm": "중구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%A4%91%EA%B5%AC%20%EB%82%A8%EC%84%B1%EB%A1%9C%2051-1",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 400006,
+      "title": "부산 국제 록 페스티벌",
+      "amount": "록 페스티벌 입장 특별 무료권",
+      "period": "2026.10.03 ~ 2026.10.04",
+      "start": "2026-10-03",
+      "end": "2026-10-04",
+      "type": "행사",
+      "source": "http://www.busan.com/biff",
+      "note": "[부산 행정 안내] 부산 국제 록 페스티벌.",
+      "color": "#0064FF",
+      "tags": [
+        "festival"
+      ],
+      "areaCd": 26,
+      "areaNm": "부산",
+      "sigunguCd": 26530,
+      "sigunguNm": "사상구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%82%AC%EC%83%81%EA%B5%AC%20%EC%82%BC%EB%9D%BD%EB%8F%99%2029-61",
+      "isAd": false,
+      "benefits": [
+        "동백전 (부산화폐)"
+      ]
+    },
+    {
+      "id": 400007,
+      "title": "부산 자갈치 축제",
+      "amount": "온누리상품권 1만원 페이백",
+      "period": "2026.10.08 ~ 2026.10.11",
+      "start": "2026-10-08",
+      "end": "2026-10-11",
+      "type": "행사",
+      "source": "https://tour.busan.go.kr/",
+      "note": "[부산 행정 안내] 부산 자갈치 축제.",
+      "color": "#0064FF",
+      "tags": [
+        "festival"
+      ],
+      "areaCd": 26,
+      "areaNm": "부산",
+      "sigunguCd": 26110,
+      "sigunguNm": "중구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%A4%91%EA%B5%AC%20%EC%9E%90%EA%B0%88%EC%B9%98%ED%95%B4%EC%95%88%EB%A1%9C%2052",
+      "isAd": false,
+      "benefits": [
+        "동백전 (부산화폐)"
+      ]
+    },
+    {
+      "id": 400008,
+      "title": "부산 해운대 모래축제",
+      "amount": "모래 조각 체험 무료 개방",
+      "period": "2026.05.22 ~ 2026.05.25",
+      "start": "2026-05-22",
+      "end": "2026-05-25",
+      "type": "행사",
+      "source": "https://tour.busan.go.kr/",
+      "note": "[부산 행정 안내] 부산 해운대 모래축제.",
+      "color": "#0064FF",
+      "tags": [
+        "festival"
+      ],
+      "areaCd": 26,
+      "areaNm": "부산",
+      "sigunguCd": 26350,
+      "sigunguNm": "해운대구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%20%ED%95%B4%EC%9A%B4%EB%8C%80%EA%B5%AC%20%EC%9A%B0%EB%8F%99",
+      "isAd": false,
+      "benefits": [
+        "동백전 (부산화폐)"
+      ]
+    },
+    {
+      "id": 400009,
+      "title": "서울 장미 축제",
+      "amount": "장미 터널 및 사진 촬영 무료",
+      "period": "2026.05.15 ~ 2026.05.24",
+      "start": "2026-05-15",
+      "end": "2026-05-24",
+      "type": "행사",
+      "source": "https://culture.seoul.go.kr/",
+      "note": "[서울 행정 안내] 서울 장미 축제.",
+      "color": "#0064FF",
+      "tags": [
+        "free",
+        "festival"
+      ],
+      "areaCd": 11,
+      "areaNm": "서울",
+      "sigunguCd": 11260,
+      "sigunguNm": "중랑구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%A4%91%EB%9E%91%EA%B5%AC%20%EB%AC%B5%EB%8F%99%20375",
+      "isAd": false,
+      "benefits": [
+        "서울사랑상품권"
+      ]
+    },
+    {
+      "id": 400010,
+      "title": "서울 신촌 물총 축제",
+      "amount": "참가 패키지 선착순 무료 지원",
+      "period": "2026.07.25 ~ 2026.07.26",
+      "start": "2026-07-25",
+      "end": "2026-07-26",
+      "type": "행사",
+      "source": "https://culture.seoul.go.kr/",
+      "note": "[서울 행정 안내] 서울 신촌 물총 축제.",
+      "color": "#34C759",
+      "tags": [
+        "water",
+        "free"
+      ],
+      "areaCd": 11,
+      "areaNm": "서울",
+      "sigunguCd": 11410,
+      "sigunguNm": "서대문구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%84%9C%EB%8C%80%EB%AC%B8%EA%B5%AC%20%EC%B0%BD%EC%B2%9C%EB%8F%99%20%EC%8B%A0%EC%B4%8C%EB%A1%9C%ED%84%B0%EB%A6%AC",
+      "isAd": false,
+      "benefits": [
+        "서울사랑상품권"
+      ]
+    },
+    {
+      "id": 400011,
+      "title": "서울 여의도 봄꽃축제",
+      "amount": "여의서로 차없는 거리 무료 개방",
+      "period": "2026.04.05 ~ 2026.04.10",
+      "start": "2026-04-05",
+      "end": "2026-04-10",
+      "type": "행사",
+      "source": "https://culture.seoul.go.kr/",
+      "note": "[서울 행정 안내] 서울 여의도 봄꽃축제.",
+      "color": "#0064FF",
+      "tags": [
+        "free",
+        "festival"
+      ],
+      "areaCd": 11,
+      "areaNm": "서울",
+      "sigunguCd": 11560,
+      "sigunguNm": "영등포구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%EC%97%AC%EC%9D%98%EC%84%9C%EB%A1%9C",
+      "isAd": false,
+      "benefits": [
+        "서울사랑상품권"
+      ]
+    },
+    {
+      "id": 400012,
+      "title": "강릉 단오제",
+      "amount": "수리취떡 맛보기 무료 제공",
+      "period": "2026.06.14 ~ 2026.06.21",
+      "start": "2026-06-14",
+      "end": "2026-06-21",
+      "type": "행사",
+      "source": "https://www.danojefestival.or.kr/",
+      "note": "[강원 행정 안내] 강릉 단오제.",
+      "color": "#0064FF",
+      "tags": [
+        "festival"
+      ],
+      "areaCd": 51,
+      "areaNm": "강원",
+      "sigunguCd": 51150,
+      "sigunguNm": "강릉시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EA%B0%95%EB%A6%89%EC%8B%9C%20%EB%8B%A8%EC%98%A4%EC%9E%A5%EA%B8%B8%201",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 400013,
+      "title": "화천 산천어 축제",
+      "amount": "농특산물 교환권 5,000원권",
+      "period": "2026.12.20 ~ 2026.12.31",
+      "start": "2026-12-20",
+      "end": "2026-12-31",
+      "type": "행사",
+      "source": "https://www.narafestival.com/",
+      "note": "[강원 행정 안내] 화천 산천어 축제.",
+      "color": "#0064FF",
+      "tags": [
+        "eco"
+      ],
+      "areaCd": 51,
+      "areaNm": "강원",
+      "sigunguCd": 51790,
+      "sigunguNm": "화천군",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%ED%99%94%EC%B2%9C%EA%B5%B0%20%ED%99%94%EC%B2%9C%EC%9D%8D",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 400014,
+      "title": "태백산 눈축제",
+      "amount": "얼음 조각전 특별전 전면 무료",
+      "period": "2026.12.24 ~ 2026.12.31",
+      "start": "2026-12-24",
+      "end": "2026-12-31",
+      "type": "행사",
+      "source": "https://www.taebaek.go.kr/portal/main.do",
+      "note": "[강원 행정 안내] 태백산 눈축제.",
+      "color": "#0064FF",
+      "tags": [
+        "eco"
+      ],
+      "areaCd": 51,
+      "areaNm": "강원",
+      "sigunguCd": 51190,
+      "sigunguNm": "태백시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%ED%83%9C%EB%B0%B1%EC%8B%9C%20%EC%B2%9C%EC%A0%9C%EB%8B%A8%EA%B8%B8%20162",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 400015,
+      "title": "서울 뚝섬 한강공원 야외수영장 개장",
+      "amount": "다자녀·장애인 이용 요금 50% 감면",
+      "period": "2026.06.25 ~ 2026.08.31",
+      "start": "2026-06-25",
+      "end": "2026-08-31",
+      "type": "행사",
+      "source": "https://hangang.seoul.go.kr/",
+      "note": "[서울 행정 안내] 서울 뚝섬 한강공원 야외수영장 개장.",
+      "color": "#34C759",
+      "tags": [
+        "water",
+        "free"
+      ],
+      "areaCd": 11,
+      "areaNm": "서울",
+      "sigunguCd": 11215,
+      "sigunguNm": "광진구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B4%91%EC%A7%84%EA%B5%AC%20%EC%9E%90%EC%96%91%EB%8F%99%20112",
+      "isAd": false,
+      "benefits": [
+        "서울사랑상품권"
+      ]
+    },
+    {
+      "id": 400016,
+      "title": "용인시 수지체육공원 어린이 물놀이터",
+      "amount": "입장 요금 및 물놀이 전액 무료",
+      "period": "2026.07.01 ~ 2026.08.25",
+      "start": "2026-07-01",
+      "end": "2026-08-25",
+      "type": "행사",
+      "source": "https://www.yongin.go.kr/",
+      "note": "[경기 행정 안내] 용인시 수지체육공원 어린이 물놀이터.",
+      "color": "#34C759",
+      "tags": [
+        "water",
+        "free"
+      ],
+      "areaCd": 41,
+      "areaNm": "경기",
+      "sigunguCd": 41460,
+      "sigunguNm": "용인시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%9A%A9%EC%9D%B8%EC%8B%9C%20%EC%88%98%EC%A7%80%EA%B5%AC%20%ED%8F%AC%EC%9D%80%EB%8C%80%EB%A1%9C%20435",
+      "isAd": false,
+      "benefits": [
+        "경기지역화폐"
+      ]
+    },
+    {
+      "id": 400017,
+      "title": "강릉 경포대 해수욕장 야외 분수 광장",
+      "amount": "야간 음악 분수 무료 공연",
+      "period": "2026.07.10 ~ 2026.08.20",
+      "start": "2026-07-10",
+      "end": "2026-08-20",
+      "type": "행사",
+      "source": "https://tour.gwd.go.kr/",
+      "note": "[강원 행정 안내] 강릉 경포대 해수욕장 야외 분수 광장.",
+      "color": "#34C759",
+      "tags": [
+        "water",
+        "free"
+      ],
+      "areaCd": 51,
+      "areaNm": "강원",
+      "sigunguCd": 51150,
+      "sigunguNm": "강릉시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EA%B0%95%EB%A6%89%EC%8B%9C%20%EC%95%88%ED%98%84%EB%8F%99%20%EC%82%B01",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 400018,
+      "title": "부산 다대포 낙조 분수대 야간 가동",
+      "amount": "해변 낙조 음악분수 전면 무료",
+      "period": "2026.06.25 ~ 2026.09.30",
+      "start": "2026-06-25",
+      "end": "2026-09-30",
+      "type": "행사",
+      "source": "https://tour.busan.go.kr/",
+      "note": "[부산 행정 안내] 부산 다대포 낙조 분수대 야간 가동.",
+      "color": "#34C759",
+      "tags": [
+        "water",
+        "free"
+      ],
+      "areaCd": 26,
+      "areaNm": "부산",
+      "sigunguCd": 26380,
+      "sigunguNm": "사하구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%82%AC%ED%95%98%EA%B5%AC%20%EB%8B%A4%EB%8C%80%EB%8F%99%2011-1",
+      "isAd": false,
+      "benefits": [
+        "동백전 (부산화폐)"
+      ]
+    },
+    {
+      "id": 400019,
+      "title": "인천 센트럴파크 해수족욕탕",
+      "amount": "해수 족욕 및 쉼터 상시 무료 개방",
+      "period": "2026.07.01 ~ 2026.08.31",
+      "start": "2026-07-01",
+      "end": "2026-08-31",
+      "type": "행사",
+      "source": "https://www.incheon.go.kr/",
+      "note": "[인천 행정 안내] 인천 센트럴파크 해수족욕탕.",
+      "color": "#34C759",
+      "tags": [
+        "water",
+        "free"
+      ],
+      "areaCd": 28,
+      "areaNm": "인천",
+      "sigunguCd": 28185,
+      "sigunguNm": "연수구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%97%B0%EC%88%98%EA%B5%AC%20%EC%86%A1%EB%8F%84%EB%8F%99%2024-5",
+      "isAd": false,
+      "benefits": [
+        "인천사랑상품권 (인천e음)"
+      ]
+    },
+    {
+      "id": 1000000,
+      "title": "[대학로] 대표 코미디 연극 &lt;오백에 삼십&gt;",
+      "amount": "",
+      "period": "2015.11.21 ~ 2026.12.31",
+      "start": "2015-11-21",
+      "end": "2026-12-31",
+      "type": "공연",
+      "source": "https://www.culture.go.kr/",
+      "note": "[서울 문화 알림] [대학로] 대표 코미디 연극 &lt;오백에 삼십&gt;. 장소: JTN아트홀. 분야: 연극",
+      "color": "#FF9500",
+      "tags": [
+        "culture",
+        "theater"
+      ],
+      "areaCd": 11,
+      "areaNm": "서울",
+      "sigunguCd": 11110,
+      "sigunguNm": "종로구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=JTN%EC%95%84%ED%8A%B8%ED%99%80",
+      "isAd": false,
+      "benefits": [
+        "서울사랑상품권"
+      ]
+    },
+    {
+      "id": 1000001,
+      "title": "[온라인 특별전] 막걸리, 거친 일상의 벗",
+      "amount": "",
+      "period": "2020.12.24 ~ 2030.12.31",
+      "start": "2020-12-24",
+      "end": "2030-12-31",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[서울 문화 알림] [온라인 특별전] 막걸리, 거친 일상의 벗. 장소: 국립민속박물관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 11,
+      "areaNm": "서울",
+      "sigunguCd": 11110,
+      "sigunguNm": "종로구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B5%AD%EB%A6%BD%EB%AF%BC%EC%86%8D%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "isAd": false,
+      "benefits": [
+        "서울사랑상품권"
+      ]
+    },
+    {
+      "id": 1000002,
+      "title": "늘근도둑이야기",
+      "amount": "",
+      "period": "2022.03.05 ~ 2026.12.31",
+      "start": "2022-03-05",
+      "end": "2026-12-31",
+      "type": "공연",
+      "source": "https://www.culture.go.kr/",
+      "note": "[서울 문화 알림] 늘근도둑이야기. 장소: 아트포레스트 1관. 분야: 연극",
+      "color": "#FF9500",
+      "tags": [
+        "culture",
+        "theater"
+      ],
+      "areaCd": 11,
+      "areaNm": "서울",
+      "sigunguCd": 11110,
+      "sigunguNm": "종로구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%95%84%ED%8A%B8%ED%8F%AC%EB%A0%88%EC%8A%A4%ED%8A%B8%201%EA%B4%80",
+      "isAd": false,
+      "benefits": [
+        "서울사랑상품권"
+      ]
+    },
+    {
+      "id": 1000003,
+      "title": "그리스가 로마에게, 로마가 그리스에게",
+      "amount": "",
+      "period": "2023.06.15 ~ 2027.05.30",
+      "start": "2023-06-15",
+      "end": "2027-05-30",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[서울 문화 알림] 그리스가 로마에게, 로마가 그리스에게. 장소: 국립중앙박물관 대강당. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 11,
+      "areaNm": "서울",
+      "sigunguCd": 11170,
+      "sigunguNm": "용산구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B5%AD%EB%A6%BD%EC%A4%91%EC%95%99%EB%B0%95%EB%AC%BC%EA%B4%80%20%EB%8C%80%EA%B0%95%EB%8B%B9",
+      "isAd": false,
+      "benefits": [
+        "서울사랑상품권"
+      ]
+    },
+    {
+      "id": 1000004,
+      "title": "국립중앙박물관 기증관 재개관",
+      "amount": "",
+      "period": "2024.01.12 ~ 2026.12.31",
+      "start": "2024-01-12",
+      "end": "2026-12-31",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[서울 문화 알림] 국립중앙박물관 기증관 재개관. 장소: 국립중앙박물관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 11,
+      "areaNm": "서울",
+      "sigunguCd": 11170,
+      "sigunguNm": "용산구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B5%AD%EB%A6%BD%EC%A4%91%EC%95%99%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "isAd": false,
+      "benefits": [
+        "서울사랑상품권"
+      ]
+    },
+    {
+      "id": 1000005,
+      "title": "코믹 마샬아츠 퍼포먼스 점프",
+      "amount": "",
+      "period": "2024.11.01 ~ 2028.12.31",
+      "start": "2024-11-01",
+      "end": "2028-12-31",
+      "type": "공연",
+      "source": "https://www.culture.go.kr/",
+      "note": "[서울 문화 알림] 코믹 마샬아츠 퍼포먼스 점프. 장소: 명보아트홀 가온홀. 분야: 뮤지컬/오페라",
+      "color": "#FF9500",
+      "tags": [
+        "culture",
+        "theater"
+      ],
+      "areaCd": 11,
+      "areaNm": "서울",
+      "sigunguCd": 11140,
+      "sigunguNm": "중구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%AA%85%EB%B3%B4%EC%95%84%ED%8A%B8%ED%99%80%20%EA%B0%80%EC%98%A8%ED%99%80",
+      "isAd": false,
+      "benefits": [
+        "서울사랑상품권"
+      ]
+    },
+    {
+      "id": 1000006,
+      "title": "[상설] 외규장각 의궤실 공개",
+      "amount": "",
+      "period": "2024.11.15 ~ 2027.12.31",
+      "start": "2024-11-15",
+      "end": "2027-12-31",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[서울 문화 알림] [상설] 외규장각 의궤실 공개. 장소: 국립중앙박물관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 11,
+      "areaNm": "서울",
+      "sigunguCd": 11170,
+      "sigunguNm": "용산구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B5%AD%EB%A6%BD%EC%A4%91%EC%95%99%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "isAd": false,
+      "benefits": [
+        "서울사랑상품권"
+      ]
+    },
+    {
+      "id": 1000007,
+      "title": "어린이박물관 새단장 &lt;알기 덜기 잇기 문화유산 속 마음&gt;",
+      "amount": "",
+      "period": "2024.11.19 ~ 2027.12.31",
+      "start": "2024-11-19",
+      "end": "2027-12-31",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[서울 문화 알림] 어린이박물관 새단장 &lt;알기 덜기 잇기 문화유산 속 마음&gt;. 장소: 국립중앙박물관 어린이박물관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 11,
+      "areaNm": "서울",
+      "sigunguCd": 11170,
+      "sigunguNm": "용산구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B5%AD%EB%A6%BD%EC%A4%91%EC%95%99%EB%B0%95%EB%AC%BC%EA%B4%80%20%EC%96%B4%EB%A6%B0%EC%9D%B4%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "isAd": false,
+      "benefits": [
+        "서울사랑상품권"
+      ]
+    },
+    {
+      "id": 1000008,
+      "title": "연극 행오버",
+      "amount": "",
+      "period": "2025.01.01 ~ 2026.12.31",
+      "start": "2025-01-01",
+      "end": "2026-12-31",
+      "type": "공연",
+      "source": "https://www.culture.go.kr/",
+      "note": "[서울 문화 알림] 연극 행오버. 장소: 정극장 (구. M시어터, 구.하모니아트홀). 분야: 연극",
+      "color": "#FF9500",
+      "tags": [
+        "culture",
+        "theater"
+      ],
+      "areaCd": 11,
+      "areaNm": "서울",
+      "sigunguCd": 11110,
+      "sigunguNm": "종로구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%95%EA%B7%B9%EC%9E%A5%20%28%EA%B5%AC.%20M%EC%8B%9C%EC%96%B4%ED%84%B0%2C%20%EA%B5%AC.%ED%95%98%EB%AA%A8%EB%8B%88%EC%95%84%ED%8A%B8%ED%99%80%29",
+      "isAd": false,
+      "benefits": [
+        "서울사랑상품권"
+      ]
+    },
+    {
+      "id": 1000009,
+      "title": "[홍대] 미스터리 스릴러 연극 &lt;흉터&gt;",
+      "amount": "",
+      "period": "2025.03.01 ~ 2026.12.31",
+      "start": "2025-03-01",
+      "end": "2026-12-31",
+      "type": "공연",
+      "source": "https://www.culture.go.kr/",
+      "note": "[서울 문화 알림] [홍대] 미스터리 스릴러 연극 &lt;흉터&gt;. 장소: 홍대 씨어터 윤. 분야: 연극",
+      "color": "#FF9500",
+      "tags": [
+        "culture",
+        "theater"
+      ],
+      "areaCd": 11,
+      "areaNm": "서울",
+      "sigunguCd": 11440,
+      "sigunguNm": "마포구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%ED%99%8D%EB%8C%80%20%EC%94%A8%EC%96%B4%ED%84%B0%20%EC%9C%A4",
+      "isAd": false,
+      "benefits": [
+        "서울사랑상품권"
+      ]
+    },
+    {
+      "id": 1000010,
+      "title": "영종 역사문화 체험존",
+      "amount": "",
+      "period": "2023.12.08 ~ 2033.12.31",
+      "start": "2023-12-08",
+      "end": "2033-12-31",
+      "type": "교육/체험",
+      "source": "https://www.culture.go.kr/",
+      "note": "[인천 문화 알림] 영종 역사문화 체험존. 장소: 아트허브 온라인 갤러리(ARTHUB Online Gallery). 분야: 교육/체험",
+      "color": "#FF2D55",
+      "tags": [
+        "culture",
+        "education"
+      ],
+      "areaCd": 28,
+      "areaNm": "인천",
+      "sigunguCd": 28110,
+      "sigunguNm": "중구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%95%84%ED%8A%B8%ED%97%88%EB%B8%8C%20%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EA%B0%A4%EB%9F%AC%EB%A6%AC%28ARTHUB%20Online%20Gallery%29",
+      "isAd": false,
+      "benefits": [
+        "인천사랑상품권 (인천e음)"
+      ]
+    },
+    {
+      "id": 1000011,
+      "title": "2025년 짜장면박물관 특별기획전 &#39;두 개의 시선, 하나의 거리&#39;",
+      "amount": "",
+      "period": "2025.09.26 ~ 2030.05.01",
+      "start": "2025-09-26",
+      "end": "2030-05-01",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[인천 문화 알림] 2025년 짜장면박물관 특별기획전 &#39;두 개의 시선, 하나의 거리&#39;. 장소: 짜장면박물관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 28,
+      "areaNm": "인천",
+      "sigunguCd": 28110,
+      "sigunguNm": "중구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A7%9C%EC%9E%A5%EB%A9%B4%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "isAd": false,
+      "benefits": [
+        "인천사랑상품권 (인천e음)"
+      ]
+    },
+    {
+      "id": 1000012,
+      "title": "한상민의 매직쇼",
+      "amount": "",
+      "period": "2026.02.07 ~ 2026.12.27",
+      "start": "2026-02-07",
+      "end": "2026-12-27",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[인천 문화 알림] 한상민의 매직쇼. 장소: 루시드아트홀. 분야: 기타",
+      "color": "#5AC8FA",
+      "tags": [
+        "culture"
+      ],
+      "areaCd": 28,
+      "areaNm": "인천",
+      "sigunguCd": 28200,
+      "sigunguNm": "남동구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%A3%A8%EC%8B%9C%EB%93%9C%EC%95%84%ED%8A%B8%ED%99%80",
+      "isAd": false,
+      "benefits": [
+        "인천사랑상품권 (인천e음)"
+      ]
+    },
+    {
+      "id": 1000013,
+      "title": "2026 학교연계 프로그램 &lt;구석구석 만나는 IAP 탐험대&gt;",
+      "amount": "",
+      "period": "2026.03.12 ~ 2026.12.31",
+      "start": "2026-03-12",
+      "end": "2026-12-31",
+      "type": "교육/체험",
+      "source": "https://www.culture.go.kr/",
+      "note": "[인천 문화 알림] 2026 학교연계 프로그램 &lt;구석구석 만나는 IAP 탐험대&gt;. 장소: 전국. 분야: 교육/체험",
+      "color": "#FF2D55",
+      "tags": [
+        "culture",
+        "education"
+      ],
+      "areaCd": 28,
+      "areaNm": "인천",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EA%B5%AD",
+      "isAd": false,
+      "benefits": [
+        "인천사랑상품권 (인천e음)"
+      ]
+    },
+    {
+      "id": 1000014,
+      "title": "[송도] 마술집",
+      "amount": "",
+      "period": "2026.03.27 ~ 2026.12.25",
+      "start": "2026-03-27",
+      "end": "2026-12-25",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[인천 문화 알림] [송도] 마술집. 장소: 카페와안. 분야: 기타",
+      "color": "#5AC8FA",
+      "tags": [
+        "culture"
+      ],
+      "areaCd": 28,
+      "areaNm": "인천",
+      "sigunguCd": 28185,
+      "sigunguNm": "연수구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%B9%B4%ED%8E%98%EC%99%80%EC%95%88",
+      "isAd": false,
+      "benefits": [
+        "인천사랑상품권 (인천e음)"
+      ]
+    },
+    {
+      "id": 1000015,
+      "title": "2026년 수봉 ART:LAB - AI부터 사진, 어반스케치까지! 나도 아트 크리에이터!",
+      "amount": "",
+      "period": "2026.07.18 ~ 2026.11.26",
+      "start": "2026-07-18",
+      "end": "2026-11-26",
+      "type": "교육/체험",
+      "source": "https://www.culture.go.kr/",
+      "note": "[인천 문화 알림] 2026년 수봉 ART:LAB - AI부터 사진, 어반스케치까지! 나도 아트 크리에이터!. 장소: 전국. 분야: 교육/체험",
+      "color": "#FF2D55",
+      "tags": [
+        "culture",
+        "education"
+      ],
+      "areaCd": 28,
+      "areaNm": "인천",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EA%B5%AD",
+      "isAd": false,
+      "benefits": [
+        "인천사랑상품권 (인천e음)"
+      ]
+    },
+    {
+      "id": 1000016,
+      "title": "2026년 특별전 &#39;나뭇결에 담긴 장인의 숨결&#39;",
+      "amount": "",
+      "period": "2026.07.28 ~ 2026.11.15",
+      "start": "2026-07-28",
+      "end": "2026-11-15",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[인천 문화 알림] 2026년 특별전 &#39;나뭇결에 담긴 장인의 숨결&#39;. 장소: 송암미술관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 28,
+      "areaNm": "인천",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%86%A1%EC%95%94%EB%AF%B8%EC%88%A0%EA%B4%80",
+      "isAd": false,
+      "benefits": [
+        "인천사랑상품권 (인천e음)"
+      ]
+    },
+    {
+      "id": 1000017,
+      "title": "2026 부평 특성화 문화예술교육 &lt;예술교육랩&gt; 참여자 모집",
+      "amount": "",
+      "period": "2026.09.12 ~ 2026.10.31",
+      "start": "2026-09-12",
+      "end": "2026-10-31",
+      "type": "교육/체험",
+      "source": "https://www.culture.go.kr/",
+      "note": "[인천 문화 알림] 2026 부평 특성화 문화예술교육 &lt;예술교육랩&gt; 참여자 모집. 장소: 전국. 분야: 교육/체험",
+      "color": "#FF2D55",
+      "tags": [
+        "culture",
+        "education"
+      ],
+      "areaCd": 28,
+      "areaNm": "인천",
+      "sigunguCd": 28237,
+      "sigunguNm": "부평구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EA%B5%AD",
+      "isAd": false,
+      "benefits": [
+        "인천사랑상품권 (인천e음)"
+      ]
+    },
+    {
+      "id": 1000018,
+      "title": "2026년도 특별기획전시 「알고 보니 문화유산?!」",
+      "amount": "",
+      "period": "2026.09.15 ~ 2027.08.22",
+      "start": "2026-09-15",
+      "end": "2027-08-22",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[인천 문화 알림] 2026년도 특별기획전시 「알고 보니 문화유산?!」. 장소: 부평역사박물관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 28,
+      "areaNm": "인천",
+      "sigunguCd": 28237,
+      "sigunguNm": "부평구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%B6%80%ED%8F%89%EC%97%AD%EC%82%AC%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "isAd": false,
+      "benefits": [
+        "인천사랑상품권 (인천e음)"
+      ]
+    },
+    {
+      "id": 1000019,
+      "title": "&lt;낙원에 갇힌 날들, 하와이 포로수용소 한인 포로의 기록&gt;",
+      "amount": "",
+      "period": "2026.09.22 ~ 2027.02.21",
+      "start": "2026-09-22",
+      "end": "2027-02-21",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[인천 문화 알림] &lt;낙원에 갇힌 날들, 하와이 포로수용소 한인 포로의 기록&gt;. 장소: 한국이민사박물관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 28,
+      "areaNm": "인천",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%ED%95%9C%EA%B5%AD%EC%9D%B4%EB%AF%BC%EC%82%AC%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "isAd": false,
+      "benefits": [
+        "인천사랑상품권 (인천e음)"
+      ]
+    },
+    {
+      "id": 1000020,
+      "title": "2026 소장품 상설전 《시대와 함께한 예술가, 이응노》",
+      "amount": "",
+      "period": "2026.01.16 ~ 2026.12.25",
+      "start": "2026-01-16",
+      "end": "2026-12-25",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[대전 문화 알림] 2026 소장품 상설전 《시대와 함께한 예술가, 이응노》. 장소: 대전 이응노미술관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 30,
+      "areaNm": "대전",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%8C%80%EC%A0%84%20%EC%9D%B4%EC%9D%91%EB%85%B8%EB%AF%B8%EC%88%A0%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000021,
+      "title": "열린수장고 상설전 《DMA 소장품 하이라이트 2026》",
+      "amount": "",
+      "period": "2026.03.03 ~ 2026.12.13",
+      "start": "2026-03-03",
+      "end": "2026-12-13",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[대전 문화 알림] 열린수장고 상설전 《DMA 소장품 하이라이트 2026》. 장소: 대전시립미술관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 30,
+      "areaNm": "대전",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%8C%80%EC%A0%84%EC%8B%9C%EB%A6%BD%EB%AF%B8%EC%88%A0%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000022,
+      "title": "2026년 가곡클래스 수강생 모집 (ICA한국예술문화원)",
+      "amount": "",
+      "period": "2026.04.03 ~ 2026.12.25",
+      "start": "2026-04-03",
+      "end": "2026-12-25",
+      "type": "교육/체험",
+      "source": "https://www.culture.go.kr/",
+      "note": "[대전 문화 알림] 2026년 가곡클래스 수강생 모집 (ICA한국예술문화원). 장소: 전국. 분야: 교육/체험",
+      "color": "#FF2D55",
+      "tags": [
+        "culture",
+        "education"
+      ],
+      "areaCd": 30,
+      "areaNm": "대전",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EA%B5%AD",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000023,
+      "title": "[대전] 세심굿: 응공이 이야기",
+      "amount": "",
+      "period": "2026.04.19 ~ 2026.12.19",
+      "start": "2026-04-19",
+      "end": "2026-12-19",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[대전 문화 알림] [대전] 세심굿: 응공이 이야기. 장소: 별별마당 우금치 관용극장. 분야: 음악/콘서트",
+      "color": "#5AC8FA",
+      "tags": [
+        "culture"
+      ],
+      "areaCd": 30,
+      "areaNm": "대전",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%B3%84%EB%B3%84%EB%A7%88%EB%8B%B9%20%EC%9A%B0%EA%B8%88%EC%B9%98%20%EA%B4%80%EC%9A%A9%EA%B7%B9%EC%9E%A5",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000024,
+      "title": "대전광역시 서예진흥원 &lt;2026 전통서예교육프로그램-한글&gt;",
+      "amount": "",
+      "period": "2026.08.27 ~ 2026.12.10",
+      "start": "2026-08-27",
+      "end": "2026-12-10",
+      "type": "교육/체험",
+      "source": "https://www.culture.go.kr/",
+      "note": "[대전 문화 알림] 대전광역시 서예진흥원 &lt;2026 전통서예교육프로그램-한글&gt;. 장소: 전국. 분야: 교육/체험",
+      "color": "#FF2D55",
+      "tags": [
+        "culture",
+        "education"
+      ],
+      "areaCd": 30,
+      "areaNm": "대전",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EA%B5%AD",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000025,
+      "title": "대전광역시 서예진흥원 &lt;2026 제4기 서예교육 전문인력 양성과정&gt;",
+      "amount": "",
+      "period": "2026.09.01 ~ 2027.01.26",
+      "start": "2026-09-01",
+      "end": "2027-01-26",
+      "type": "교육/체험",
+      "source": "https://www.culture.go.kr/",
+      "note": "[대전 문화 알림] 대전광역시 서예진흥원 &lt;2026 제4기 서예교육 전문인력 양성과정&gt;. 장소: 전국. 분야: 교육/체험",
+      "color": "#FF2D55",
+      "tags": [
+        "culture",
+        "education"
+      ],
+      "areaCd": 30,
+      "areaNm": "대전",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EA%B5%AD",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000026,
+      "title": "하반기 열린수장고 소장품 기획전 《풀의 시간》",
+      "amount": "",
+      "period": "2026.09.08 ~ 2026.12.20",
+      "start": "2026-09-08",
+      "end": "2026-12-20",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[대전 문화 알림] 하반기 열린수장고 소장품 기획전 《풀의 시간》. 장소: 대전시립미술관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 30,
+      "areaNm": "대전",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%8C%80%EC%A0%84%EC%8B%9C%EB%A6%BD%EB%AF%B8%EC%88%A0%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000027,
+      "title": "2026년 다섯 번째 박물관 속 작은 전시_송자대전판",
+      "amount": "",
+      "period": "2026.09.30 ~ 2026.11.24",
+      "start": "2026-09-30",
+      "end": "2026-11-24",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[대전 문화 알림] 2026년 다섯 번째 박물관 속 작은 전시_송자대전판. 장소: 대전시립박물관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 30,
+      "areaNm": "대전",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%8C%80%EC%A0%84%EC%8B%9C%EB%A6%BD%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000028,
+      "title": "제23회 이동훈미술상 본상 수상작가전: 임송자",
+      "amount": "",
+      "period": "2026.10.01 ~ 2026.11.22",
+      "start": "2026-10-01",
+      "end": "2026-11-22",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[대전 문화 알림] 제23회 이동훈미술상 본상 수상작가전: 임송자. 장소: 대전시립미술관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 30,
+      "areaNm": "대전",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%8C%80%EC%A0%84%EC%8B%9C%EB%A6%BD%EB%AF%B8%EC%88%A0%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000029,
+      "title": "[대전] 어쩌다보니",
+      "amount": "",
+      "period": "2026.10.02 ~ 2026.11.08",
+      "start": "2026-10-02",
+      "end": "2026-11-08",
+      "type": "공연",
+      "source": "https://www.culture.go.kr/",
+      "note": "[대전 문화 알림] [대전] 어쩌다보니. 장소: 작은극장 다함. 분야: 연극",
+      "color": "#FF9500",
+      "tags": [
+        "culture",
+        "theater"
+      ],
+      "areaCd": 30,
+      "areaNm": "대전",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%9E%91%EC%9D%80%EA%B7%B9%EC%9E%A5%20%EB%8B%A4%ED%95%A8",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000030,
+      "title": "대구 근대 회화의 흐름",
+      "amount": "",
+      "period": "2025.01.14 ~ 2028.02.29",
+      "start": "2025-01-14",
+      "end": "2028-02-29",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[대구 문화 알림] 대구 근대 회화의 흐름. 장소: 대구미술관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 27,
+      "areaNm": "대구",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%8C%80%EA%B5%AC%EB%AF%B8%EC%88%A0%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000031,
+      "title": "'Invisible Actors'",
+      "amount": "",
+      "period": "2025.12.09 ~ 2026.12.10",
+      "start": "2025-12-09",
+      "end": "2026-12-10",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[대구 문화 알림] 'Invisible Actors'. 장소: 갤러리 팔조. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 27,
+      "areaNm": "대구",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B0%A4%EB%9F%AC%EB%A6%AC%20%ED%8C%94%EC%A1%B0",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000032,
+      "title": "국립대구박물관 문화유산 그림단추",
+      "amount": "",
+      "period": "2026.01.03 ~ 2026.12.31",
+      "start": "2026-01-03",
+      "end": "2026-12-31",
+      "type": "교육/체험",
+      "source": "https://www.culture.go.kr/",
+      "note": "[대구 문화 알림] 국립대구박물관 문화유산 그림단추. 장소: 전국. 분야: 교육/체험",
+      "color": "#FF2D55",
+      "tags": [
+        "culture",
+        "education"
+      ],
+      "areaCd": 27,
+      "areaNm": "대구",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EA%B5%AD",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000033,
+      "title": "2026년 수제화 아카데미",
+      "amount": "",
+      "period": "2026.04.21 ~ 2026.12.04",
+      "start": "2026-04-21",
+      "end": "2026-12-04",
+      "type": "교육/체험",
+      "source": "https://www.culture.go.kr/",
+      "note": "[대구 문화 알림] 2026년 수제화 아카데미. 장소: 전국. 분야: 교육/체험",
+      "color": "#FF2D55",
+      "tags": [
+        "culture",
+        "education"
+      ],
+      "areaCd": 27,
+      "areaNm": "대구",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EA%B5%AD",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000034,
+      "title": "대구미술관 교육형 전시 《고양이도 임금을 볼 수 있다》",
+      "amount": "",
+      "period": "2026.05.01 ~ 2026.11.29",
+      "start": "2026-05-01",
+      "end": "2026-11-29",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[대구 문화 알림] 대구미술관 교육형 전시 《고양이도 임금을 볼 수 있다》. 장소: 대구미술관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 27,
+      "areaNm": "대구",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%8C%80%EA%B5%AC%EB%AF%B8%EC%88%A0%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000035,
+      "title": "2026년 방짜유기박물관 &lsquo;팔공산 선비의 멋, 공산의 구곡&rsquo;",
+      "amount": "",
+      "period": "2026.05.27 ~ 2026.11.22",
+      "start": "2026-05-27",
+      "end": "2026-11-22",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[대구 문화 알림] 2026년 방짜유기박물관 &lsquo;팔공산 선비의 멋, 공산의 구곡&rsquo;. 장소: 대구방짜유기박물관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 27,
+      "areaNm": "대구",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%8C%80%EA%B5%AC%EB%B0%A9%EC%A7%9C%EC%9C%A0%EA%B8%B0%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000036,
+      "title": "왕영미 개인전 《Sunflower Codes》",
+      "amount": "",
+      "period": "2026.07.01 ~ 2026.12.31",
+      "start": "2026-07-01",
+      "end": "2026-12-31",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[대구 문화 알림] 왕영미 개인전 《Sunflower Codes》. 장소: 루나아틀리에. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 27,
+      "areaNm": "대구",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%A3%A8%EB%82%98%EC%95%84%ED%8B%80%EB%A6%AC%EC%97%90",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000037,
+      "title": "[대구] 지브리 하우스 콘서트: 바다와 함께하는 여름",
+      "amount": "",
+      "period": "2026.07.14 ~ 2026.10.27",
+      "start": "2026-07-14",
+      "end": "2026-10-27",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[대구 문화 알림] [대구] 지브리 하우스 콘서트: 바다와 함께하는 여름. 장소: 어연히하우스. 분야: 음악/콘서트",
+      "color": "#5AC8FA",
+      "tags": [
+        "culture"
+      ],
+      "areaCd": 27,
+      "areaNm": "대구",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%96%B4%EC%97%B0%ED%9E%88%ED%95%98%EC%9A%B0%EC%8A%A4",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000038,
+      "title": "[대구] 뷰티풀라이프",
+      "amount": "",
+      "period": "2026.09.04 ~ 2026.11.15",
+      "start": "2026-09-04",
+      "end": "2026-11-15",
+      "type": "공연",
+      "source": "https://www.culture.go.kr/",
+      "note": "[대구 문화 알림] [대구] 뷰티풀라이프. 장소: 문화예술전용극장CT. 분야: 연극",
+      "color": "#FF9500",
+      "tags": [
+        "culture",
+        "theater"
+      ],
+      "areaCd": 27,
+      "areaNm": "대구",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%A0%84%EC%9A%A9%EA%B7%B9%EC%9E%A5CT",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000039,
+      "title": "Palimpsest : 겹쳐 쓰기",
+      "amount": "",
+      "period": "2026.09.11 ~ 2026.12.02",
+      "start": "2026-09-11",
+      "end": "2026-12-02",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[대구 문화 알림] Palimpsest : 겹쳐 쓰기. 장소: 021갤러리. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 27,
+      "areaNm": "대구",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=021%EA%B0%A4%EB%9F%AC%EB%A6%AC",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000040,
+      "title": "길 위의 노마드: 중앙아시아 이동과 교류의 유산",
+      "amount": "",
+      "period": "2025.11.25 ~ 2027.11.24",
+      "start": "2025-11-25",
+      "end": "2027-11-24",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[광주 문화 알림] 길 위의 노마드: 중앙아시아 이동과 교류의 유산. 장소: 국립아시아문화전당. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 29,
+      "areaNm": "광주",
+      "sigunguCd": 29110,
+      "sigunguNm": "동구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B5%AD%EB%A6%BD%EC%95%84%EC%8B%9C%EC%95%84%EB%AC%B8%ED%99%94%EC%A0%84%EB%8B%B9",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000041,
+      "title": "국립광주박물관 도자문화관 개관",
+      "amount": "",
+      "period": "2025.12.18 ~ 2035.12.31",
+      "start": "2025-12-18",
+      "end": "2035-12-31",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[광주 문화 알림] 국립광주박물관 도자문화관 개관. 장소: 국립광주박물관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 29,
+      "areaNm": "광주",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B5%AD%EB%A6%BD%EA%B4%91%EC%A3%BC%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000042,
+      "title": "제4기 소록도박물관 서포터즈 활동",
+      "amount": "",
+      "period": "2026.04.01 ~ 2026.11.30",
+      "start": "2026-04-01",
+      "end": "2026-11-30",
+      "type": "교육/체험",
+      "source": "https://www.culture.go.kr/",
+      "note": "[광주 문화 알림] 제4기 소록도박물관 서포터즈 활동. 장소: 전국. 분야: 교육/체험",
+      "color": "#FF2D55",
+      "tags": [
+        "culture",
+        "education"
+      ],
+      "areaCd": 29,
+      "areaNm": "광주",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EA%B5%AD",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000043,
+      "title": "2026년 어린이 단체 교육 프로그램 &#39;학교 밖 아시아 여행&#39;",
+      "amount": "",
+      "period": "2026.04.01 ~ 2026.11.27",
+      "start": "2026-04-01",
+      "end": "2026-11-27",
+      "type": "교육/체험",
+      "source": "https://www.culture.go.kr/",
+      "note": "[광주 문화 알림] 2026년 어린이 단체 교육 프로그램 &#39;학교 밖 아시아 여행&#39;. 장소: 전국. 분야: 교육/체험",
+      "color": "#FF2D55",
+      "tags": [
+        "culture",
+        "education"
+      ],
+      "areaCd": 29,
+      "areaNm": "광주",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EA%B5%AD",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000044,
+      "title": "GOOD MORNING MR. PAIK &amp; JUNG - 정기용 컬렉션: 백남준, 존 케이지, 요제프 보이스가 그린 우정의 지도",
+      "amount": "",
+      "period": "2026.04.04 ~ 2027.02.28",
+      "start": "2026-04-04",
+      "end": "2027-02-28",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[전남 문화 알림] GOOD MORNING MR. PAIK &amp; JUNG - 정기용 컬렉션: 백남준, 존 케이지, 요제프 보이스가 그린 우정의 지도. 장소: 전남미술관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 46,
+      "areaNm": "전남",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EB%82%A8%EB%AF%B8%EC%88%A0%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000045,
+      "title": "GCC사관학교 3기 교육생 모집",
+      "amount": "",
+      "period": "2026.04.13 ~ 2026.10.30",
+      "start": "2026-04-13",
+      "end": "2026-10-30",
+      "type": "교육/체험",
+      "source": "https://www.culture.go.kr/",
+      "note": "[광주 문화 알림] GCC사관학교 3기 교육생 모집. 장소: 전국. 분야: 교육/체험",
+      "color": "#FF2D55",
+      "tags": [
+        "culture",
+        "education"
+      ],
+      "areaCd": 29,
+      "areaNm": "광주",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EA%B5%AD",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000046,
+      "title": "속임수에 걸린 꾀보토끼 - 2026 금남로 차 없는 거리 &#39;걷자잉&#39; 연계프로그램",
+      "amount": "",
+      "period": "2026.06.06 ~ 2026.11.07",
+      "start": "2026-06-06",
+      "end": "2026-11-07",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[광주 문화 알림] 속임수에 걸린 꾀보토끼 - 2026 금남로 차 없는 거리 &#39;걷자잉&#39; 연계프로그램. 장소: 공연일번지. 분야: 아동/가족",
+      "color": "#34C759",
+      "tags": [
+        "culture",
+        "family"
+      ],
+      "areaCd": 29,
+      "areaNm": "광주",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B3%B5%EC%97%B0%EC%9D%BC%EB%B2%88%EC%A7%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000047,
+      "title": "모던시대 선비의 안목이 머문 자리 - 일상과 예술의 균형",
+      "amount": "",
+      "period": "2026.06.23 ~ 2026.12.31",
+      "start": "2026-06-23",
+      "end": "2026-12-31",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[광주 문화 알림] 모던시대 선비의 안목이 머문 자리 - 일상과 예술의 균형. 장소: 국립나주박물관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 29,
+      "areaNm": "광주",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B5%AD%EB%A6%BD%EB%82%98%EC%A3%BC%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000048,
+      "title": "해동문화예술촌 기획전시 《우리는 연결될 수밖에 없다》",
+      "amount": "",
+      "period": "2026.07.25 ~ 2026.11.15",
+      "start": "2026-07-25",
+      "end": "2026-11-15",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[광주 문화 알림] 해동문화예술촌 기획전시 《우리는 연결될 수밖에 없다》. 장소: 해동문화예술촌. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 29,
+      "areaNm": "광주",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%ED%95%B4%EB%8F%99%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%B4%8C",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000049,
+      "title": "[대관공연] 캔들라이트 콘서트(8-12월)",
+      "amount": "",
+      "period": "2026.08.01 ~ 2026.12.26",
+      "start": "2026-08-01",
+      "end": "2026-12-26",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[광주 문화 알림] [대관공연] 캔들라이트 콘서트(8-12월). 장소: 국립아시아문화전당 극장2. 분야: 음악/콘서트",
+      "color": "#5AC8FA",
+      "tags": [
+        "culture"
+      ],
+      "areaCd": 29,
+      "areaNm": "광주",
+      "sigunguCd": 29110,
+      "sigunguNm": "동구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B5%AD%EB%A6%BD%EC%95%84%EC%8B%9C%EC%95%84%EB%AC%B8%ED%99%94%EC%A0%84%EB%8B%B9%20%EA%B7%B9%EC%9E%A52",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000050,
+      "title": "2026 미디어아트 프로젝트 &quot;줄리안 오피&quot;",
+      "amount": "",
+      "period": "2026.07.02 ~ 2027.02.28",
+      "start": "2026-07-02",
+      "end": "2027-02-28",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[울산 문화 알림] 2026 미디어아트 프로젝트 &quot;줄리안 오피&quot;. 장소: 울산시립미술관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 31,
+      "areaNm": "울산",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%9A%B8%EC%82%B0%EC%8B%9C%EB%A6%BD%EB%AF%B8%EC%88%A0%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000051,
+      "title": "2026년 특별기획전 &#39;시간 저장소 : 그날의 데이터&#39;",
+      "amount": "",
+      "period": "2026.07.07 ~ 2027.04.25",
+      "start": "2026-07-07",
+      "end": "2027-04-25",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[울산 문화 알림] 2026년 특별기획전 &#39;시간 저장소 : 그날의 데이터&#39;. 장소: 울산암각화박물관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 31,
+      "areaNm": "울산",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%9A%B8%EC%82%B0%EC%95%94%EA%B0%81%ED%99%94%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000052,
+      "title": "최혜원 展 《에헤야자: 도오와, 도오와, 거더러줘라》",
+      "amount": "",
+      "period": "2026.09.05 ~ 2026.11.01",
+      "start": "2026-09-05",
+      "end": "2026-11-01",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[울산 문화 알림] 최혜원 展 《에헤야자: 도오와, 도오와, 거더러줘라》. 장소: 슬도아트. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 31,
+      "areaNm": "울산",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%8A%AC%EB%8F%84%EC%95%84%ED%8A%B8",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000053,
+      "title": "&lsquo;2026 고택종갓집 활용사업&rsquo; 꿈꾸는 고헌고택-가락으로 배우고 공예로 만나는 문화유산",
+      "amount": "",
+      "period": "2026.09.13 ~ 2026.11.15",
+      "start": "2026-09-13",
+      "end": "2026-11-15",
+      "type": "교육/체험",
+      "source": "https://www.culture.go.kr/",
+      "note": "[울산 문화 알림] &lsquo;2026 고택종갓집 활용사업&rsquo; 꿈꾸는 고헌고택-가락으로 배우고 공예로 만나는 문화유산. 장소: 전국. 분야: 교육/체험",
+      "color": "#FF2D55",
+      "tags": [
+        "culture",
+        "education"
+      ],
+      "areaCd": 31,
+      "areaNm": "울산",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EA%B5%AD",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000054,
+      "title": "함께 살아가는 세계",
+      "amount": "",
+      "period": "2026.10.07 ~ 2027.03.07",
+      "start": "2026-10-07",
+      "end": "2027-03-07",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[울산 문화 알림] 함께 살아가는 세계. 장소: 울산시립미술관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 31,
+      "areaNm": "울산",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%9A%B8%EC%82%B0%EC%8B%9C%EB%A6%BD%EB%AF%B8%EC%88%A0%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000055,
+      "title": "2026년 울산박물관 제2차 특별전  〈울산 문화유산〉",
+      "amount": "",
+      "period": "2026.10.13 ~ 2027.01.03",
+      "start": "2026-10-13",
+      "end": "2027-01-03",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[울산 문화 알림] 2026년 울산박물관 제2차 특별전  〈울산 문화유산〉. 장소: 울산박물관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 31,
+      "areaNm": "울산",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%9A%B8%EC%82%B0%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000056,
+      "title": "[우리동네 MG갤러리] 조윤아 작가 《어떤 것은 부서지고, 어떤 것은 고스란히 남아》",
+      "amount": "",
+      "period": "2026.10.15 ~ 2026.11.13",
+      "start": "2026-10-15",
+      "end": "2026-11-13",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[울산 문화 알림] [우리동네 MG갤러리] 조윤아 작가 《어떤 것은 부서지고, 어떤 것은 고스란히 남아》. 장소: MG북울산새마을금고 우리동네 MG갤러리. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 31,
+      "areaNm": "울산",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MG%EB%B6%81%EC%9A%B8%EC%82%B0%EC%83%88%EB%A7%88%EC%9D%84%EA%B8%88%EA%B3%A0%20%EC%9A%B0%EB%A6%AC%EB%8F%99%EB%84%A4%20MG%EA%B0%A4%EB%9F%AC%EB%A6%AC",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000057,
+      "title": "끝내지 못한 이야기-국민화가 이중섭",
+      "amount": "",
+      "period": "2026.10.15 ~ 2027.01.17",
+      "start": "2026-10-15",
+      "end": "2027-01-17",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[울산 문화 알림] 끝내지 못한 이야기-국민화가 이중섭. 장소: 울산시립미술관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 31,
+      "areaNm": "울산",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%9A%B8%EC%82%B0%EC%8B%9C%EB%A6%BD%EB%AF%B8%EC%88%A0%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000058,
+      "title": "[울산] 그대는 봄",
+      "amount": "",
+      "period": "2026.10.23 ~ 2026.10.28",
+      "start": "2026-10-23",
+      "end": "2026-10-28",
+      "type": "공연",
+      "source": "https://www.culture.go.kr/",
+      "note": "[울산 문화 알림] [울산] 그대는 봄. 장소: 아트홀 마당. 분야: 뮤지컬/오페라",
+      "color": "#FF9500",
+      "tags": [
+        "culture",
+        "theater"
+      ],
+      "areaCd": 31,
+      "areaNm": "울산",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%95%84%ED%8A%B8%ED%99%80%20%EB%A7%88%EB%8B%B9",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000059,
+      "title": "[울산] 아트 온 스크린, 오페라 &lt;아디나&gt; (영상화)",
+      "amount": "",
+      "period": "2026.10.27 ~ 2026.10.27",
+      "start": "2026-10-27",
+      "end": "2026-10-27",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[울산 문화 알림] [울산] 아트 온 스크린, 오페라 &lt;아디나&gt; (영상화). 장소: 울산중구문화의전당 함월홀(2층). 분야: 음악/콘서트",
+      "color": "#5AC8FA",
+      "tags": [
+        "culture"
+      ],
+      "areaCd": 31,
+      "areaNm": "울산",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%9A%B8%EC%82%B0%EC%A4%91%EA%B5%AC%EB%AC%B8%ED%99%94%EC%9D%98%EC%A0%84%EB%8B%B9%20%ED%95%A8%EC%9B%94%ED%99%80%282%EC%B8%B5%29",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000060,
+      "title": "[세종] 국립심포니콘서트오케스트라와 함께하는 11시 여민락콘서트, 음악이 있는 오전 2 : 비엔나의 세 개 선율",
+      "amount": "",
+      "period": "2026.10.28 ~ 2026.10.28",
+      "start": "2026-10-28",
+      "end": "2026-10-28",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[서울 문화 알림] [세종] 국립심포니콘서트오케스트라와 함께하는 11시 여민락콘서트, 음악이 있는 오전 2 : 비엔나의 세 개 선율. 장소: 세종예술의전당 대공연장. 분야: 음악/콘서트",
+      "color": "#5AC8FA",
+      "tags": [
+        "culture"
+      ],
+      "areaCd": 11,
+      "areaNm": "서울",
+      "sigunguCd": 11650,
+      "sigunguNm": "서초구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%84%B8%EC%A2%85%EC%98%88%EC%88%A0%EC%9D%98%EC%A0%84%EB%8B%B9%20%EB%8C%80%EA%B3%B5%EC%97%B0%EC%9E%A5",
+      "isAd": false,
+      "benefits": [
+        "서울사랑상품권"
+      ]
+    },
+    {
+      "id": 1000061,
+      "title": "연극 &lt;강아지똥&gt;",
+      "amount": "",
+      "period": "2026.10.31 ~ 2026.10.31",
+      "start": "2026-10-31",
+      "end": "2026-10-31",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[세종 문화 알림] 연극 &lt;강아지똥&gt;. 장소: 세종문화예술회관. 분야: 아동/가족",
+      "color": "#34C759",
+      "tags": [
+        "culture",
+        "family"
+      ],
+      "areaCd": 36,
+      "areaNm": "세종",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%84%B8%EC%A2%85%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%ED%9A%8C%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000062,
+      "title": "이희문 쏭폼스토리즈 Ⅱ &lt;강남무지개&gt;",
+      "amount": "",
+      "period": "2026.11.05 ~ 2026.11.05",
+      "start": "2026-11-05",
+      "end": "2026-11-05",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[서울 문화 알림] 이희문 쏭폼스토리즈 Ⅱ &lt;강남무지개&gt;. 장소: 세종예술의전당. 분야: 국악",
+      "color": "#5AC8FA",
+      "tags": [
+        "culture"
+      ],
+      "areaCd": 11,
+      "areaNm": "서울",
+      "sigunguCd": 11650,
+      "sigunguNm": "서초구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%84%B8%EC%A2%85%EC%98%88%EC%88%A0%EC%9D%98%EC%A0%84%EB%8B%B9",
+      "isAd": false,
+      "benefits": [
+        "서울사랑상품권"
+      ]
+    },
+    {
+      "id": 1000063,
+      "title": "국립심포니콘서트오케스트라 심야음악회 &lt;별 헤는 밤, 별 셋&gt;",
+      "amount": "",
+      "period": "2026.11.06 ~ 2026.11.06",
+      "start": "2026-11-06",
+      "end": "2026-11-06",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[서울 문화 알림] 국립심포니콘서트오케스트라 심야음악회 &lt;별 헤는 밤, 별 셋&gt;. 장소: 세종예술의전당. 분야: 음악/콘서트",
+      "color": "#5AC8FA",
+      "tags": [
+        "culture"
+      ],
+      "areaCd": 11,
+      "areaNm": "서울",
+      "sigunguCd": 11650,
+      "sigunguNm": "서초구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%84%B8%EC%A2%85%EC%98%88%EC%88%A0%EC%9D%98%EC%A0%84%EB%8B%B9",
+      "isAd": false,
+      "benefits": [
+        "서울사랑상품권"
+      ]
+    },
+    {
+      "id": 1000064,
+      "title": "[세종] 케빈 헤이스 솔로 피아노 콘서트",
+      "amount": "",
+      "period": "2026.11.07 ~ 2026.11.07",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[세종 문화 알림] [세종] 케빈 헤이스 솔로 피아노 콘서트. 장소: 재즈인랩. 분야: 음악/콘서트",
+      "color": "#5AC8FA",
+      "tags": [
+        "culture"
+      ],
+      "areaCd": 36,
+      "areaNm": "세종",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%9E%AC%EC%A6%88%EC%9D%B8%EB%9E%A9",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000065,
+      "title": "[세종] 국립심포니콘서트오케스트라 &lt;드보르자크, 교향곡 9번 &#39;신세계로부터&#39;&gt;",
+      "amount": "",
+      "period": "2026.11.14 ~ 2026.11.14",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[서울 문화 알림] [세종] 국립심포니콘서트오케스트라 &lt;드보르자크, 교향곡 9번 &#39;신세계로부터&#39;&gt;. 장소: 세종예술의전당. 분야: 음악/콘서트",
+      "color": "#5AC8FA",
+      "tags": [
+        "culture"
+      ],
+      "areaCd": 11,
+      "areaNm": "서울",
+      "sigunguCd": 11650,
+      "sigunguNm": "서초구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%84%B8%EC%A2%85%EC%98%88%EC%88%A0%EC%9D%98%EC%A0%84%EB%8B%B9",
+      "isAd": false,
+      "benefits": [
+        "서울사랑상품권"
+      ]
+    },
+    {
+      "id": 1000066,
+      "title": "국립심포니콘서트오케스트라 &lt;드보르자크, 교향곡 9번 &#39;신세계로부터&#39;&gt;",
+      "amount": "",
+      "period": "2026.11.14 ~ 2026.11.14",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[서울 문화 알림] 국립심포니콘서트오케스트라 &lt;드보르자크, 교향곡 9번 &#39;신세계로부터&#39;&gt;. 장소: 세종예술의전당. 분야: 음악/콘서트",
+      "color": "#5AC8FA",
+      "tags": [
+        "culture"
+      ],
+      "areaCd": 11,
+      "areaNm": "서울",
+      "sigunguCd": 11650,
+      "sigunguNm": "서초구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%84%B8%EC%A2%85%EC%98%88%EC%88%A0%EC%9D%98%EC%A0%84%EB%8B%B9",
+      "isAd": false,
+      "benefits": [
+        "서울사랑상품권"
+      ]
+    },
+    {
+      "id": 1000067,
+      "title": "레 벙 프랑세 내한공연",
+      "amount": "",
+      "period": "2026.11.17 ~ 2026.11.17",
+      "start": "2026-11-17",
+      "end": "2026-11-17",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[서울 문화 알림] 레 벙 프랑세 내한공연. 장소: 세종예술의전당. 분야: 음악/콘서트",
+      "color": "#5AC8FA",
+      "tags": [
+        "culture"
+      ],
+      "areaCd": 11,
+      "areaNm": "서울",
+      "sigunguCd": 11650,
+      "sigunguNm": "서초구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%84%B8%EC%A2%85%EC%98%88%EC%88%A0%EC%9D%98%EC%A0%84%EB%8B%B9",
+      "isAd": false,
+      "benefits": [
+        "서울사랑상품권"
+      ]
+    },
+    {
+      "id": 1000068,
+      "title": "블루노트 도쿄 올스타 재즈 오케스트라",
+      "amount": "",
+      "period": "2026.11.26 ~ 2026.11.26",
+      "start": "2026-11-26",
+      "end": "2026-11-26",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[서울 문화 알림] 블루노트 도쿄 올스타 재즈 오케스트라. 장소: 세종예술의전당. 분야: 음악/콘서트",
+      "color": "#5AC8FA",
+      "tags": [
+        "culture"
+      ],
+      "areaCd": 11,
+      "areaNm": "서울",
+      "sigunguCd": 11650,
+      "sigunguNm": "서초구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%84%B8%EC%A2%85%EC%98%88%EC%88%A0%EC%9D%98%EC%A0%84%EB%8B%B9",
+      "isAd": false,
+      "benefits": [
+        "서울사랑상품권"
+      ]
+    },
+    {
+      "id": 1000069,
+      "title": "국립심포니콘서트오케스트라 &lt;베토벤, 교향곡 9번 &#39;합창&#39;&gt;",
+      "amount": "",
+      "period": "2026.12.02 ~ 2026.12.02",
+      "start": "2026-12-02",
+      "end": "2026-12-02",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[서울 문화 알림] 국립심포니콘서트오케스트라 &lt;베토벤, 교향곡 9번 &#39;합창&#39;&gt;. 장소: 세종예술의전당. 분야: 음악/콘서트",
+      "color": "#5AC8FA",
+      "tags": [
+        "culture"
+      ],
+      "areaCd": 11,
+      "areaNm": "서울",
+      "sigunguCd": 11650,
+      "sigunguNm": "서초구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%84%B8%EC%A2%85%EC%98%88%EC%88%A0%EC%9D%98%EC%A0%84%EB%8B%B9",
+      "isAd": false,
+      "benefits": [
+        "서울사랑상품권"
+      ]
+    },
+    {
+      "id": 1000070,
+      "title": "자라는 숲",
+      "amount": "",
+      "period": "2020.01.01 ~ 2029.12.31",
+      "start": "2020-01-01",
+      "end": "2029-12-31",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경기 문화 알림] 자라는 숲. 장소: 화성어린이복합문화센터 아이누리극장. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 41,
+      "areaNm": "경기",
+      "sigunguCd": 41590,
+      "sigunguNm": "화성시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%ED%99%94%EC%84%B1%EC%96%B4%EB%A6%B0%EC%9D%B4%EB%B3%B5%ED%95%A9%EB%AC%B8%ED%99%94%EC%84%BC%ED%84%B0%20%EC%95%84%EC%9D%B4%EB%88%84%EB%A6%AC%EA%B7%B9%EC%9E%A5",
+      "isAd": false,
+      "benefits": [
+        "경기지역화폐"
+      ]
+    },
+    {
+      "id": 1000071,
+      "title": "하남역사박물관 이성산성 실감관 &lt;이성산성, 한강을 지배하다&gt;",
+      "amount": "",
+      "period": "2021.03.25 ~ 2026.12.31",
+      "start": "2021-03-25",
+      "end": "2026-12-31",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경기 문화 알림] 하남역사박물관 이성산성 실감관 &lt;이성산성, 한강을 지배하다&gt;. 장소: 하남역사박물관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 41,
+      "areaNm": "경기",
+      "sigunguCd": 41450,
+      "sigunguNm": "하남시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%ED%95%98%EB%82%A8%EC%97%AD%EC%82%AC%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "isAd": false,
+      "benefits": [
+        "경기지역화폐"
+      ]
+    },
+    {
+      "id": 1000072,
+      "title": "어느 건축가의 흔적",
+      "amount": "",
+      "period": "2023.09.05 ~ 2030.12.31",
+      "start": "2023-09-05",
+      "end": "2030-12-31",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경기 문화 알림] 어느 건축가의 흔적. 장소: 김중업박물관 어울마당. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 41,
+      "areaNm": "경기",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B9%80%EC%A4%91%EC%97%85%EB%B0%95%EB%AC%BC%EA%B4%80%20%EC%96%B4%EC%9A%B8%EB%A7%88%EB%8B%B9",
+      "isAd": false,
+      "benefits": [
+        "경기지역화폐"
+      ]
+    },
+    {
+      "id": 1000073,
+      "title": "실감콘텐츠 체험전 &lt;조선의 하늘과 땅&gt;",
+      "amount": "",
+      "period": "2023.09.12 ~ 2028.12.31",
+      "start": "2023-09-12",
+      "end": "2028-12-31",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경기 문화 알림] 실감콘텐츠 체험전 &lt;조선의 하늘과 땅&gt;. 장소: 실학박물관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 41,
+      "areaNm": "경기",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%8B%A4%ED%95%99%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "isAd": false,
+      "benefits": [
+        "경기지역화폐"
+      ]
+    },
+    {
+      "id": 1000074,
+      "title": "공룡AR트릭아트전",
+      "amount": "",
+      "period": "2024.01.01 ~ 2026.12.31",
+      "start": "2024-01-01",
+      "end": "2026-12-31",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경기 문화 알림] 공룡AR트릭아트전. 장소: 화성어린이복합문화센터 아이누리극장. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 41,
+      "areaNm": "경기",
+      "sigunguCd": 41590,
+      "sigunguNm": "화성시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%ED%99%94%EC%84%B1%EC%96%B4%EB%A6%B0%EC%9D%B4%EB%B3%B5%ED%95%A9%EB%AC%B8%ED%99%94%EC%84%BC%ED%84%B0%20%EC%95%84%EC%9D%B4%EB%88%84%EB%A6%AC%EA%B7%B9%EC%9E%A5",
+      "isAd": false,
+      "benefits": [
+        "경기지역화폐"
+      ]
+    },
+    {
+      "id": 1000075,
+      "title": "MMCA 과천 상설전《한국근현대미술 II》",
+      "amount": "",
+      "period": "2025.06.26 ~ 2027.06.27",
+      "start": "2025-06-26",
+      "end": "2027-06-27",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경기 문화 알림] MMCA 과천 상설전《한국근현대미술 II》. 장소: 국립현대미술관 과천관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 41,
+      "areaNm": "경기",
+      "sigunguCd": 41290,
+      "sigunguNm": "과천시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B5%AD%EB%A6%BD%ED%98%84%EB%8C%80%EB%AF%B8%EC%88%A0%EA%B4%80%20%EA%B3%BC%EC%B2%9C%EA%B4%80",
+      "isAd": false,
+      "benefits": [
+        "경기지역화폐"
+      ]
+    },
+    {
+      "id": 1000076,
+      "title": "미디어&middot;아트 융합 전시 DREAM LIGHT",
+      "amount": "",
+      "period": "2025.09.26 ~ 2026.12.31",
+      "start": "2025-09-26",
+      "end": "2026-12-31",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경기 문화 알림] 미디어&middot;아트 융합 전시 DREAM LIGHT. 장소: 수원시미디어센터. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 41,
+      "areaNm": "경기",
+      "sigunguCd": 41110,
+      "sigunguNm": "수원시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%88%98%EC%9B%90%EC%8B%9C%EB%AF%B8%EB%94%94%EC%96%B4%EC%84%BC%ED%84%B0",
+      "isAd": false,
+      "benefits": [
+        "경기지역화폐"
+      ]
+    },
+    {
+      "id": 1000077,
+      "title": "MMCA 해외 명작 : 수련과 샹들리에",
+      "amount": "",
+      "period": "2025.10.02 ~ 2027.01.03",
+      "start": "2025-10-02",
+      "end": "2027-01-03",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경기 문화 알림] MMCA 해외 명작 : 수련과 샹들리에. 장소: 국립현대미술관 과천관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 41,
+      "areaNm": "경기",
+      "sigunguCd": 41290,
+      "sigunguNm": "과천시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B5%AD%EB%A6%BD%ED%98%84%EB%8C%80%EB%AF%B8%EC%88%A0%EA%B4%80%20%EA%B3%BC%EC%B2%9C%EA%B4%80",
+      "isAd": false,
+      "benefits": [
+        "경기지역화폐"
+      ]
+    },
+    {
+      "id": 1000078,
+      "title": "2026 소장품전《블랑 블랙 파노라마》",
+      "amount": "",
+      "period": "2026.02.12 ~ 2027.03.01",
+      "start": "2026-02-12",
+      "end": "2027-03-01",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경기 문화 알림] 2026 소장품전《블랑 블랙 파노라마》. 장소: 수원시립미술관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 41,
+      "areaNm": "경기",
+      "sigunguCd": 41110,
+      "sigunguNm": "수원시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%88%98%EC%9B%90%EC%8B%9C%EB%A6%BD%EB%AF%B8%EC%88%A0%EA%B4%80",
+      "isAd": false,
+      "benefits": [
+        "경기지역화폐"
+      ]
+    },
+    {
+      "id": 1000079,
+      "title": "키즈 마티네 콘서트 - 일반권(전회차)",
+      "amount": "",
+      "period": "2026.02.21 ~ 2026.12.19",
+      "start": "2026-02-21",
+      "end": "2026-12-19",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경기 문화 알림] 키즈 마티네 콘서트 - 일반권(전회차). 장소: 김포아트홀. 분야: 음악/콘서트",
+      "color": "#5AC8FA",
+      "tags": [
+        "culture"
+      ],
+      "areaCd": 41,
+      "areaNm": "경기",
+      "sigunguCd": 41570,
+      "sigunguNm": "김포시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B9%80%ED%8F%AC%EC%95%84%ED%8A%B8%ED%99%80",
+      "isAd": false,
+      "benefits": [
+        "경기지역화폐"
+      ]
+    },
+    {
+      "id": 1000080,
+      "title": "개방 수장고 개편",
+      "amount": "",
+      "period": "2020.12.03 ~ 2026.12.31",
+      "start": "2020-12-03",
+      "end": "2026-12-31",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[충북 문화 알림] 개방 수장고 개편. 장소: 국립현대미술관 청주관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 43,
+      "areaNm": "충북",
+      "sigunguCd": 43110,
+      "sigunguNm": "청주시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B5%AD%EB%A6%BD%ED%98%84%EB%8C%80%EB%AF%B8%EC%88%A0%EA%B4%80%20%EC%B2%AD%EC%A3%BC%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000081,
+      "title": "증평의 보물찾기",
+      "amount": "",
+      "period": "2021.02.16 ~ 2030.12.31",
+      "start": "2021-02-16",
+      "end": "2030-12-31",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[충북 문화 알림] 증평의 보물찾기. 장소: 증평민속체험박물관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 43,
+      "areaNm": "충북",
+      "sigunguCd": 43745,
+      "sigunguNm": "증평군",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A6%9D%ED%8F%89%EB%AF%BC%EC%86%8D%EC%B2%B4%ED%97%98%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000082,
+      "title": "특별수장고: 국립현대미술관 드로잉·일본 현대 판화 소장품",
+      "amount": "",
+      "period": "2025.07.22 ~ 2026.12.31",
+      "start": "2025-07-22",
+      "end": "2026-12-31",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[충북 문화 알림] 특별수장고: 국립현대미술관 드로잉·일본 현대 판화 소장품. 장소: 국립현대미술관 청주관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 43,
+      "areaNm": "충북",
+      "sigunguCd": 43110,
+      "sigunguNm": "청주시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B5%AD%EB%A6%BD%ED%98%84%EB%8C%80%EB%AF%B8%EC%88%A0%EA%B4%80%20%EC%B2%AD%EC%A3%BC%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000083,
+      "title": "2026 김수현드라마아트홀 「드라마극장」",
+      "amount": "",
+      "period": "2026.02.03 ~ 2026.12.15",
+      "start": "2026-02-03",
+      "end": "2026-12-15",
+      "type": "교육/체험",
+      "source": "https://www.culture.go.kr/",
+      "note": "[충북 문화 알림] 2026 김수현드라마아트홀 「드라마극장」. 장소: 전국. 분야: 교육/체험",
+      "color": "#FF2D55",
+      "tags": [
+        "culture",
+        "education"
+      ],
+      "areaCd": 43,
+      "areaNm": "충북",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EA%B5%AD",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000084,
+      "title": "청주 갤러리 원 정기 대관 모집",
+      "amount": "",
+      "period": "2026.04.02 ~ 2026.12.31",
+      "start": "2026-04-02",
+      "end": "2026-12-31",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[충북 문화 알림] 청주 갤러리 원 정기 대관 모집. 장소: CGV청주(서문) 갤러리원 1층. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 43,
+      "areaNm": "충북",
+      "sigunguCd": 43110,
+      "sigunguNm": "청주시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=CGV%EC%B2%AD%EC%A3%BC%28%EC%84%9C%EB%AC%B8%29%20%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%9B%90%201%EC%B8%B5",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000085,
+      "title": "[지역 공립박물관 순회전시] 국보순회전, 우리 동네에서 만나는 보물",
+      "amount": "",
+      "period": "2026.05.19 ~ 2026.11.29",
+      "start": "2026-05-19",
+      "end": "2026-11-29",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[충북 문화 알림] [지역 공립박물관 순회전시] 국보순회전, 우리 동네에서 만나는 보물. 장소: 진천종박물관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 43,
+      "areaNm": "충북",
+      "sigunguCd": 43750,
+      "sigunguNm": "진천군",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A7%84%EC%B2%9C%EC%A2%85%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000086,
+      "title": "그림책정원1937 2026년 1차 기획전시 《빛나는 아이들, 이수지의 그림책》",
+      "amount": "",
+      "period": "2026.08.04 ~ 2026.11.08",
+      "start": "2026-08-04",
+      "end": "2026-11-08",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[충북 문화 알림] 그림책정원1937 2026년 1차 기획전시 《빛나는 아이들, 이수지의 그림책》. 장소: 그림책정원1937. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 43,
+      "areaNm": "충북",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B7%B8%EB%A6%BC%EC%B1%85%EC%A0%95%EC%9B%901937",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000087,
+      "title": "개방 수장고: 국립현대미술관 소장품",
+      "amount": "",
+      "period": "2026.09.22 ~ 2028.12.31",
+      "start": "2026-09-22",
+      "end": "2028-12-31",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[충북 문화 알림] 개방 수장고: 국립현대미술관 소장품. 장소: 국립현대미술관 청주관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 43,
+      "areaNm": "충북",
+      "sigunguCd": 43110,
+      "sigunguNm": "청주시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B5%AD%EB%A6%BD%ED%98%84%EB%8C%80%EB%AF%B8%EC%88%A0%EA%B4%80%20%EC%B2%AD%EC%A3%BC%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000088,
+      "title": "[청주] 청주짜글이",
+      "amount": "",
+      "period": "2026.10.01 ~ 2026.11.14",
+      "start": "2026-10-01",
+      "end": "2026-11-14",
+      "type": "공연",
+      "source": "https://www.culture.go.kr/",
+      "note": "[충북 문화 알림] [청주] 청주짜글이. 장소: 정심아트홀. 분야: 연극",
+      "color": "#FF9500",
+      "tags": [
+        "culture",
+        "theater"
+      ],
+      "areaCd": 43,
+      "areaNm": "충북",
+      "sigunguCd": 43110,
+      "sigunguNm": "청주시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%95%EC%8B%AC%EC%95%84%ED%8A%B8%ED%99%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000089,
+      "title": "[청주] 남사친 여사친",
+      "amount": "",
+      "period": "2026.10.02 ~ 2026.11.15",
+      "start": "2026-10-02",
+      "end": "2026-11-15",
+      "type": "공연",
+      "source": "https://www.culture.go.kr/",
+      "note": "[충북 문화 알림] [청주] 남사친 여사친. 장소: 소명아트홀. 분야: 연극",
+      "color": "#FF9500",
+      "tags": [
+        "culture",
+        "theater"
+      ],
+      "areaCd": 43,
+      "areaNm": "충북",
+      "sigunguCd": 43110,
+      "sigunguNm": "청주시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%86%8C%EB%AA%85%EC%95%84%ED%8A%B8%ED%99%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000090,
+      "title": "[부여] 부여군충남국악단의 토요상설 국악공연, 유종지미",
+      "amount": "",
+      "period": "2026.03.07 ~ 2026.10.31",
+      "start": "2026-03-07",
+      "end": "2026-10-31",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[충남 문화 알림] [부여] 부여군충남국악단의 토요상설 국악공연, 유종지미. 장소: 부여국악의전당. 분야: 음악/콘서트",
+      "color": "#5AC8FA",
+      "tags": [
+        "culture"
+      ],
+      "areaCd": 44,
+      "areaNm": "충남",
+      "sigunguCd": 44760,
+      "sigunguNm": "부여군",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%B6%80%EC%97%AC%EA%B5%AD%EC%95%85%EC%9D%98%EC%A0%84%EB%8B%B9",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000091,
+      "title": "2026년 내포 힐링 아카데미 &lt;온도락&gt;",
+      "amount": "",
+      "period": "2026.03.25 ~ 2026.11.25",
+      "start": "2026-03-25",
+      "end": "2026-11-25",
+      "type": "교육/체험",
+      "source": "https://www.culture.go.kr/",
+      "note": "[충남 문화 알림] 2026년 내포 힐링 아카데미 &lt;온도락&gt;. 장소: 전국. 분야: 교육/체험",
+      "color": "#FF2D55",
+      "tags": [
+        "culture",
+        "education"
+      ],
+      "areaCd": 44,
+      "areaNm": "충남",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EA%B5%AD",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000092,
+      "title": "2026 장애예술 거점 창작공간 운영 지원사업 「장애예술 연극 심화 프로그램」",
+      "amount": "",
+      "period": "2026.08.01 ~ 2026.10.31",
+      "start": "2026-08-01",
+      "end": "2026-10-31",
+      "type": "교육/체험",
+      "source": "https://www.culture.go.kr/",
+      "note": "[충남 문화 알림] 2026 장애예술 거점 창작공간 운영 지원사업 「장애예술 연극 심화 프로그램」. 장소: 전국. 분야: 교육/체험",
+      "color": "#FF2D55",
+      "tags": [
+        "culture",
+        "education"
+      ],
+      "areaCd": 44,
+      "areaNm": "충남",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EA%B5%AD",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000093,
+      "title": "[공주] 왕관을 찾아서: 진묘수와 시간의 문",
+      "amount": "",
+      "period": "2026.08.29 ~ 2026.11.07",
+      "start": "2026-08-29",
+      "end": "2026-11-07",
+      "type": "공연",
+      "source": "https://www.culture.go.kr/",
+      "note": "[충남 문화 알림] [공주] 왕관을 찾아서: 진묘수와 시간의 문. 장소: 백제문화전당  고마홀. 분야: 뮤지컬/오페라",
+      "color": "#FF9500",
+      "tags": [
+        "culture",
+        "theater"
+      ],
+      "areaCd": 44,
+      "areaNm": "충남",
+      "sigunguCd": 44150,
+      "sigunguNm": "공주시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%B0%B1%EC%A0%9C%EB%AC%B8%ED%99%94%EC%A0%84%EB%8B%B9%20%20%EA%B3%A0%EB%A7%88%ED%99%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000094,
+      "title": "2026 천안제로프로젝트 《눈금 없는 자(尺): 분류 이전의 것들》",
+      "amount": "",
+      "period": "2026.09.15 ~ 2026.12.20",
+      "start": "2026-09-15",
+      "end": "2026-12-20",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[충남 문화 알림] 2026 천안제로프로젝트 《눈금 없는 자(尺): 분류 이전의 것들》. 장소: 천안시립미술관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 44,
+      "areaNm": "충남",
+      "sigunguCd": 44130,
+      "sigunguNm": "천안시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%B2%9C%EC%95%88%EC%8B%9C%EB%A6%BD%EB%AF%B8%EC%88%A0%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000095,
+      "title": "국립공주박물관 특별전 &#39;한국의 영산, 계룡산(가제)&#39;",
+      "amount": "",
+      "period": "2026.09.22 ~ 2027.03.01",
+      "start": "2026-09-22",
+      "end": "2027-03-01",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[충남 문화 알림] 국립공주박물관 특별전 &#39;한국의 영산, 계룡산(가제)&#39;. 장소: 국립공주박물관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 44,
+      "areaNm": "충남",
+      "sigunguCd": 44150,
+      "sigunguNm": "공주시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%A3%BC%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000096,
+      "title": "[도고아트홀] 2026년 10월 기획 공연 안내",
+      "amount": "",
+      "period": "2026.10.01 ~ 2026.10.31",
+      "start": "2026-10-01",
+      "end": "2026-10-31",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[충남 문화 알림] [도고아트홀] 2026년 10월 기획 공연 안내. 장소: 도고아트홀. 분야: 아동/가족",
+      "color": "#34C759",
+      "tags": [
+        "culture",
+        "family"
+      ],
+      "areaCd": 44,
+      "areaNm": "충남",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%8F%84%EA%B3%A0%EC%95%84%ED%8A%B8%ED%99%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000097,
+      "title": "2026 천안시립문학관 문학창작아카데미 &lt;책크숍&gt;",
+      "amount": "",
+      "period": "2026.10.01 ~ 2026.11.30",
+      "start": "2026-10-01",
+      "end": "2026-11-30",
+      "type": "교육/체험",
+      "source": "https://www.culture.go.kr/",
+      "note": "[충남 문화 알림] 2026 천안시립문학관 문학창작아카데미 &lt;책크숍&gt;. 장소: 전국. 분야: 교육/체험",
+      "color": "#FF2D55",
+      "tags": [
+        "culture",
+        "education"
+      ],
+      "areaCd": 44,
+      "areaNm": "충남",
+      "sigunguCd": 44130,
+      "sigunguNm": "천안시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EA%B5%AD",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000098,
+      "title": "제11회 그리다방네모展 [보통의 기적]",
+      "amount": "",
+      "period": "2026.10.20 ~ 2026.11.01",
+      "start": "2026-10-20",
+      "end": "2026-11-01",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[서울 문화 알림] 제11회 그리다방네모展 [보통의 기적]. 장소: 천안예술의전당. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 11,
+      "areaNm": "서울",
+      "sigunguCd": 11650,
+      "sigunguNm": "서초구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%B2%9C%EC%95%88%EC%98%88%EC%88%A0%EC%9D%98%EC%A0%84%EB%8B%B9",
+      "isAd": false,
+      "benefits": [
+        "서울사랑상품권"
+      ]
+    },
+    {
+      "id": 1000099,
+      "title": "2026 천안독립영화상영회",
+      "amount": "",
+      "period": "2026.10.20 ~ 2026.10.31",
+      "start": "2026-10-20",
+      "end": "2026-10-31",
+      "type": "축제/행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[충남 문화 알림] 2026 천안독립영화상영회. 장소: 인디플러스천안. 분야: 행사/축제",
+      "color": "#0064FF",
+      "tags": [
+        "culture",
+        "festival"
+      ],
+      "areaCd": 44,
+      "areaNm": "충남",
+      "sigunguCd": 44130,
+      "sigunguNm": "천안시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%9D%B8%EB%94%94%ED%94%8C%EB%9F%AC%EC%8A%A4%EC%B2%9C%EC%95%88",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000100,
+      "title": "[실감 미디어아트 체험전 리뉴얼] NEW! The경주; 경주연대기",
+      "amount": "",
+      "period": "2025.12.02 ~ 2026.12.31",
+      "start": "2025-12-02",
+      "end": "2026-12-31",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[서울 문화 알림] [실감 미디어아트 체험전 리뉴얼] NEW! The경주; 경주연대기. 장소: 경주예술의전당 알천미술관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 11,
+      "areaNm": "서울",
+      "sigunguCd": 11650,
+      "sigunguNm": "서초구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B2%BD%EC%A3%BC%EC%98%88%EC%88%A0%EC%9D%98%EC%A0%84%EB%8B%B9%20%EC%95%8C%EC%B2%9C%EB%AF%B8%EC%88%A0%EA%B4%80",
+      "isAd": false,
+      "benefits": [
+        "서울사랑상품권"
+      ]
+    },
+    {
+      "id": 1000101,
+      "title": "2026년 수토역사전시관 공동기획전 &quot;울릉도, 1919&quot;",
+      "amount": "",
+      "period": "2026.08.14 ~ 2027.02.12",
+      "start": "2026-08-14",
+      "end": "2027-02-12",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경북 문화 알림] 2026년 수토역사전시관 공동기획전 &quot;울릉도, 1919&quot;. 장소: 독도박물관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 47,
+      "areaNm": "경북",
+      "sigunguCd": 47940,
+      "sigunguNm": "울릉군",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%8F%85%EB%8F%84%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000102,
+      "title": "2026년 상주박물관 기증유물전 &#39;당신이 건넨 시간, 상주의 역사가 되다&#39;",
+      "amount": "",
+      "period": "2026.09.15 ~ 2027.03.01",
+      "start": "2026-09-15",
+      "end": "2027-03-01",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경북 문화 알림] 2026년 상주박물관 기증유물전 &#39;당신이 건넨 시간, 상주의 역사가 되다&#39;. 장소: 상주박물관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 47,
+      "areaNm": "경북",
+      "sigunguCd": 47250,
+      "sigunguNm": "상주시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%83%81%EC%A3%BC%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000103,
+      "title": "[안동] 더 레시피",
+      "amount": "",
+      "period": "2026.09.19 ~ 2026.11.01",
+      "start": "2026-09-19",
+      "end": "2026-11-01",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경북 문화 알림] [안동] 더 레시피. 장소: 한국문화테마파크 전통극 극장. 분야: 음악/콘서트",
+      "color": "#5AC8FA",
+      "tags": [
+        "culture"
+      ],
+      "areaCd": 47,
+      "areaNm": "경북",
+      "sigunguCd": 47170,
+      "sigunguNm": "안동시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%ED%85%8C%EB%A7%88%ED%8C%8C%ED%81%AC%20%EC%A0%84%ED%86%B5%EA%B7%B9%20%EA%B7%B9%EC%9E%A5",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000104,
+      "title": "[경주] 뮤지컬 &lt;더 쇼! 신라&gt;",
+      "amount": "",
+      "period": "2026.10.17 ~ 2026.11.01",
+      "start": "2026-10-17",
+      "end": "2026-11-01",
+      "type": "공연",
+      "source": "https://www.culture.go.kr/",
+      "note": "[대전 문화 알림] [경주] 뮤지컬 &lt;더 쇼! 신라&gt;. 장소: 경주세계문화엑스포 문화센터공연장. 분야: 뮤지컬/오페라",
+      "color": "#FF9500",
+      "tags": [
+        "culture",
+        "theater"
+      ],
+      "areaCd": 30,
+      "areaNm": "대전",
+      "sigunguCd": 30200,
+      "sigunguNm": "유성구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B2%BD%EC%A3%BC%EC%84%B8%EA%B3%84%EB%AC%B8%ED%99%94%EC%97%91%EC%8A%A4%ED%8F%AC%20%EB%AC%B8%ED%99%94%EC%84%BC%ED%84%B0%EA%B3%B5%EC%97%B0%EC%9E%A5",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000105,
+      "title": "[안동] 2026 마당놀이 죽계선비뎐 시즌2",
+      "amount": "",
+      "period": "2026.10.27 ~ 2026.10.27",
+      "start": "2026-10-27",
+      "end": "2026-10-27",
+      "type": "공연",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경북 문화 알림] [안동] 2026 마당놀이 죽계선비뎐 시즌2. 장소: 경북도청 동락관. 분야: 연극",
+      "color": "#FF9500",
+      "tags": [
+        "culture",
+        "theater"
+      ],
+      "areaCd": 47,
+      "areaNm": "경북",
+      "sigunguCd": 47170,
+      "sigunguNm": "안동시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B2%BD%EB%B6%81%EB%8F%84%EC%B2%AD%20%EB%8F%99%EB%9D%BD%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000106,
+      "title": "[포항] 꿈의 오케스트라 포항 정기 연주회: 푸른 파도 끝에서",
+      "amount": "",
+      "period": "2026.10.28 ~ 2026.10.28",
+      "start": "2026-10-28",
+      "end": "2026-10-28",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경북 문화 알림] [포항] 꿈의 오케스트라 포항 정기 연주회: 푸른 파도 끝에서. 장소: 포항문화예술회관 대공연장. 분야: 음악/콘서트",
+      "color": "#5AC8FA",
+      "tags": [
+        "culture"
+      ],
+      "areaCd": 47,
+      "areaNm": "경북",
+      "sigunguCd": 47110,
+      "sigunguNm": "포항시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%ED%8F%AC%ED%95%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%ED%9A%8C%EA%B4%80%20%EB%8C%80%EA%B3%B5%EC%97%B0%EC%9E%A5",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000107,
+      "title": "[상주] 모스틀리오케스트라 스토리가 있는 음악회: 내 사랑을 받아주세요",
+      "amount": "",
+      "period": "2026.10.29 ~ 2026.10.29",
+      "start": "2026-10-29",
+      "end": "2026-10-29",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경북 문화 알림] [상주] 모스틀리오케스트라 스토리가 있는 음악회: 내 사랑을 받아주세요. 장소: 상주문화회관 대공연장. 분야: 음악/콘서트",
+      "color": "#5AC8FA",
+      "tags": [
+        "culture"
+      ],
+      "areaCd": 47,
+      "areaNm": "경북",
+      "sigunguCd": 47250,
+      "sigunguNm": "상주시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%83%81%EC%A3%BC%EB%AC%B8%ED%99%94%ED%9A%8C%EA%B4%80%20%EB%8C%80%EA%B3%B5%EC%97%B0%EC%9E%A5",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000108,
+      "title": "제 41회 김천시립국악단 정기연주회 : 광천光川",
+      "amount": "",
+      "period": "2026.10.29 ~ 2026.10.29",
+      "start": "2026-10-29",
+      "end": "2026-10-29",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경북 문화 알림] 제 41회 김천시립국악단 정기연주회 : 광천光川. 장소: 김천시문화예술회관 대공연장. 분야: 음악/콘서트",
+      "color": "#5AC8FA",
+      "tags": [
+        "culture"
+      ],
+      "areaCd": 47,
+      "areaNm": "경북",
+      "sigunguCd": 47150,
+      "sigunguNm": "김천시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B9%80%EC%B2%9C%EC%8B%9C%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%ED%9A%8C%EA%B4%80%20%EB%8C%80%EA%B3%B5%EC%97%B0%EC%9E%A5",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000109,
+      "title": "2026 경산학교예술교육한마당: 회복, 예술로 다시 잇다",
+      "amount": "",
+      "period": "2026.10.29 ~ 2026.10.29",
+      "start": "2026-10-29",
+      "end": "2026-10-29",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경북 문화 알림] 2026 경산학교예술교육한마당: 회복, 예술로 다시 잇다. 장소: 천마아트센터 그랜드홀. 분야: 기타",
+      "color": "#5AC8FA",
+      "tags": [
+        "culture"
+      ],
+      "areaCd": 47,
+      "areaNm": "경북",
+      "sigunguCd": 47290,
+      "sigunguNm": "경산시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%B2%9C%EB%A7%88%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0%20%EA%B7%B8%EB%9E%9C%EB%93%9C%ED%99%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000110,
+      "title": "《The Origin》석고 원형, 최초의 형태",
+      "amount": "",
+      "period": "2026.02.24 ~ 2027.08.29",
+      "start": "2026-02-24",
+      "end": "2027-08-29",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경남 문화 알림] 《The Origin》석고 원형, 최초의 형태. 장소: 창원시립마산문신미술관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 48,
+      "areaNm": "경남",
+      "sigunguCd": 48120,
+      "sigunguNm": "창원시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%B0%BD%EC%9B%90%EC%8B%9C%EB%A6%BD%EB%A7%88%EC%82%B0%EB%AC%B8%EC%8B%A0%EB%AF%B8%EC%88%A0%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000111,
+      "title": "2026년 문화소외계층 교육 &lt;손끝 가야, 패총 비누 만들기&gt;",
+      "amount": "",
+      "period": "2026.02.27 ~ 2026.11.27",
+      "start": "2026-02-27",
+      "end": "2026-11-27",
+      "type": "교육/체험",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경남 문화 알림] 2026년 문화소외계층 교육 &lt;손끝 가야, 패총 비누 만들기&gt;. 장소: 전국. 분야: 교육/체험",
+      "color": "#FF2D55",
+      "tags": [
+        "culture",
+        "education"
+      ],
+      "areaCd": 48,
+      "areaNm": "경남",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EA%B5%AD",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000112,
+      "title": "[창원] 움라우트 뮤직 키즈 클래식 (13시)",
+      "amount": "",
+      "period": "2026.02.28 ~ 2026.12.19",
+      "start": "2026-02-28",
+      "end": "2026-12-19",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경남 문화 알림] [창원] 움라우트 뮤직 키즈 클래식 (13시). 장소: 몰입공유연습실. 분야: 음악/콘서트",
+      "color": "#5AC8FA",
+      "tags": [
+        "culture"
+      ],
+      "areaCd": 48,
+      "areaNm": "경남",
+      "sigunguCd": 48120,
+      "sigunguNm": "창원시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%AA%B0%EC%9E%85%EA%B3%B5%EC%9C%A0%EC%97%B0%EC%8A%B5%EC%8B%A4",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000113,
+      "title": "가장 자유로운 길",
+      "amount": "",
+      "period": "2026.03.04 ~ 2026.11.08",
+      "start": "2026-03-04",
+      "end": "2026-11-08",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경남 문화 알림] 가장 자유로운 길. 장소: 이성자미술관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 48,
+      "areaNm": "경남",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%9D%B4%EC%84%B1%EC%9E%90%EB%AF%B8%EC%88%A0%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000114,
+      "title": "클레이아크김해미술관 개관 20주년 특별기획전 &lt;주름과 덧댐&gt;",
+      "amount": "",
+      "period": "2026.04.17 ~ 2026.11.29",
+      "start": "2026-04-17",
+      "end": "2026-11-29",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경남 문화 알림] 클레이아크김해미술관 개관 20주년 특별기획전 &lt;주름과 덧댐&gt;. 장소: 클레이아크 김해미술관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 48,
+      "areaNm": "경남",
+      "sigunguCd": 48250,
+      "sigunguNm": "김해시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%ED%81%B4%EB%A0%88%EC%9D%B4%EC%95%84%ED%81%AC%20%EA%B9%80%ED%95%B4%EB%AF%B8%EC%88%A0%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000115,
+      "title": "2026 도민의 집 하반기 &#39;화&middot;목&#39;한 아카데미",
+      "amount": "",
+      "period": "2026.07.07 ~ 2026.10.29",
+      "start": "2026-07-07",
+      "end": "2026-10-29",
+      "type": "교육/체험",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경남 문화 알림] 2026 도민의 집 하반기 &#39;화&middot;목&#39;한 아카데미. 장소: 전국. 분야: 교육/체험",
+      "color": "#FF2D55",
+      "tags": [
+        "culture",
+        "education"
+      ],
+      "areaCd": 48,
+      "areaNm": "경남",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EA%B5%AD",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000116,
+      "title": "《알루미늄 오이: 정연두》",
+      "amount": "",
+      "period": "2026.07.29 ~ 2026.11.01",
+      "start": "2026-07-29",
+      "end": "2026-11-01",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경남 문화 알림] 《알루미늄 오이: 정연두》. 장소: 경남도립미술관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 48,
+      "areaNm": "경남",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B2%BD%EB%82%A8%EB%8F%84%EB%A6%BD%EB%AF%B8%EC%88%A0%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000117,
+      "title": "《송정인: 실로 만든 메아리》",
+      "amount": "",
+      "period": "2026.07.29 ~ 2026.11.01",
+      "start": "2026-07-29",
+      "end": "2026-11-01",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경남 문화 알림] 《송정인: 실로 만든 메아리》. 장소: 경남도립미술관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 48,
+      "areaNm": "경남",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B2%BD%EB%82%A8%EB%8F%84%EB%A6%BD%EB%AF%B8%EC%88%A0%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000118,
+      "title": "[창원] 피터팬",
+      "amount": "",
+      "period": "2026.09.05 ~ 2026.11.01",
+      "start": "2026-09-05",
+      "end": "2026-11-01",
+      "type": "공연",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경남 문화 알림] [창원] 피터팬. 장소: 창원과학체험관 다목적강당. 분야: 뮤지컬/오페라",
+      "color": "#FF9500",
+      "tags": [
+        "culture",
+        "theater"
+      ],
+      "areaCd": 48,
+      "areaNm": "경남",
+      "sigunguCd": 48120,
+      "sigunguNm": "창원시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%B0%BD%EC%9B%90%EA%B3%BC%ED%95%99%EC%B2%B4%ED%97%98%EA%B4%80%20%EB%8B%A4%EB%AA%A9%EC%A0%81%EA%B0%95%EB%8B%B9",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000119,
+      "title": "「담쟁이 창작소」 문화예술교육 프로그램 &lt;움직임코드&gt;",
+      "amount": "",
+      "period": "2026.09.05 ~ 2026.11.14",
+      "start": "2026-09-05",
+      "end": "2026-11-14",
+      "type": "교육/체험",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경남 문화 알림] 「담쟁이 창작소」 문화예술교육 프로그램 &lt;움직임코드&gt;. 장소: 전국. 분야: 교육/체험",
+      "color": "#FF2D55",
+      "tags": [
+        "culture",
+        "education"
+      ],
+      "areaCd": 48,
+      "areaNm": "경남",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EA%B5%AD",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000120,
+      "title": "10/10: 미술관 10년의 선택",
+      "amount": "",
+      "period": "2026.02.10 ~ 2026.12.31",
+      "start": "2026-02-10",
+      "end": "2026-12-31",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[제주 문화 알림] 10/10: 미술관 10년의 선택. 장소: 제주도립김창열미술관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 50,
+      "areaNm": "제주",
+      "sigunguCd": 50110,
+      "sigunguNm": "제주시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%9C%EC%A3%BC%EB%8F%84%EB%A6%BD%EA%B9%80%EC%B0%BD%EC%97%B4%EB%AF%B8%EC%88%A0%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000121,
+      "title": "2026년 &lt;문화:소셜 플래너&gt; 양성과정(진입/성장과정)",
+      "amount": "",
+      "period": "2026.06.01 ~ 2026.11.30",
+      "start": "2026-06-01",
+      "end": "2026-11-30",
+      "type": "교육/체험",
+      "source": "https://www.culture.go.kr/",
+      "note": "[제주 문화 알림] 2026년 &lt;문화:소셜 플래너&gt; 양성과정(진입/성장과정). 장소: 전국. 분야: 교육/체험",
+      "color": "#FF2D55",
+      "tags": [
+        "culture",
+        "education"
+      ],
+      "areaCd": 50,
+      "areaNm": "제주",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EA%B5%AD",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000122,
+      "title": "공공수장고 미디어아트_곶자왈: 숨결의 시간",
+      "amount": "",
+      "period": "2026.06.02 ~ 2026.11.08",
+      "start": "2026-06-02",
+      "end": "2026-11-08",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[제주 문화 알림] 공공수장고 미디어아트_곶자왈: 숨결의 시간. 장소: 제주현대미술관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 50,
+      "areaNm": "제주",
+      "sigunguCd": 50110,
+      "sigunguNm": "제주시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%9C%EC%A3%BC%ED%98%84%EB%8C%80%EB%AF%B8%EC%88%A0%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000123,
+      "title": "찰나의 영원, 제주를 담다 - 고 김영갑 작가 기증 사진전",
+      "amount": "",
+      "period": "2026.06.16 ~ 2027.03.01",
+      "start": "2026-06-16",
+      "end": "2027-03-01",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[제주 문화 알림] 찰나의 영원, 제주를 담다 - 고 김영갑 작가 기증 사진전. 장소: 국립제주박물관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 50,
+      "areaNm": "제주",
+      "sigunguCd": 50110,
+      "sigunguNm": "제주시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B5%AD%EB%A6%BD%EC%A0%9C%EC%A3%BC%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000124,
+      "title": "큐레이터와의 대화",
+      "amount": "",
+      "period": "2026.07.01 ~ 2026.12.24",
+      "start": "2026-07-01",
+      "end": "2026-12-24",
+      "type": "교육/체험",
+      "source": "https://www.culture.go.kr/",
+      "note": "[제주 문화 알림] 큐레이터와의 대화. 장소: 국립제주박물관. 분야: 교육/체험",
+      "color": "#FF2D55",
+      "tags": [
+        "culture",
+        "education"
+      ],
+      "areaCd": 50,
+      "areaNm": "제주",
+      "sigunguCd": 50110,
+      "sigunguNm": "제주시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B5%AD%EB%A6%BD%EC%A0%9C%EC%A3%BC%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000125,
+      "title": "켈파트아카데미 〈아일랜드 디스코스〉 1기 모집",
+      "amount": "",
+      "period": "2026.07.15 ~ 2026.11.08",
+      "start": "2026-07-15",
+      "end": "2026-11-08",
+      "type": "교육/체험",
+      "source": "https://www.culture.go.kr/",
+      "note": "[제주 문화 알림] 켈파트아카데미 〈아일랜드 디스코스〉 1기 모집. 장소: 전국. 분야: 교육/체험",
+      "color": "#FF2D55",
+      "tags": [
+        "culture",
+        "education"
+      ],
+      "areaCd": 50,
+      "areaNm": "제주",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EA%B5%AD",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000126,
+      "title": "2026 제5회 제주비엔날레 《허끄곡 모닥치곡 이야홍: 변용의 기술》",
+      "amount": "",
+      "period": "2026.08.25 ~ 2026.11.15",
+      "start": "2026-08-25",
+      "end": "2026-11-15",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[제주 문화 알림] 2026 제5회 제주비엔날레 《허끄곡 모닥치곡 이야홍: 변용의 기술》. 장소: 제주도립미술관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 50,
+      "areaNm": "제주",
+      "sigunguCd": 50110,
+      "sigunguNm": "제주시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%9C%EC%A3%BC%EB%8F%84%EB%A6%BD%EB%AF%B8%EC%88%A0%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000127,
+      "title": "독립기념관 현충시설 순회전 &lt;태극기, 모두의 염원을 담다&gt;",
+      "amount": "",
+      "period": "2026.10.15 ~ 2026.11.30",
+      "start": "2026-10-15",
+      "end": "2026-11-30",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[제주 문화 알림] 독립기념관 현충시설 순회전 &lt;태극기, 모두의 염원을 담다&gt;. 장소: 제주항일기념관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 50,
+      "areaNm": "제주",
+      "sigunguCd": 50110,
+      "sigunguNm": "제주시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%9C%EC%A3%BC%ED%95%AD%EC%9D%BC%EA%B8%B0%EB%85%90%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000128,
+      "title": "기획전시 《김만덕, 기록이 되다》",
+      "amount": "",
+      "period": "2026.10.22 ~ 2027.01.31",
+      "start": "2026-10-22",
+      "end": "2027-01-31",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[제주 문화 알림] 기획전시 《김만덕, 기록이 되다》. 장소: 김만덕기념관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 50,
+      "areaNm": "제주",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B9%80%EB%A7%8C%EB%8D%95%EA%B8%B0%EB%85%90%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000129,
+      "title": "2026 김만덕주간 &#39;마음을 잇다, 세상을 밝히다&#39;",
+      "amount": "",
+      "period": "2026.10.23 ~ 2026.10.30",
+      "start": "2026-10-23",
+      "end": "2026-10-30",
+      "type": "축제/행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[제주 문화 알림] 2026 김만덕주간 &#39;마음을 잇다, 세상을 밝히다&#39;. 장소: 김만덕기념관 만덕홀 및 모충사 경내 김만덕묘탑. 분야: 행사/축제",
+      "color": "#0064FF",
+      "tags": [
+        "culture",
+        "festival"
+      ],
+      "areaCd": 50,
+      "areaNm": "제주",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B9%80%EB%A7%8C%EB%8D%95%EA%B8%B0%EB%85%90%EA%B4%80%20%EB%A7%8C%EB%8D%95%ED%99%80%20%EB%B0%8F%20%EB%AA%A8%EC%B6%A9%EC%82%AC%20%EA%B2%BD%EB%82%B4%20%EA%B9%80%EB%A7%8C%EB%8D%95%EB%AC%98%ED%83%91",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000130,
+      "title": "[상설전시] 강원도, 불교도의 이상향",
+      "amount": "",
+      "period": "2025.09.16 ~ 2027.12.31",
+      "start": "2025-09-16",
+      "end": "2027-12-31",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[강원 문화 알림] [상설전시] 강원도, 불교도의 이상향. 장소: 국립춘천박물관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 51,
+      "areaNm": "강원",
+      "sigunguCd": 51110,
+      "sigunguNm": "춘천시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B5%AD%EB%A6%BD%EC%B6%98%EC%B2%9C%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000131,
+      "title": "국립춘천박물관 &#39;강원의 삶과 이상향&#39;",
+      "amount": "",
+      "period": "2025.11.11 ~ 2028.12.31",
+      "start": "2025-11-11",
+      "end": "2028-12-31",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[강원 문화 알림] 국립춘천박물관 &#39;강원의 삶과 이상향&#39;. 장소: 국립춘천박물관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 51,
+      "areaNm": "강원",
+      "sigunguCd": 51110,
+      "sigunguNm": "춘천시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B5%AD%EB%A6%BD%EC%B6%98%EC%B2%9C%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000132,
+      "title": "국립춘천박물관 브랜드2 &#39;강원의 불교미술, 깨달음을 찾는 길&#39;",
+      "amount": "",
+      "period": "2025.11.25 ~ 2026.12.31",
+      "start": "2025-11-25",
+      "end": "2026-12-31",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[강원 문화 알림] 국립춘천박물관 브랜드2 &#39;강원의 불교미술, 깨달음을 찾는 길&#39;. 장소: 국립춘천박물관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 51,
+      "areaNm": "강원",
+      "sigunguCd": 51110,
+      "sigunguNm": "춘천시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B5%AD%EB%A6%BD%EC%B6%98%EC%B2%9C%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000133,
+      "title": "[갤러리 원] 2026년 정기 대관모집",
+      "amount": "",
+      "period": "2026.01.01 ~ 2026.12.31",
+      "start": "2026-01-01",
+      "end": "2026-12-31",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[강원 문화 알림] [갤러리 원] 2026년 정기 대관모집. 장소: 갤러리 원. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 51,
+      "areaNm": "강원",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B0%A4%EB%9F%AC%EB%A6%AC%20%EC%9B%90",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000134,
+      "title": "여초서예관 2026 여초서예교실 서예강좌",
+      "amount": "",
+      "period": "2026.03.07 ~ 2026.12.31",
+      "start": "2026-03-07",
+      "end": "2026-12-31",
+      "type": "교육/체험",
+      "source": "https://www.culture.go.kr/",
+      "note": "[강원 문화 알림] 여초서예관 2026 여초서예교실 서예강좌. 장소: 전국. 분야: 교육/체험",
+      "color": "#FF2D55",
+      "tags": [
+        "culture",
+        "education"
+      ],
+      "areaCd": 51,
+      "areaNm": "강원",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EA%B5%AD",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000135,
+      "title": "[정선] 아리아라리 - 뮤지컬 퍼포먼스",
+      "amount": "",
+      "period": "2026.04.02 ~ 2026.11.27",
+      "start": "2026-04-02",
+      "end": "2026-11-27",
+      "type": "공연",
+      "source": "https://www.culture.go.kr/",
+      "note": "[강원 문화 알림] [정선] 아리아라리 - 뮤지컬 퍼포먼스. 장소: 정선아리랑센터 아리랑홀. 분야: 뮤지컬/오페라",
+      "color": "#FF9500",
+      "tags": [
+        "culture",
+        "theater"
+      ],
+      "areaCd": 51,
+      "areaNm": "강원",
+      "sigunguCd": 51770,
+      "sigunguNm": "정선군",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%95%EC%84%A0%EC%95%84%EB%A6%AC%EB%9E%91%EC%84%BC%ED%84%B0%20%EC%95%84%EB%A6%AC%EB%9E%91%ED%99%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000136,
+      "title": "[정선] 뗏꾼 - 정선아리랑 토요상설공연",
+      "amount": "",
+      "period": "2026.04.04 ~ 2026.11.28",
+      "start": "2026-04-04",
+      "end": "2026-11-28",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[강원 문화 알림] [정선] 뗏꾼 - 정선아리랑 토요상설공연. 장소: 정선아리랑센터 아리랑홀. 분야: 국악",
+      "color": "#5AC8FA",
+      "tags": [
+        "culture"
+      ],
+      "areaCd": 51,
+      "areaNm": "강원",
+      "sigunguCd": 51770,
+      "sigunguNm": "정선군",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%95%EC%84%A0%EC%95%84%EB%A6%AC%EB%9E%91%EC%84%BC%ED%84%B0%20%EC%95%84%EB%A6%AC%EB%9E%91%ED%99%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000137,
+      "title": "[속초] 월간 하랑: 계절의 온도",
+      "amount": "",
+      "period": "2026.06.27 ~ 2026.12.26",
+      "start": "2026-06-27",
+      "end": "2026-12-26",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[강원 문화 알림] [속초] 월간 하랑: 계절의 온도. 장소: 소극장 초속. 분야: 음악/콘서트",
+      "color": "#5AC8FA",
+      "tags": [
+        "culture"
+      ],
+      "areaCd": 51,
+      "areaNm": "강원",
+      "sigunguCd": 51210,
+      "sigunguNm": "속초시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%86%8C%EA%B7%B9%EC%9E%A5%20%EC%B4%88%EC%86%8D",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000138,
+      "title": "민들레의 영토에서 해인의 바다로 상설전 안내",
+      "amount": "",
+      "period": "2026.07.14 ~ 2027.06.13",
+      "start": "2026-07-14",
+      "end": "2027-06-13",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[강원 문화 알림] 민들레의 영토에서 해인의 바다로 상설전 안내. 장소: 양구인문학박물관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 51,
+      "areaNm": "강원",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%96%91%EA%B5%AC%EC%9D%B8%EB%AC%B8%ED%95%99%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000139,
+      "title": "아리랑박물관 기획전시 「석탄산업유산의 기억, 빛을 캐던 사람들」",
+      "amount": "",
+      "period": "2026.07.16 ~ 2027.06.30",
+      "start": "2026-07-16",
+      "end": "2027-06-30",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[강원 문화 알림] 아리랑박물관 기획전시 「석탄산업유산의 기억, 빛을 캐던 사람들」. 장소: 아리랑박물관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 51,
+      "areaNm": "강원",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%95%84%EB%A6%AC%EB%9E%91%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000140,
+      "title": "어진박물관 실감콘텐츠 체험관",
+      "amount": "",
+      "period": "2022.06.07 ~ 2032.06.30",
+      "start": "2022-06-07",
+      "end": "2032-06-30",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[전북 문화 알림] 어진박물관 실감콘텐츠 체험관. 장소: 어진박물관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 52,
+      "areaNm": "전북",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%96%B4%EC%A7%84%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000141,
+      "title": "[남원] 차와 이야기가 있는 국악콘서트 &lt;다담&gt;",
+      "amount": "",
+      "period": "2026.03.25 ~ 2026.11.25",
+      "start": "2026-03-25",
+      "end": "2026-11-25",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[전북 문화 알림] [남원] 차와 이야기가 있는 국악콘서트 &lt;다담&gt;. 장소: 국립민속국악원 예음헌. 분야: 음악/콘서트",
+      "color": "#5AC8FA",
+      "tags": [
+        "culture"
+      ],
+      "areaCd": 52,
+      "areaNm": "전북",
+      "sigunguCd": 52190,
+      "sigunguNm": "남원시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B5%AD%EB%A6%BD%EB%AF%BC%EC%86%8D%EA%B5%AD%EC%95%85%EC%9B%90%20%EC%98%88%EC%9D%8C%ED%97%8C",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000142,
+      "title": "2026년 &#39;한지에 서예를 담다&#39;",
+      "amount": "",
+      "period": "2026.04.01 ~ 2026.10.31",
+      "start": "2026-04-01",
+      "end": "2026-10-31",
+      "type": "교육/체험",
+      "source": "https://www.culture.go.kr/",
+      "note": "[전북 문화 알림] 2026년 &#39;한지에 서예를 담다&#39;. 장소: 전국. 분야: 교육/체험",
+      "color": "#FF2D55",
+      "tags": [
+        "culture",
+        "education"
+      ],
+      "areaCd": 52,
+      "areaNm": "전북",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EA%B5%AD",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000143,
+      "title": "제5회 전주미니재즈페스티벌",
+      "amount": "",
+      "period": "2026.04.18 ~ 2026.10.31",
+      "start": "2026-04-18",
+      "end": "2026-10-31",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[전북 문화 알림] 제5회 전주미니재즈페스티벌. 장소: 더바인홀. 분야: 음악/콘서트",
+      "color": "#5AC8FA",
+      "tags": [
+        "culture"
+      ],
+      "areaCd": 52,
+      "areaNm": "전북",
+      "sigunguCd": 52110,
+      "sigunguNm": "전주시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%8D%94%EB%B0%94%EC%9D%B8%ED%99%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000144,
+      "title": "《고귀하고 고귀한 Ⅳ》",
+      "amount": "",
+      "period": "2026.07.10 ~ 2026.11.08",
+      "start": "2026-07-10",
+      "end": "2026-11-08",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[전북 문화 알림] 《고귀하고 고귀한 Ⅳ》. 장소: 전북도립미술관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 52,
+      "areaNm": "전북",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EB%B6%81%EB%8F%84%EB%A6%BD%EB%AF%B8%EC%88%A0%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000145,
+      "title": "2026 공연활성 무대지원사업 &lceil;수요일 수많은 콘서트&rfloor;",
+      "amount": "",
+      "period": "2026.07.22 ~ 2026.10.28",
+      "start": "2026-07-22",
+      "end": "2026-10-28",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[전북 문화 알림] 2026 공연활성 무대지원사업 &lceil;수요일 수많은 콘서트&rfloor;. 장소: 전주한벽문화관. 분야: 음악/콘서트",
+      "color": "#5AC8FA",
+      "tags": [
+        "culture"
+      ],
+      "areaCd": 52,
+      "areaNm": "전북",
+      "sigunguCd": 52110,
+      "sigunguNm": "전주시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EC%A3%BC%ED%95%9C%EB%B2%BD%EB%AC%B8%ED%99%94%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000146,
+      "title": "[전주] 하나,둘,셋,김치!",
+      "amount": "",
+      "period": "2026.08.14 ~ 2026.10.31",
+      "start": "2026-08-14",
+      "end": "2026-10-31",
+      "type": "공연",
+      "source": "https://www.culture.go.kr/",
+      "note": "[전북 문화 알림] [전주] 하나,둘,셋,김치!. 장소: 김영오 아트센터. 분야: 연극",
+      "color": "#FF9500",
+      "tags": [
+        "culture",
+        "theater"
+      ],
+      "areaCd": 52,
+      "areaNm": "전북",
+      "sigunguCd": 52110,
+      "sigunguNm": "전주시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B9%80%EC%98%81%EC%98%A4%20%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000147,
+      "title": "[전주] 오늘부터 맑음",
+      "amount": "",
+      "period": "2026.08.15 ~ 2026.10.31",
+      "start": "2026-08-15",
+      "end": "2026-10-31",
+      "type": "공연",
+      "source": "https://www.culture.go.kr/",
+      "note": "[전북 문화 알림] [전주] 오늘부터 맑음. 장소: 김영오 아트센터. 분야: 연극",
+      "color": "#FF9500",
+      "tags": [
+        "culture",
+        "theater"
+      ],
+      "areaCd": 52,
+      "areaNm": "전북",
+      "sigunguCd": 52110,
+      "sigunguNm": "전주시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B9%80%EC%98%81%EC%98%A4%20%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000148,
+      "title": "[전주] 조선셰프 한상궁",
+      "amount": "",
+      "period": "2026.08.28 ~ 2026.11.13",
+      "start": "2026-08-28",
+      "end": "2026-11-13",
+      "type": "공연",
+      "source": "https://www.culture.go.kr/",
+      "note": "[전북 문화 알림] [전주] 조선셰프 한상궁. 장소: 전주소리문화관 놀이마당(야외마당). 분야: 뮤지컬/오페라",
+      "color": "#FF9500",
+      "tags": [
+        "culture",
+        "theater"
+      ],
+      "areaCd": 52,
+      "areaNm": "전북",
+      "sigunguCd": 52110,
+      "sigunguNm": "전주시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EC%A3%BC%EC%86%8C%EB%A6%AC%EB%AC%B8%ED%99%94%EA%B4%80%20%EB%86%80%EC%9D%B4%EB%A7%88%EB%8B%B9%28%EC%95%BC%EC%99%B8%EB%A7%88%EB%8B%B9%29",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000149,
+      "title": "《고귀하고 고귀한 Ⅴ》",
+      "amount": "",
+      "period": "2026.09.04 ~ 2026.12.06",
+      "start": "2026-09-04",
+      "end": "2026-12-06",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[전북 문화 알림] 《고귀하고 고귀한 Ⅴ》. 장소: 전북도립미술관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 52,
+      "areaNm": "전북",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EB%B6%81%EB%8F%84%EB%A6%BD%EB%AF%B8%EC%88%A0%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000150,
+      "title": "패트릭 블랑: 수직정원",
+      "amount": "",
+      "period": "2018.06.16 ~ 2028.12.31",
+      "start": "2018-06-16",
+      "end": "2028-12-31",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[부산 문화 알림] 패트릭 블랑: 수직정원. 장소: 부산현대미술관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 26,
+      "areaNm": "부산",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%B6%80%EC%82%B0%ED%98%84%EB%8C%80%EB%AF%B8%EC%88%A0%EA%B4%80",
+      "isAd": false,
+      "benefits": [
+        "동백전 (부산화폐)"
+      ]
+    },
+    {
+      "id": 1000151,
+      "title": "홍영철의 유산, 부산영화를 담다",
+      "amount": "",
+      "period": "2018.10.05 ~ 2030.12.31",
+      "start": "2018-10-05",
+      "end": "2030-12-31",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[부산 문화 알림] 홍영철의 유산, 부산영화를 담다. 장소: 부산영화체험박물관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 26,
+      "areaNm": "부산",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%B6%80%EC%82%B0%EC%98%81%ED%99%94%EC%B2%B4%ED%97%98%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "isAd": false,
+      "benefits": [
+        "동백전 (부산화폐)"
+      ]
+    },
+    {
+      "id": 1000152,
+      "title": "이우환 공간 상설전시",
+      "amount": "",
+      "period": "2023.01.01 ~ 2030.12.31",
+      "start": "2023-01-01",
+      "end": "2030-12-31",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[부산 문화 알림] 이우환 공간 상설전시. 장소: 이우환 공간. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 26,
+      "areaNm": "부산",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%9D%B4%EC%9A%B0%ED%99%98%20%EA%B3%B5%EA%B0%84",
+      "isAd": false,
+      "benefits": [
+        "동백전 (부산화폐)"
+      ]
+    },
+    {
+      "id": 1000153,
+      "title": "2025년 박물관 미술관 주간 「뮤지엄&times;만나다」 - 큰이빨부리고래 전신 골격",
+      "amount": "",
+      "period": "2025.03.01 ~ 2026.12.31",
+      "start": "2025-03-01",
+      "end": "2026-12-31",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[부산 문화 알림] 2025년 박물관 미술관 주간 「뮤지엄&times;만나다」 - 큰이빨부리고래 전신 골격. 장소: 부산해양자연사박물관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 26,
+      "areaNm": "부산",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%B6%80%EC%82%B0%ED%95%B4%EC%96%91%EC%9E%90%EC%97%B0%EC%82%AC%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "isAd": false,
+      "benefits": [
+        "동백전 (부산화폐)"
+      ]
+    },
+    {
+      "id": 1000155,
+      "title": "2026년 국립해양박물관 테마전시 &lt;푸른 심장, 맹그로브&gt;",
+      "amount": "",
+      "period": "2026.05.19 ~ 2027.06.27",
+      "start": "2026-05-19",
+      "end": "2027-06-27",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[부산 문화 알림] 2026년 국립해양박물관 테마전시 &lt;푸른 심장, 맹그로브&gt;. 장소: 국립해양박물관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 26,
+      "areaNm": "부산",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B5%AD%EB%A6%BD%ED%95%B4%EC%96%91%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "isAd": false,
+      "benefits": [
+        "동백전 (부산화폐)"
+      ]
+    },
+    {
+      "id": 1000156,
+      "title": "[부산] 그때, 변홍례",
+      "amount": "",
+      "period": "2026.05.22 ~ 2026.12.31",
+      "start": "2026-05-22",
+      "end": "2026-12-31",
+      "type": "공연",
+      "source": "https://www.culture.go.kr/",
+      "note": "[부산 문화 알림] [부산] 그때, 변홍례. 장소: 어댑터씨어터. 분야: 연극",
+      "color": "#FF9500",
+      "tags": [
+        "culture",
+        "theater"
+      ],
+      "areaCd": 26,
+      "areaNm": "부산",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%96%B4%EB%8C%91%ED%84%B0%EC%94%A8%EC%96%B4%ED%84%B0",
+      "isAd": false,
+      "benefits": [
+        "동백전 (부산화폐)"
+      ]
+    },
+    {
+      "id": 1000157,
+      "title": "2026년 기획전시 &lt;호랑이 담배 피던 시절&gt;",
+      "amount": "",
+      "period": "2026.06.23 ~ 2027.01.31",
+      "start": "2026-06-23",
+      "end": "2027-01-31",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[부산 문화 알림] 2026년 기획전시 &lt;호랑이 담배 피던 시절&gt;. 장소: 사상생활사박물관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 26,
+      "areaNm": "부산",
+      "sigunguCd": 26530,
+      "sigunguNm": "사상구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%82%AC%EC%83%81%EC%83%9D%ED%99%9C%EC%82%AC%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "isAd": false,
+      "benefits": [
+        "동백전 (부산화폐)"
+      ]
+    },
+    {
+      "id": 1000158,
+      "title": "발코니 뮤직쇼 앤 스트릿 페스타",
+      "amount": "",
+      "period": "2026.07.25 ~ 2026.12.19",
+      "start": "2026-07-25",
+      "end": "2026-12-19",
+      "type": "축제/행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[부산 문화 알림] 발코니 뮤직쇼 앤 스트릿 페스타. 장소: 부산 중구 광복로 차 없는 거리. 분야: 행사/축제",
+      "color": "#0064FF",
+      "tags": [
+        "culture",
+        "festival"
+      ],
+      "areaCd": 26,
+      "areaNm": "부산",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%B6%80%EC%82%B0%20%EC%A4%91%EA%B5%AC%20%EA%B4%91%EB%B3%B5%EB%A1%9C%20%EC%B0%A8%20%EC%97%86%EB%8A%94%20%EA%B1%B0%EB%A6%AC",
+      "isAd": false,
+      "benefits": [
+        "동백전 (부산화폐)"
+      ]
+    },
+    {
+      "id": 1000159,
+      "title": "2026 별바다부산 나이트페스타",
+      "amount": "",
+      "period": "2026.08.01 ~ 2026.12.31",
+      "start": "2026-08-01",
+      "end": "2026-12-31",
+      "type": "축제/행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[부산 문화 알림] 2026 별바다부산 나이트페스타. 장소: apec나루공원 외. 분야: 행사/축제",
+      "color": "#0064FF",
+      "tags": [
+        "culture",
+        "festival"
+      ],
+      "areaCd": 26,
+      "areaNm": "부산",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=apec%EB%82%98%EB%A3%A8%EA%B3%B5%EC%9B%90%20%EC%99%B8",
+      "isAd": false,
+      "benefits": [
+        "동백전 (부산화폐)"
+      ]
+    },
+    {
+      "id": 1000160,
+      "title": "《우리는 지구별 친구들》전시 연계 - 상설 체험 프로그램",
+      "amount": "",
+      "period": "2025.04.17 ~ 2026.12.31",
+      "start": "2025-04-17",
+      "end": "2026-12-31",
+      "type": "교육/체험",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경기 문화 알림] 《우리는 지구별 친구들》전시 연계 - 상설 체험 프로그램. 장소: 경기도어린이박물관. 분야: 교육/체험",
+      "color": "#FF2D55",
+      "tags": [
+        "culture",
+        "education"
+      ],
+      "areaCd": 41,
+      "areaNm": "경기",
+      "sigunguCd": 41460,
+      "sigunguNm": "용인시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B2%BD%EA%B8%B0%EB%8F%84%EC%96%B4%EB%A6%B0%EC%9D%B4%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "isAd": false,
+      "benefits": [
+        "경기지역화폐"
+      ]
+    }
+  ],
+  "__benefits_pool__": [
+    {
+      "name": "정부 근로자 휴가지원금",
+      "desc": "한국관광공사 휴가샵에서만 쓰는 국내여행 포인트 (본인 20만+기업 10만+정부 10만 원). 휴가샵에 등록된 숙박·교통·입장권 상품에만 사용 가능",
+      "link": "https://vacation.visitkorea.or.kr/",
+      "eligible": "company_vacation"
+    },
+    {
+      "name": "문화누리카드",
+      "desc": "저소득층 연 13만원 지원 카드 — 문화누리 가맹점으로 등록된 공연·전시·여행 상품 결제에만 사용 가능",
+      "link": "https://www.mnuri.kr/",
+      "eligible": "low_income"
+    },
+    {
+      "name": "다자녀 가족 무료/할인 입장",
+      "desc": "시설 요금표에 다자녀 감면이 있는 곳에서 다자녀카드 제시 시 입장료 면제 또는 감면 (시설별 상이)",
+      "link": "https://search.naver.com/search.naver?query=%EB%8B%A4%EC%9E%90%EB%85%80%20%ED%98%9C%ED%83%9D",
+      "eligible": "multi_child"
+    },
+    {
+      "name": "장애인 무료/할인 입장",
+      "desc": "시설 요금표에 장애인 감면이 있는 곳에서 복지카드 제시 시 입장료 면제 또는 감면 (시설별 상이)",
+      "link": "https://search.naver.com/search.naver?query=%EC%9E%A5%EC%95%A0%EC%9D%B8%20%EB%B3%B5%EC%A7%80%EC%B9%B4%EB%93%9C%20%ED%98%9C%ED%83%9D",
+      "eligible": "disabled"
+    },
+    {
+      "name": "국가유공자 무료/할인 입장",
+      "desc": "국가유공자증 제시 시 국립 시설·행사 입장료 면제 또는 할인",
+      "link": "https://www.mpva.go.kr/",
+      "eligible": "national_merit"
+    },
+    {
+      "name": "경로 무료/할인 입장",
+      "desc": "만 65세 이상 어르신 — 시설 요금표에 경로 감면이 있는 곳에서 신분증 제시 시 할인 또는 면제",
+      "link": "https://search.naver.com/search.naver?query=%EA%B2%BD%EB%A1%9C%20%EC%9A%B0%EB%8C%80%20%ED%98%9C%ED%83%9D",
+      "eligible": "senior"
+    },
+    {
+      "name": "청년 문화 지원 할인",
+      "desc": "청년(만 19~39세) — 시설·행사가 청년 할인을 명시한 곳에서 신분증 제시 시 할인",
+      "link": "https://www.youth.go.kr/",
+      "eligible": "youth"
+    },
+    {
+      "name": "한부모가족 지원 할인",
+      "desc": "한부모가족 증명서 제시 시 문화·여가 시설 이용료 감면",
+      "link": "https://www.bokjiro.go.kr/",
+      "eligible": "single_parent"
+    },
+    {
+      "name": "임산부 배려 혜택",
+      "desc": "임산부 배려석·우선 입장 등 시설이 명시한 배려 혜택 (무료 입장은 시설별 확인 필요)",
+      "link": "https://search.naver.com/search.naver?query=%EC%9E%84%EC%82%B0%EB%B6%80%20%EB%B0%B0%EB%A0%A4%20%ED%98%9C%ED%83%9D",
+      "eligible": "pregnant"
+    },
+    {
+      "name": "서울사랑상품권",
+      "desc": "행사장 주변 서울 가맹점에서 결제할 때 할인 적용 (할인율·한도는 서울페이플러스 공고 확인)",
+      "link": "https://seoulpay.seoul.go.kr/"
+    },
+    {
+      "name": "인천사랑상품권 (인천e음)",
+      "desc": "행사장 주변 인천 가맹점에서 결제할 때 캐시백 적용 (비율·한도는 인천e음 공고 확인)",
+      "link": "https://www.incheon.go.kr/"
+    },
+    {
+      "name": "동백전 (부산화폐)",
+      "desc": "행사장 주변 부산 가맹점에서 결제할 때 캐시백 적용 (비율·한도는 동백전 공고 확인)",
+      "link": "https://www.bscard.or.kr/"
+    },
+    {
+      "name": "경기지역화폐",
+      "desc": "행사장 주변 경기 가맹점에서 결제할 때 인센티브 적용 (비율·한도는 시·군별 공고 확인)",
+      "link": "https://www.gmoney.or.kr/"
+    }
+  ],
+  "__barrier__": [
+    {
+      "id": 80001,
+      "title": "서울 경복궁 장애인/유모차 무장애 보행로",
+      "amount": "동반자 포함 입장료 100% 면제",
+      "period": "상시 운영",
+      "type": "무장애",
+      "source": "https://royal.cha.go.kr/",
+      "note": "서울특별시 종로구 사직로 161 | 휠체어 전용 경사로 완비 및 유모차 대여 무료 서비스 제공.",
+      "color": "#34C759",
+      "tags": [
+        "barrier",
+        "free"
+      ],
+      "areaCd": 11,
+      "areaNm": "서울",
+      "sigunguCd": 11110,
+      "sigunguNm": "종로구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%A2%85%EB%A1%9C%EA%B5%AC%20%EC%82%AC%EC%A7%81%EB%A1%9C%20161",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 80002,
+      "title": "정선군 화암동굴 교통약자 유모차 데크길",
+      "amount": "장애인 및 복지카드 지참자 50% 할인",
+      "period": "상시 운영",
+      "type": "무장애",
+      "source": "https://www.jsimc.or.kr/",
+      "note": "강원특별자치도 정선군 화암면 화암동굴길 12 | 휠체어 전용 경사로 완비 및 유모차 대여 무료 서비스 제공.",
+      "color": "#34C759",
+      "tags": [
+        "barrier",
+        "free"
+      ],
+      "areaCd": 51,
+      "areaNm": "강원",
+      "sigunguCd": 51770,
+      "sigunguNm": "정선군",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A0%95%EC%84%A0%EA%B5%B0%20%ED%99%94%EC%95%94%EB%A9%B4%20%ED%99%94%EC%95%94%EB%8F%99%EA%B5%B4%EA%B8%B8%2012",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 80003,
+      "title": "부산 태종대 무장애 다누비 열차 운행",
+      "amount": "휠체어 탑승 가능 리프트 버스 무료 지원",
+      "period": "상시 운영",
+      "type": "무장애",
+      "source": "https://tour.busan.go.kr/",
+      "note": "부산광역시 영도구 전망로 24 | 휠체어 전용 경사로 완비 및 유모차 대여 무료 서비스 제공.",
+      "color": "#34C759",
+      "tags": [
+        "barrier",
+        "free"
+      ],
+      "areaCd": 26,
+      "areaNm": "부산",
+      "sigunguCd": 26200,
+      "sigunguNm": "영도구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%98%81%EB%8F%84%EA%B5%AC%20%EC%A0%84%EB%A7%9D%EB%A1%9C%2024",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 80004,
+      "title": "평창 치유의숲 보행약자 전용 데크길",
+      "amount": "친환경 데크 숲 해설사 무료 가이드 매칭",
+      "period": "상시 운영",
+      "type": "무장애",
+      "source": "https://www.forest.go.kr/",
+      "note": "강원특별자치도 평창군 평창읍 | 휠체어 전용 경사로 완비 및 유모차 대여 무료 서비스 제공.",
+      "color": "#34C759",
+      "tags": [
+        "barrier",
+        "free"
+      ],
+      "areaCd": 51,
+      "areaNm": "강원",
+      "sigunguCd": 51760,
+      "sigunguNm": "평창군",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%ED%8F%89%EC%B0%BD%EA%B5%B0%20%ED%8F%89%EC%B0%BD%EC%9D%8D",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 80005,
+      "title": "제천 의림지 무장애 수변 데크로드",
+      "amount": "수변 데크길 및 의림지 역사 박물관 무료 입장",
+      "period": "상시 운영",
+      "type": "무장애",
+      "source": "https://www.jecheon.go.kr/",
+      "note": "충청북도 제천시 의림지로 33 | 휠체어 전용 경사로 완비 및 유모차 대여 무료 서비스 제공.",
+      "color": "#34C759",
+      "tags": [
+        "barrier",
+        "free"
+      ],
+      "areaCd": 43,
+      "areaNm": "충북",
+      "sigunguCd": 43150,
+      "sigunguNm": "제천시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%B6%A9%EC%B2%AD%EB%B6%81%EB%8F%84%20%EC%A0%9C%EC%B2%9C%EC%8B%9C%20%EC%9D%98%EB%A6%BC%EC%A7%80%EB%A1%9C%2033",
+      "isAd": false,
+      "benefits": []
+    }
+  ],
+  "__pet__": [
+    {
+      "id": 90001,
+      "title": "영덕 고캠핑 반려동물 동반 오토캠핑 사이트",
+      "amount": "반려견 동반 텐트 사이트 무료 패키지",
+      "period": "상시 운영",
+      "type": "반려동물",
+      "source": "https://www.yd.go.kr/",
+      "note": "경상북도 영덕군 병곡면 동해대로 | 오프리쉬 반려견 안심 놀이공간 및 목줄 착용 시 무료 출입 제공.",
+      "color": "#34C759",
+      "tags": [
+        "pet"
+      ],
+      "areaCd": 47,
+      "areaNm": "경북",
+      "sigunguCd": 47820,
+      "sigunguNm": "영덕군",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B2%BD%EC%83%81%EB%B6%81%EB%8F%84%20%EC%98%81%EB%8D%95%EA%B5%B0%20%EB%B3%91%EA%B3%A1%EB%A9%B4%20%EB%8F%99%ED%95%B4%EB%8C%80%EB%A1%9C",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 90002,
+      "title": "태안 댕댕버스 반려동물 셔틀 운행 할인",
+      "amount": "댕댕버스 탑승 패키지 즉시 20,000원 지원",
+      "period": "상시 운영",
+      "type": "반려동물",
+      "source": "https://www.taean.go.kr/",
+      "note": "충청남도 태안군 태안읍 | 오프리쉬 반려견 안심 놀이공간 및 목줄 착용 시 무료 출입 제공.",
+      "color": "#34C759",
+      "tags": [
+        "pet"
+      ],
+      "areaCd": 44,
+      "areaNm": "충남",
+      "sigunguCd": 44825,
+      "sigunguNm": "태안군",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%B6%A9%EC%B2%AD%EB%82%A8%EB%8F%84%20%ED%83%9C%EC%95%88%EA%B5%B0%20%ED%83%9C%EC%95%88%EC%9D%8D",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 90003,
+      "title": "춘천 남이섬 반려동물 동반 입장 혜택",
+      "amount": "댕댕이 놀이터 및 전용 크루즈 탑승 무료",
+      "period": "상시 운영",
+      "type": "반려동물",
+      "source": "https://namisum.com/",
+      "note": "강원특별자치도 춘천시 남산면 남이섬길 1 | 오프리쉬 반려견 안심 놀이공간 및 목줄 착용 시 무료 출입 제공.",
+      "color": "#34C759",
+      "tags": [
+        "pet"
+      ],
+      "areaCd": 51,
+      "areaNm": "강원",
+      "sigunguCd": 51110,
+      "sigunguNm": "춘천시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%B6%98%EC%B2%9C%EC%8B%9C%20%EB%82%A8%EC%82%B0%EB%A9%B4%20%EB%82%A8%EC%9D%B4%EC%84%AC%EA%B8%B8%201",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 90004,
+      "title": "울진 구수곡자연휴양림 야영장 반려동물 구역",
+      "amount": "반려동물 가구 전용 야영 데크 특별 할인",
+      "period": "상시 운영",
+      "type": "반려동물",
+      "source": "https://www.uljin.go.kr/",
+      "note": "경상북도 울진군 북면 | 오프리쉬 반려견 안심 놀이공간 및 목줄 착용 시 무료 출입 제공.",
+      "color": "#34C759",
+      "tags": [
+        "pet"
+      ],
+      "areaCd": 47,
+      "areaNm": "경북",
+      "sigunguCd": 47930,
+      "sigunguNm": "울진군",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B2%BD%EC%83%81%EB%B6%81%EB%8F%84%20%EC%9A%B8%EC%A7%84%EA%B5%B0%20%EB%B6%81%EB%A9%B4",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 90005,
+      "title": "여수 댕댕이 웰컴 파크 놀이터",
+      "amount": "시립 반려견 안심 놀이공원 전면 무료 개방",
+      "period": "상시 운영",
+      "type": "반려동물",
+      "source": "https://www.yeosu.go.kr/",
+      "note": "전라남도 여수시 시청로 1 | 오프리쉬 반려견 안심 놀이공간 및 목줄 착용 시 무료 출입 제공.",
+      "color": "#34C759",
+      "tags": [
+        "pet"
+      ],
+      "areaCd": 46,
+      "areaNm": "전남",
+      "sigunguCd": 46130,
+      "sigunguNm": "여수시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EB%9D%BC%EB%82%A8%EB%8F%84%20%EC%97%AC%EC%88%98%EC%8B%9C%20%EC%8B%9C%EC%B2%AD%EB%A1%9C%201",
+      "isAd": false,
+      "benefits": []
+    }
+  ]
+}
