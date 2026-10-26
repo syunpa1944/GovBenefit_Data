@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated": "2026-10-25",
+  "generated": "2026-10-26",
   "items": [
     {
       "id": 501100,
@@ -2222,14 +2222,14 @@
     },
     {
       "id": 1000058,
-      "title": "[울산] 그대는 봄",
+      "title": "[울산] 돼지바람",
       "amount": "",
-      "period": "2026.10.23 ~ 2026.10.28",
-      "start": "2026-10-23",
-      "end": "2026-10-28",
+      "period": "2026.10.17 ~ 2026.11.07",
+      "start": "2026-10-17",
+      "end": "2026-11-07",
       "type": "공연",
       "source": "https://www.culture.go.kr/",
-      "note": "[울산 문화 알림] [울산] 그대는 봄. 장소: 아트홀 마당. 분야: 뮤지컬/오페라",
+      "note": "[울산 문화 알림] [울산] 돼지바람. 장소: 레미어린이극장 [울산진장]. 분야: 뮤지컬/오페라",
       "color": "#FF9500",
       "tags": [
         "culture",
@@ -2239,29 +2239,30 @@
       "areaNm": "울산",
       "sigunguCd": 0,
       "sigunguNm": "전체",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%95%84%ED%8A%B8%ED%99%80%20%EB%A7%88%EB%8B%B9",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%A0%88%EB%AF%B8%EC%96%B4%EB%A6%B0%EC%9D%B4%EA%B7%B9%EC%9E%A5%20%5B%EC%9A%B8%EC%82%B0%EC%A7%84%EC%9E%A5%5D",
       "isAd": false,
       "benefits": []
     },
     {
       "id": 1000059,
-      "title": "[울산] 아트 온 스크린, 오페라 <아디나> (영상화)",
+      "title": "현대 트랜스로컬 시리즈: 호 추 니엔",
       "amount": "",
-      "period": "2026.10.27 ~ 2026.10.27",
-      "start": "2026-10-27",
-      "end": "2026-10-27",
-      "type": "문화행사",
+      "period": "2026.10.22 ~ 2027.02.21",
+      "start": "2026-10-22",
+      "end": "2027-02-21",
+      "type": "전시",
       "source": "https://www.culture.go.kr/",
-      "note": "[울산 문화 알림] [울산] 아트 온 스크린, 오페라 <아디나> (영상화). 장소: 울산중구문화의전당 함월홀(2층). 분야: 음악/콘서트",
-      "color": "#5AC8FA",
+      "note": "[울산 문화 알림] 현대 트랜스로컬 시리즈: 호 추 니엔. 장소: 울산시립미술관. 분야: 전시",
+      "color": "#AF52DE",
       "tags": [
-        "culture"
+        "culture",
+        "exhibition"
       ],
       "areaCd": 31,
       "areaNm": "울산",
       "sigunguCd": 0,
       "sigunguNm": "전체",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%9A%B8%EC%82%B0%EC%A4%91%EA%B5%AC%EB%AC%B8%ED%99%94%EC%9D%98%EC%A0%84%EB%8B%B9%20%ED%95%A8%EC%9B%94%ED%99%80%282%EC%B8%B5%29",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%9A%B8%EC%82%B0%EC%8B%9C%EB%A6%BD%EB%AF%B8%EC%88%A0%EA%B4%80",
       "isAd": false,
       "benefits": []
     },
@@ -3120,29 +3121,6 @@
     },
     {
       "id": 1000096,
-      "title": "[도고아트홀] 2026년 10월 기획 공연 안내",
-      "amount": "",
-      "period": "2026.10.01 ~ 2026.10.31",
-      "start": "2026-10-01",
-      "end": "2026-10-31",
-      "type": "문화행사",
-      "source": "https://www.culture.go.kr/",
-      "note": "[충남 문화 알림] [도고아트홀] 2026년 10월 기획 공연 안내. 장소: 도고아트홀. 분야: 아동/가족",
-      "color": "#34C759",
-      "tags": [
-        "culture",
-        "family"
-      ],
-      "areaCd": 44,
-      "areaNm": "충남",
-      "sigunguCd": 0,
-      "sigunguNm": "전체",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%8F%84%EA%B3%A0%EC%95%84%ED%8A%B8%ED%99%80",
-      "isAd": false,
-      "benefits": []
-    },
-    {
-      "id": 1000097,
       "title": "2026 천안시립문학관 문학창작아카데미 <책크숍>",
       "amount": "",
       "period": "2026.10.01 ~ 2026.11.30",
@@ -3161,6 +3139,29 @@
       "sigunguCd": 44130,
       "sigunguNm": "천안시",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EA%B5%AD",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000097,
+      "title": "[도고아트홀] 2026년 10월 기획 공연 안내",
+      "amount": "",
+      "period": "2026.10.01 ~ 2026.10.31",
+      "start": "2026-10-01",
+      "end": "2026-10-31",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[충남 문화 알림] [도고아트홀] 2026년 10월 기획 공연 안내. 장소: 도고아트홀. 분야: 아동/가족",
+      "color": "#34C759",
+      "tags": [
+        "culture",
+        "family"
+      ],
+      "areaCd": 44,
+      "areaNm": "충남",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%8F%84%EA%B3%A0%EC%95%84%ED%8A%B8%ED%99%80",
       "isAd": false,
       "benefits": []
     },
@@ -3397,6 +3398,28 @@
     },
     {
       "id": 1000108,
+      "title": "[군위] 지브리 & 엔니오모리꼬네 클림오케스트라 콘서트",
+      "amount": "",
+      "period": "2026.10.29 ~ 2026.10.29",
+      "start": "2026-10-29",
+      "end": "2026-10-29",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경북 문화 알림] [군위] 지브리 & 엔니오모리꼬네 클림오케스트라 콘서트. 장소: 군위 삼국유사교육문화회관 공연장. 분야: 음악/콘서트",
+      "color": "#5AC8FA",
+      "tags": [
+        "culture"
+      ],
+      "areaCd": 47,
+      "areaNm": "경북",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B5%B0%EC%9C%84%20%EC%82%BC%EA%B5%AD%EC%9C%A0%EC%82%AC%EA%B5%90%EC%9C%A1%EB%AC%B8%ED%99%94%ED%9A%8C%EA%B4%80%20%EA%B3%B5%EC%97%B0%EC%9E%A5",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000109,
       "title": "제 41회 김천시립국악단 정기연주회 : 광천光川",
       "amount": "",
       "period": "2026.10.29 ~ 2026.10.29",
@@ -3414,28 +3437,6 @@
       "sigunguCd": 47150,
       "sigunguNm": "김천시",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B9%80%EC%B2%9C%EC%8B%9C%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%ED%9A%8C%EA%B4%80%20%EB%8C%80%EA%B3%B5%EC%97%B0%EC%9E%A5",
-      "isAd": false,
-      "benefits": []
-    },
-    {
-      "id": 1000109,
-      "title": "2026 경산학교예술교육한마당: 회복, 예술로 다시 잇다",
-      "amount": "",
-      "period": "2026.10.29 ~ 2026.10.29",
-      "start": "2026-10-29",
-      "end": "2026-10-29",
-      "type": "문화행사",
-      "source": "https://www.culture.go.kr/",
-      "note": "[경북 문화 알림] 2026 경산학교예술교육한마당: 회복, 예술로 다시 잇다. 장소: 천마아트센터 그랜드홀. 분야: 기타",
-      "color": "#5AC8FA",
-      "tags": [
-        "culture"
-      ],
-      "areaCd": 47,
-      "areaNm": "경북",
-      "sigunguCd": 47290,
-      "sigunguNm": "경산시",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%B2%9C%EB%A7%88%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0%20%EA%B7%B8%EB%9E%9C%EB%93%9C%ED%99%80",
       "isAd": false,
       "benefits": []
     },
