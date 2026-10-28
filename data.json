@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated": "2026-10-27",
+  "generated": "2026-10-28",
   "items": [
     {
       "id": 501100,
@@ -2177,29 +2177,6 @@
     },
     {
       "id": 1000056,
-      "title": "[우리동네 MG갤러리] 조윤아 작가 《어떤 것은 부서지고, 어떤 것은 고스란히 남아》",
-      "amount": "",
-      "period": "2026.10.15 ~ 2026.11.13",
-      "start": "2026-10-15",
-      "end": "2026-11-13",
-      "type": "전시",
-      "source": "https://www.culture.go.kr/",
-      "note": "[울산 문화 알림] [우리동네 MG갤러리] 조윤아 작가 《어떤 것은 부서지고, 어떤 것은 고스란히 남아》. 장소: MG북울산새마을금고 우리동네 MG갤러리. 분야: 전시",
-      "color": "#AF52DE",
-      "tags": [
-        "culture",
-        "exhibition"
-      ],
-      "areaCd": 31,
-      "areaNm": "울산",
-      "sigunguCd": 0,
-      "sigunguNm": "전체",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MG%EB%B6%81%EC%9A%B8%EC%82%B0%EC%83%88%EB%A7%88%EC%9D%84%EA%B8%88%EA%B3%A0%20%EC%9A%B0%EB%A6%AC%EB%8F%99%EB%84%A4%20MG%EA%B0%A4%EB%9F%AC%EB%A6%AC",
-      "isAd": false,
-      "benefits": []
-    },
-    {
-      "id": 1000057,
       "title": "끝내지 못한 이야기-국민화가 이중섭",
       "amount": "",
       "period": "2026.10.15 ~ 2027.01.17",
@@ -2218,6 +2195,29 @@
       "sigunguCd": 0,
       "sigunguNm": "전체",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%9A%B8%EC%82%B0%EC%8B%9C%EB%A6%BD%EB%AF%B8%EC%88%A0%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000057,
+      "title": "[우리동네 MG갤러리] 조윤아 작가 《어떤 것은 부서지고, 어떤 것은 고스란히 남아》",
+      "amount": "",
+      "period": "2026.10.15 ~ 2026.11.13",
+      "start": "2026-10-15",
+      "end": "2026-11-13",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[울산 문화 알림] [우리동네 MG갤러리] 조윤아 작가 《어떤 것은 부서지고, 어떤 것은 고스란히 남아》. 장소: MG북울산새마을금고 우리동네 MG갤러리. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 31,
+      "areaNm": "울산",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=MG%EB%B6%81%EC%9A%B8%EC%82%B0%EC%83%88%EB%A7%88%EC%9D%84%EA%B8%88%EA%B3%A0%20%EC%9A%B0%EB%A6%AC%EB%8F%99%EB%84%A4%20MG%EA%B0%A4%EB%9F%AC%EB%A6%AC",
       "isAd": false,
       "benefits": []
     },
@@ -2269,27 +2269,25 @@
     },
     {
       "id": 1000060,
-      "title": "[세종] 국립심포니콘서트오케스트라와 함께하는 11시 여민락콘서트, 음악이 있는 오전 2 : 비엔나의 세 개 선율",
+      "title": "윤보라 비올라 독주회: Viola Spectrum",
       "amount": "",
-      "period": "2026.10.28 ~ 2026.10.28",
-      "start": "2026-10-28",
-      "end": "2026-10-28",
+      "period": "2026.10.29 ~ 2026.10.29",
+      "start": "2026-10-29",
+      "end": "2026-10-29",
       "type": "문화행사",
       "source": "https://www.culture.go.kr/",
-      "note": "[서울 문화 알림] [세종] 국립심포니콘서트오케스트라와 함께하는 11시 여민락콘서트, 음악이 있는 오전 2 : 비엔나의 세 개 선율. 장소: 세종예술의전당 대공연장. 분야: 음악/콘서트",
+      "note": "[세종 문화 알림] 윤보라 비올라 독주회: Viola Spectrum. 장소: 비오케이아트센터(BOK아트센터) 다목적공연장. 분야: 음악/콘서트",
       "color": "#5AC8FA",
       "tags": [
         "culture"
       ],
-      "areaCd": 11,
-      "areaNm": "서울",
-      "sigunguCd": 11650,
-      "sigunguNm": "서초구",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%84%B8%EC%A2%85%EC%98%88%EC%88%A0%EC%9D%98%EC%A0%84%EB%8B%B9%20%EB%8C%80%EA%B3%B5%EC%97%B0%EC%9E%A5",
+      "areaCd": 36,
+      "areaNm": "세종",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%B9%84%EC%98%A4%EC%BC%80%EC%9D%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0%28BOK%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0%29%20%EB%8B%A4%EB%AA%A9%EC%A0%81%EA%B3%B5%EC%97%B0%EC%9E%A5",
       "isAd": false,
-      "benefits": [
-        "서울사랑상품권"
-      ]
+      "benefits": []
     },
     {
       "id": 1000061,
@@ -3122,29 +3120,6 @@
     },
     {
       "id": 1000096,
-      "title": "[도고아트홀] 2026년 10월 기획 공연 안내",
-      "amount": "",
-      "period": "2026.10.01 ~ 2026.10.31",
-      "start": "2026-10-01",
-      "end": "2026-10-31",
-      "type": "문화행사",
-      "source": "https://www.culture.go.kr/",
-      "note": "[충남 문화 알림] [도고아트홀] 2026년 10월 기획 공연 안내. 장소: 도고아트홀. 분야: 아동/가족",
-      "color": "#34C759",
-      "tags": [
-        "culture",
-        "family"
-      ],
-      "areaCd": 44,
-      "areaNm": "충남",
-      "sigunguCd": 0,
-      "sigunguNm": "전체",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%8F%84%EA%B3%A0%EC%95%84%ED%8A%B8%ED%99%80",
-      "isAd": false,
-      "benefits": []
-    },
-    {
-      "id": 1000097,
       "title": "2026 천안시립문학관 문학창작아카데미 <책크숍>",
       "amount": "",
       "period": "2026.10.01 ~ 2026.11.30",
@@ -3163,6 +3138,29 @@
       "sigunguCd": 44130,
       "sigunguNm": "천안시",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EA%B5%AD",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000097,
+      "title": "[도고아트홀] 2026년 10월 기획 공연 안내",
+      "amount": "",
+      "period": "2026.10.01 ~ 2026.10.31",
+      "start": "2026-10-01",
+      "end": "2026-10-31",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[충남 문화 알림] [도고아트홀] 2026년 10월 기획 공연 안내. 장소: 도고아트홀. 분야: 아동/가족",
+      "color": "#34C759",
+      "tags": [
+        "culture",
+        "family"
+      ],
+      "areaCd": 44,
+      "areaNm": "충남",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%8F%84%EA%B3%A0%EC%95%84%ED%8A%B8%ED%99%80",
       "isAd": false,
       "benefits": []
     },
@@ -3353,28 +3351,51 @@
     },
     {
       "id": 1000106,
-      "title": "[포항] 꿈의 오케스트라 포항 정기 연주회: 푸른 파도 끝에서",
+      "title": "2026 경산학교예술교육한마당: 회복, 예술로 다시 잇다",
       "amount": "",
-      "period": "2026.10.28 ~ 2026.10.28",
-      "start": "2026-10-28",
-      "end": "2026-10-28",
+      "period": "2026.10.29 ~ 2026.10.29",
+      "start": "2026-10-29",
+      "end": "2026-10-29",
       "type": "문화행사",
       "source": "https://www.culture.go.kr/",
-      "note": "[경북 문화 알림] [포항] 꿈의 오케스트라 포항 정기 연주회: 푸른 파도 끝에서. 장소: 포항문화예술회관 대공연장. 분야: 음악/콘서트",
+      "note": "[경북 문화 알림] 2026 경산학교예술교육한마당: 회복, 예술로 다시 잇다. 장소: 천마아트센터 그랜드홀. 분야: 기타",
       "color": "#5AC8FA",
       "tags": [
         "culture"
       ],
       "areaCd": 47,
       "areaNm": "경북",
-      "sigunguCd": 47110,
-      "sigunguNm": "포항시",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%ED%8F%AC%ED%95%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%ED%9A%8C%EA%B4%80%20%EB%8C%80%EA%B3%B5%EC%97%B0%EC%9E%A5",
+      "sigunguCd": 47290,
+      "sigunguNm": "경산시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%B2%9C%EB%A7%88%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0%20%EA%B7%B8%EB%9E%9C%EB%93%9C%ED%99%80",
       "isAd": false,
       "benefits": []
     },
     {
       "id": 1000107,
+      "title": "[문경] 문나이트 MOON NIGHT",
+      "amount": "",
+      "period": "2026.10.29 ~ 2026.10.29",
+      "start": "2026-10-29",
+      "end": "2026-10-29",
+      "type": "공연",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경북 문화 알림] [문경] 문나이트 MOON NIGHT. 장소: 문경문화예술회관 대공연장. 분야: 뮤지컬/오페라",
+      "color": "#FF9500",
+      "tags": [
+        "culture",
+        "theater"
+      ],
+      "areaCd": 47,
+      "areaNm": "경북",
+      "sigunguCd": 47280,
+      "sigunguNm": "문경시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%AC%B8%EA%B2%BD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%ED%9A%8C%EA%B4%80%20%EB%8C%80%EA%B3%B5%EC%97%B0%EC%9E%A5",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000108,
       "title": "제 41회 김천시립국악단 정기연주회 : 광천光川",
       "amount": "",
       "period": "2026.10.29 ~ 2026.10.29",
@@ -3396,7 +3417,7 @@
       "benefits": []
     },
     {
-      "id": 1000108,
+      "id": 1000109,
       "title": "[군위] 지브리 & 엔니오모리꼬네 클림오케스트라 콘서트",
       "amount": "",
       "period": "2026.10.29 ~ 2026.10.29",
@@ -3414,28 +3435,6 @@
       "sigunguCd": 0,
       "sigunguNm": "전체",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B5%B0%EC%9C%84%20%EC%82%BC%EA%B5%AD%EC%9C%A0%EC%82%AC%EA%B5%90%EC%9C%A1%EB%AC%B8%ED%99%94%ED%9A%8C%EA%B4%80%20%EA%B3%B5%EC%97%B0%EC%9E%A5",
-      "isAd": false,
-      "benefits": []
-    },
-    {
-      "id": 1000109,
-      "title": "[상주] 모스틀리오케스트라 스토리가 있는 음악회: 내 사랑을 받아주세요",
-      "amount": "",
-      "period": "2026.10.29 ~ 2026.10.29",
-      "start": "2026-10-29",
-      "end": "2026-10-29",
-      "type": "문화행사",
-      "source": "https://www.culture.go.kr/",
-      "note": "[경북 문화 알림] [상주] 모스틀리오케스트라 스토리가 있는 음악회: 내 사랑을 받아주세요. 장소: 상주문화회관 대공연장. 분야: 음악/콘서트",
-      "color": "#5AC8FA",
-      "tags": [
-        "culture"
-      ],
-      "areaCd": 47,
-      "areaNm": "경북",
-      "sigunguCd": 47250,
-      "sigunguNm": "상주시",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%83%81%EC%A3%BC%EB%AC%B8%ED%99%94%ED%9A%8C%EA%B4%80%20%EB%8C%80%EA%B3%B5%EC%97%B0%EC%9E%A5",
       "isAd": false,
       "benefits": []
     },
@@ -4241,28 +4240,6 @@
     },
     {
       "id": 1000145,
-      "title": "2026 공연활성 무대지원사업 ⌈수요일 수많은 콘서트⌋",
-      "amount": "",
-      "period": "2026.07.22 ~ 2026.10.28",
-      "start": "2026-07-22",
-      "end": "2026-10-28",
-      "type": "문화행사",
-      "source": "https://www.culture.go.kr/",
-      "note": "[전북 문화 알림] 2026 공연활성 무대지원사업 ⌈수요일 수많은 콘서트⌋. 장소: 전주한벽문화관. 분야: 음악/콘서트",
-      "color": "#5AC8FA",
-      "tags": [
-        "culture"
-      ],
-      "areaCd": 52,
-      "areaNm": "전북",
-      "sigunguCd": 52110,
-      "sigunguNm": "전주시",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EC%A3%BC%ED%95%9C%EB%B2%BD%EB%AC%B8%ED%99%94%EA%B4%80",
-      "isAd": false,
-      "benefits": []
-    },
-    {
-      "id": 1000146,
       "title": "[전주] 하나,둘,셋,김치!",
       "amount": "",
       "period": "2026.08.14 ~ 2026.10.31",
@@ -4285,7 +4262,7 @@
       "benefits": []
     },
     {
-      "id": 1000147,
+      "id": 1000146,
       "title": "[전주] 오늘부터 맑음",
       "amount": "",
       "period": "2026.08.15 ~ 2026.10.31",
@@ -4308,7 +4285,7 @@
       "benefits": []
     },
     {
-      "id": 1000148,
+      "id": 1000147,
       "title": "[전주] 조선셰프 한상궁",
       "amount": "",
       "period": "2026.08.28 ~ 2026.11.13",
@@ -4331,7 +4308,7 @@
       "benefits": []
     },
     {
-      "id": 1000149,
+      "id": 1000148,
       "title": "《고귀하고 고귀한 Ⅴ》",
       "amount": "",
       "period": "2026.09.04 ~ 2026.12.06",
@@ -4350,6 +4327,29 @@
       "sigunguCd": 0,
       "sigunguNm": "전체",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EB%B6%81%EB%8F%84%EB%A6%BD%EB%AF%B8%EC%88%A0%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000149,
+      "title": "[김제] 정평구의 하얀 비상",
+      "amount": "",
+      "period": "2026.09.04 ~ 2026.10.30",
+      "start": "2026-09-04",
+      "end": "2026-10-30",
+      "type": "공연",
+      "source": "https://www.culture.go.kr/",
+      "note": "[전북 문화 알림] [김제] 정평구의 하얀 비상. 장소: 향교 [김제]. 분야: 연극",
+      "color": "#FF9500",
+      "tags": [
+        "culture",
+        "theater"
+      ],
+      "areaCd": 52,
+      "areaNm": "전북",
+      "sigunguCd": 52210,
+      "sigunguNm": "김제시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%ED%96%A5%EA%B5%90%20%5B%EA%B9%80%EC%A0%9C%5D",
       "isAd": false,
       "benefits": []
     },
