@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated": "2026-10-28",
+  "generated": "2026-10-29",
   "items": [
     {
       "id": 501100,
@@ -1764,6 +1764,29 @@
     },
     {
       "id": 1000038,
+      "title": "RE:ART 프로젝트 2부 <이음에 대하여>",
+      "amount": "",
+      "period": "2026.09.08 ~ 2026.11.08",
+      "start": "2026-09-08",
+      "end": "2026-11-08",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[대구 문화 알림] RE:ART 프로젝트 2부 <이음에 대하여>. 장소: 수창청춘맨숀. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 27,
+      "areaNm": "대구",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%88%98%EC%B0%BD%EC%B2%AD%EC%B6%98%EB%A7%A8%EC%88%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000039,
       "title": "Palimpsest : 겹쳐 쓰기",
       "amount": "",
       "period": "2026.09.11 ~ 2026.12.02",
@@ -1782,29 +1805,6 @@
       "sigunguCd": 0,
       "sigunguNm": "전체",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=021%EA%B0%A4%EB%9F%AC%EB%A6%AC",
-      "isAd": false,
-      "benefits": []
-    },
-    {
-      "id": 1000039,
-      "title": "청소년 진로·직업 체험프로그램 <미술관에서 만나는 내:일>",
-      "amount": "",
-      "period": "2026.09.17 ~ 2026.12.10",
-      "start": "2026-09-17",
-      "end": "2026-12-10",
-      "type": "교육/체험",
-      "source": "https://www.culture.go.kr/",
-      "note": "[대구 문화 알림] 청소년 진로·직업 체험프로그램 <미술관에서 만나는 내:일>. 장소: 전국. 분야: 교육/체험",
-      "color": "#FF2D55",
-      "tags": [
-        "culture",
-        "education"
-      ],
-      "areaCd": 27,
-      "areaNm": "대구",
-      "sigunguCd": 0,
-      "sigunguNm": "전체",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EA%B5%AD",
       "isAd": false,
       "benefits": []
     },
@@ -2177,29 +2177,6 @@
     },
     {
       "id": 1000056,
-      "title": "끝내지 못한 이야기-국민화가 이중섭",
-      "amount": "",
-      "period": "2026.10.15 ~ 2027.01.17",
-      "start": "2026-10-15",
-      "end": "2027-01-17",
-      "type": "전시",
-      "source": "https://www.culture.go.kr/",
-      "note": "[울산 문화 알림] 끝내지 못한 이야기-국민화가 이중섭. 장소: 울산시립미술관. 분야: 전시",
-      "color": "#AF52DE",
-      "tags": [
-        "culture",
-        "exhibition"
-      ],
-      "areaCd": 31,
-      "areaNm": "울산",
-      "sigunguCd": 0,
-      "sigunguNm": "전체",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%9A%B8%EC%82%B0%EC%8B%9C%EB%A6%BD%EB%AF%B8%EC%88%A0%EA%B4%80",
-      "isAd": false,
-      "benefits": []
-    },
-    {
-      "id": 1000057,
       "title": "[우리동네 MG갤러리] 조윤아 작가 《어떤 것은 부서지고, 어떤 것은 고스란히 남아》",
       "amount": "",
       "period": "2026.10.15 ~ 2026.11.13",
@@ -2218,6 +2195,29 @@
       "sigunguCd": 0,
       "sigunguNm": "전체",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=MG%EB%B6%81%EC%9A%B8%EC%82%B0%EC%83%88%EB%A7%88%EC%9D%84%EA%B8%88%EA%B3%A0%20%EC%9A%B0%EB%A6%AC%EB%8F%99%EB%84%A4%20MG%EA%B0%A4%EB%9F%AC%EB%A6%AC",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000057,
+      "title": "끝내지 못한 이야기-국민화가 이중섭",
+      "amount": "",
+      "period": "2026.10.15 ~ 2027.01.17",
+      "start": "2026-10-15",
+      "end": "2027-01-17",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[울산 문화 알림] 끝내지 못한 이야기-국민화가 이중섭. 장소: 울산시립미술관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 31,
+      "areaNm": "울산",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%9A%B8%EC%82%B0%EC%8B%9C%EB%A6%BD%EB%AF%B8%EC%88%A0%EA%B4%80",
       "isAd": false,
       "benefits": []
     },
@@ -2269,14 +2269,14 @@
     },
     {
       "id": 1000060,
-      "title": "윤보라 비올라 독주회: Viola Spectrum",
+      "title": "2026 세종 보헤미안 뮤직 페스티벌 (SBMF)",
       "amount": "",
-      "period": "2026.10.29 ~ 2026.10.29",
-      "start": "2026-10-29",
-      "end": "2026-10-29",
+      "period": "2026.10.30 ~ 2026.11.01",
+      "start": "2026-10-30",
+      "end": "2026-11-01",
       "type": "문화행사",
       "source": "https://www.culture.go.kr/",
-      "note": "[세종 문화 알림] 윤보라 비올라 독주회: Viola Spectrum. 장소: 비오케이아트센터(BOK아트센터) 다목적공연장. 분야: 음악/콘서트",
+      "note": "[세종 문화 알림] 2026 세종 보헤미안 뮤직 페스티벌 (SBMF). 장소: 세종중앙공원 도시축제마당. 분야: 음악/콘서트",
       "color": "#5AC8FA",
       "tags": [
         "culture"
@@ -2285,7 +2285,7 @@
       "areaNm": "세종",
       "sigunguCd": 0,
       "sigunguNm": "전체",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%B9%84%EC%98%A4%EC%BC%80%EC%9D%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0%28BOK%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0%29%20%EB%8B%A4%EB%AA%A9%EC%A0%81%EA%B3%B5%EC%97%B0%EC%9E%A5",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%84%B8%EC%A2%85%EC%A4%91%EC%95%99%EA%B3%B5%EC%9B%90%20%EB%8F%84%EC%8B%9C%EC%B6%95%EC%A0%9C%EB%A7%88%EB%8B%B9",
       "isAd": false,
       "benefits": []
     },
@@ -3120,29 +3120,6 @@
     },
     {
       "id": 1000096,
-      "title": "2026 천안시립문학관 문학창작아카데미 <책크숍>",
-      "amount": "",
-      "period": "2026.10.01 ~ 2026.11.30",
-      "start": "2026-10-01",
-      "end": "2026-11-30",
-      "type": "교육/체험",
-      "source": "https://www.culture.go.kr/",
-      "note": "[충남 문화 알림] 2026 천안시립문학관 문학창작아카데미 <책크숍>. 장소: 전국. 분야: 교육/체험",
-      "color": "#FF2D55",
-      "tags": [
-        "culture",
-        "education"
-      ],
-      "areaCd": 44,
-      "areaNm": "충남",
-      "sigunguCd": 44130,
-      "sigunguNm": "천안시",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EA%B5%AD",
-      "isAd": false,
-      "benefits": []
-    },
-    {
-      "id": 1000097,
       "title": "[도고아트홀] 2026년 10월 기획 공연 안내",
       "amount": "",
       "period": "2026.10.01 ~ 2026.10.31",
@@ -3161,6 +3138,29 @@
       "sigunguCd": 0,
       "sigunguNm": "전체",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%8F%84%EA%B3%A0%EC%95%84%ED%8A%B8%ED%99%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000097,
+      "title": "2026 천안시립문학관 문학창작아카데미 <책크숍>",
+      "amount": "",
+      "period": "2026.10.01 ~ 2026.11.30",
+      "start": "2026-10-01",
+      "end": "2026-11-30",
+      "type": "교육/체험",
+      "source": "https://www.culture.go.kr/",
+      "note": "[충남 문화 알림] 2026 천안시립문학관 문학창작아카데미 <책크숍>. 장소: 전국. 분야: 교육/체험",
+      "color": "#FF2D55",
+      "tags": [
+        "culture",
+        "education"
+      ],
+      "areaCd": 44,
+      "areaNm": "충남",
+      "sigunguCd": 44130,
+      "sigunguNm": "천안시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EA%B5%AD",
       "isAd": false,
       "benefits": []
     },
@@ -3189,26 +3189,28 @@
     },
     {
       "id": 1000099,
-      "title": "2026 천안독립영화상영회",
+      "title": "제11회 그리다방네모展 [보통의 기적]",
       "amount": "",
-      "period": "2026.10.20 ~ 2026.10.31",
+      "period": "2026.10.20 ~ 2026.11.01",
       "start": "2026-10-20",
-      "end": "2026-10-31",
-      "type": "축제/행사",
+      "end": "2026-11-01",
+      "type": "전시",
       "source": "https://www.culture.go.kr/",
-      "note": "[충남 문화 알림] 2026 천안독립영화상영회. 장소: 인디플러스천안. 분야: 행사/축제",
-      "color": "#0064FF",
+      "note": "[서울 문화 알림] 제11회 그리다방네모展 [보통의 기적]. 장소: 천안예술의전당. 분야: 전시",
+      "color": "#AF52DE",
       "tags": [
         "culture",
-        "festival"
+        "exhibition"
       ],
-      "areaCd": 44,
-      "areaNm": "충남",
-      "sigunguCd": 44130,
-      "sigunguNm": "천안시",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%9D%B8%EB%94%94%ED%94%8C%EB%9F%AC%EC%8A%A4%EC%B2%9C%EC%95%88",
+      "areaCd": 11,
+      "areaNm": "서울",
+      "sigunguCd": 11650,
+      "sigunguNm": "서초구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%B2%9C%EC%95%88%EC%98%88%EC%88%A0%EC%9D%98%EC%A0%84%EB%8B%B9",
       "isAd": false,
-      "benefits": []
+      "benefits": [
+        "서울사랑상품권"
+      ]
     },
     {
       "id": 1000100,
@@ -3305,29 +3307,6 @@
     },
     {
       "id": 1000104,
-      "title": "2026 문경사과축제",
-      "amount": "",
-      "period": "2026.10.17 ~ 2026.11.01",
-      "start": "2026-10-17",
-      "end": "2026-11-01",
-      "type": "축제/행사",
-      "source": "https://www.culture.go.kr/",
-      "note": "[경북 문화 알림] 2026 문경사과축제. 장소: 문경새재도립공원 일원. 분야: 행사/축제",
-      "color": "#0064FF",
-      "tags": [
-        "culture",
-        "festival"
-      ],
-      "areaCd": 47,
-      "areaNm": "경북",
-      "sigunguCd": 47280,
-      "sigunguNm": "문경시",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%AC%B8%EA%B2%BD%EC%83%88%EC%9E%AC%EB%8F%84%EB%A6%BD%EA%B3%B5%EC%9B%90%20%EC%9D%BC%EC%9B%90",
-      "isAd": false,
-      "benefits": []
-    },
-    {
-      "id": 1000105,
       "title": "[경주] 뮤지컬 <더 쇼! 신라>",
       "amount": "",
       "period": "2026.10.17 ~ 2026.11.01",
@@ -3350,37 +3329,61 @@
       "benefits": []
     },
     {
-      "id": 1000106,
-      "title": "2026 경산학교예술교육한마당: 회복, 예술로 다시 잇다",
+      "id": 1000105,
+      "title": "2026 문경사과축제",
       "amount": "",
-      "period": "2026.10.29 ~ 2026.10.29",
-      "start": "2026-10-29",
-      "end": "2026-10-29",
-      "type": "문화행사",
+      "period": "2026.10.17 ~ 2026.11.01",
+      "start": "2026-10-17",
+      "end": "2026-11-01",
+      "type": "축제/행사",
       "source": "https://www.culture.go.kr/",
-      "note": "[경북 문화 알림] 2026 경산학교예술교육한마당: 회복, 예술로 다시 잇다. 장소: 천마아트센터 그랜드홀. 분야: 기타",
-      "color": "#5AC8FA",
+      "note": "[경북 문화 알림] 2026 문경사과축제. 장소: 문경새재도립공원 일원. 분야: 행사/축제",
+      "color": "#0064FF",
       "tags": [
-        "culture"
+        "culture",
+        "festival"
       ],
       "areaCd": 47,
       "areaNm": "경북",
-      "sigunguCd": 47290,
-      "sigunguNm": "경산시",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%B2%9C%EB%A7%88%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0%20%EA%B7%B8%EB%9E%9C%EB%93%9C%ED%99%80",
+      "sigunguCd": 47280,
+      "sigunguNm": "문경시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%AC%B8%EA%B2%BD%EC%83%88%EC%9E%AC%EB%8F%84%EB%A6%BD%EA%B3%B5%EC%9B%90%20%EC%9D%BC%EC%9B%90",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000106,
+      "title": "2026 예천활축제 - 활로 잇는 예천, 미래를 쏘다",
+      "amount": "",
+      "period": "2026.10.30 ~ 2026.11.01",
+      "start": "2026-10-30",
+      "end": "2026-11-01",
+      "type": "축제/행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경북 문화 알림] 2026 예천활축제 - 활로 잇는 예천, 미래를 쏘다. 장소: 한천체육공원 일원. 분야: 행사/축제",
+      "color": "#0064FF",
+      "tags": [
+        "culture",
+        "festival"
+      ],
+      "areaCd": 47,
+      "areaNm": "경북",
+      "sigunguCd": 47900,
+      "sigunguNm": "예천군",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%ED%95%9C%EC%B2%9C%EC%B2%B4%EC%9C%A1%EA%B3%B5%EC%9B%90%20%EC%9D%BC%EC%9B%90",
       "isAd": false,
       "benefits": []
     },
     {
       "id": 1000107,
-      "title": "[문경] 문나이트 MOON NIGHT",
+      "title": "[안동] 브레멘 음악대",
       "amount": "",
-      "period": "2026.10.29 ~ 2026.10.29",
-      "start": "2026-10-29",
-      "end": "2026-10-29",
+      "period": "2026.10.30 ~ 2026.10.30",
+      "start": "2026-10-30",
+      "end": "2026-10-30",
       "type": "공연",
       "source": "https://www.culture.go.kr/",
-      "note": "[경북 문화 알림] [문경] 문나이트 MOON NIGHT. 장소: 문경문화예술회관 대공연장. 분야: 뮤지컬/오페라",
+      "note": "[경북 문화 알림] [안동] 브레멘 음악대. 장소: 안동시청 대동관(구 안동시민회관) 낙동홀(소공연장). 분야: 뮤지컬/오페라",
       "color": "#FF9500",
       "tags": [
         "culture",
@@ -3388,55 +3391,57 @@
       ],
       "areaCd": 47,
       "areaNm": "경북",
-      "sigunguCd": 47280,
-      "sigunguNm": "문경시",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%AC%B8%EA%B2%BD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%ED%9A%8C%EA%B4%80%20%EB%8C%80%EA%B3%B5%EC%97%B0%EC%9E%A5",
+      "sigunguCd": 47170,
+      "sigunguNm": "안동시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%95%88%EB%8F%99%EC%8B%9C%EC%B2%AD%20%EB%8C%80%EB%8F%99%EA%B4%80%28%EA%B5%AC%20%EC%95%88%EB%8F%99%EC%8B%9C%EB%AF%BC%ED%9A%8C%EA%B4%80%29%20%EB%82%99%EB%8F%99%ED%99%80%28%EC%86%8C%EA%B3%B5%EC%97%B0%EC%9E%A5%29",
       "isAd": false,
       "benefits": []
     },
     {
       "id": 1000108,
-      "title": "제 41회 김천시립국악단 정기연주회 : 광천光川",
+      "title": "[영천] 트롯디바 콘서트",
       "amount": "",
-      "period": "2026.10.29 ~ 2026.10.29",
-      "start": "2026-10-29",
-      "end": "2026-10-29",
+      "period": "2026.10.31 ~ 2026.10.31",
+      "start": "2026-10-31",
+      "end": "2026-10-31",
       "type": "문화행사",
       "source": "https://www.culture.go.kr/",
-      "note": "[경북 문화 알림] 제 41회 김천시립국악단 정기연주회 : 광천光川. 장소: 김천시문화예술회관 대공연장. 분야: 음악/콘서트",
+      "note": "[경북 문화 알림] [영천] 트롯디바 콘서트. 장소: 영천시민회관 스타홀. 분야: 음악/콘서트",
       "color": "#5AC8FA",
       "tags": [
         "culture"
       ],
       "areaCd": 47,
       "areaNm": "경북",
-      "sigunguCd": 47150,
-      "sigunguNm": "김천시",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B9%80%EC%B2%9C%EC%8B%9C%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%ED%9A%8C%EA%B4%80%20%EB%8C%80%EA%B3%B5%EC%97%B0%EC%9E%A5",
+      "sigunguCd": 47230,
+      "sigunguNm": "영천시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%98%81%EC%B2%9C%EC%8B%9C%EB%AF%BC%ED%9A%8C%EA%B4%80%20%EC%8A%A4%ED%83%80%ED%99%80",
       "isAd": false,
       "benefits": []
     },
     {
       "id": 1000109,
-      "title": "[군위] 지브리 & 엔니오모리꼬네 클림오케스트라 콘서트",
+      "title": "[안동] 지브리와 사랑에 빠지다 : 지브리 영화음악 콘서트 2026",
       "amount": "",
-      "period": "2026.10.29 ~ 2026.10.29",
-      "start": "2026-10-29",
-      "end": "2026-10-29",
+      "period": "2026.10.31 ~ 2026.10.31",
+      "start": "2026-10-31",
+      "end": "2026-10-31",
       "type": "문화행사",
       "source": "https://www.culture.go.kr/",
-      "note": "[경북 문화 알림] [군위] 지브리 & 엔니오모리꼬네 클림오케스트라 콘서트. 장소: 군위 삼국유사교육문화회관 공연장. 분야: 음악/콘서트",
+      "note": "[서울 문화 알림] [안동] 지브리와 사랑에 빠지다 : 지브리 영화음악 콘서트 2026. 장소: 안동문화예술의전당 백조홀. 분야: 음악/콘서트",
       "color": "#5AC8FA",
       "tags": [
         "culture"
       ],
-      "areaCd": 47,
-      "areaNm": "경북",
-      "sigunguCd": 0,
-      "sigunguNm": "전체",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B5%B0%EC%9C%84%20%EC%82%BC%EA%B5%AD%EC%9C%A0%EC%82%AC%EA%B5%90%EC%9C%A1%EB%AC%B8%ED%99%94%ED%9A%8C%EA%B4%80%20%EA%B3%B5%EC%97%B0%EC%9E%A5",
+      "areaCd": 11,
+      "areaNm": "서울",
+      "sigunguCd": 11650,
+      "sigunguNm": "서초구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%95%88%EB%8F%99%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9D%98%EC%A0%84%EB%8B%B9%20%EB%B0%B1%EC%A1%B0%ED%99%80",
       "isAd": false,
-      "benefits": []
+      "benefits": [
+        "서울사랑상품권"
+      ]
     },
     {
       "id": 1000110,
@@ -3554,29 +3559,6 @@
     },
     {
       "id": 1000115,
-      "title": "2026 도민의 집 하반기 '화·목'한 아카데미",
-      "amount": "",
-      "period": "2026.07.07 ~ 2026.10.29",
-      "start": "2026-07-07",
-      "end": "2026-10-29",
-      "type": "교육/체험",
-      "source": "https://www.culture.go.kr/",
-      "note": "[경남 문화 알림] 2026 도민의 집 하반기 '화·목'한 아카데미. 장소: 전국. 분야: 교육/체험",
-      "color": "#FF2D55",
-      "tags": [
-        "culture",
-        "education"
-      ],
-      "areaCd": 48,
-      "areaNm": "경남",
-      "sigunguCd": 0,
-      "sigunguNm": "전체",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EA%B5%AD",
-      "isAd": false,
-      "benefits": []
-    },
-    {
-      "id": 1000116,
       "title": "《알루미늄 오이: 정연두》",
       "amount": "",
       "period": "2026.07.29 ~ 2026.11.01",
@@ -3599,7 +3581,7 @@
       "benefits": []
     },
     {
-      "id": 1000117,
+      "id": 1000116,
       "title": "《송정인: 실로 만든 메아리》",
       "amount": "",
       "period": "2026.07.29 ~ 2026.11.01",
@@ -3622,7 +3604,7 @@
       "benefits": []
     },
     {
-      "id": 1000118,
+      "id": 1000117,
       "title": "「담쟁이 창작소」 문화예술교육 프로그램 <움직임코드>",
       "amount": "",
       "period": "2026.09.05 ~ 2026.11.14",
@@ -3645,7 +3627,7 @@
       "benefits": []
     },
     {
-      "id": 1000119,
+      "id": 1000118,
       "title": "[창원] 피터팬",
       "amount": "",
       "period": "2026.09.05 ~ 2026.11.01",
@@ -3664,6 +3646,29 @@
       "sigunguCd": 48120,
       "sigunguNm": "창원시",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%B0%BD%EC%9B%90%EA%B3%BC%ED%95%99%EC%B2%B4%ED%97%98%EA%B4%80%20%EB%8B%A4%EB%AA%A9%EC%A0%81%EA%B0%95%EB%8B%B9",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000119,
+      "title": "「담쟁이 창작소」 문화예술교육 프로그램 「엄마의 9경 : 아카이브」",
+      "amount": "",
+      "period": "2026.09.09 ~ 2026.11.28",
+      "start": "2026-09-09",
+      "end": "2026-11-28",
+      "type": "교육/체험",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경남 문화 알림] 「담쟁이 창작소」 문화예술교육 프로그램 「엄마의 9경 : 아카이브」. 장소: 전국. 분야: 교육/체험",
+      "color": "#FF2D55",
+      "tags": [
+        "culture",
+        "education"
+      ],
+      "areaCd": 48,
+      "areaNm": "경남",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EA%B5%AD",
       "isAd": false,
       "benefits": []
     },
