@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated": "2026-11-01",
+  "generated": "2026-11-02",
   "items": [
     {
       "id": 501100,
@@ -1996,12 +1996,12 @@
       "id": 1000048,
       "title": "[대관공연] 캔들라이트 콘서트(8-12월)",
       "amount": "",
-      "period": "2026.08.01 ~ 2026.12.26",
+      "period": "2026.08.01 ~ 2026.12.25",
       "start": "2026-08-01",
-      "end": "2026-12-26",
+      "end": "2026-12-25",
       "type": "문화행사",
       "source": "https://www.culture.go.kr/",
-      "note": "[광주 문화 알림] [대관공연] 캔들라이트 콘서트(8-12월). 장소: 국립아시아문화전당 극장2. 분야: 음악/콘서트",
+      "note": "[광주 문화 알림] [대관공연] 캔들라이트 콘서트(8-12월). 장소: 국립아시아문화전당 극장2. 분야: 기타",
       "color": "#5AC8FA",
       "tags": [
         "culture"
@@ -3328,53 +3328,29 @@
     },
     {
       "id": 1000105,
-      "title": "조선팝 콘서트(JOSEON-POP CONCERT)",
+      "title": "[영주] 2026 마당놀이 죽계선비뎐 시즌2",
       "amount": "",
-      "period": "2026.11.06 ~ 2026.11.06",
-      "start": "2026-11-06",
-      "end": "2026-11-06",
-      "type": "문화행사",
-      "source": "https://www.culture.go.kr/",
-      "note": "[경북 문화 알림] 조선팝 콘서트(JOSEON-POP CONCERT). 장소: 상주문화회관 대공연장. 분야: 음악/콘서트",
-      "color": "#5AC8FA",
-      "tags": [
-        "culture"
-      ],
-      "areaCd": 47,
-      "areaNm": "경북",
-      "sigunguCd": 47250,
-      "sigunguNm": "상주시",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%83%81%EC%A3%BC%EB%AC%B8%ED%99%94%ED%9A%8C%EA%B4%80%20%EB%8C%80%EA%B3%B5%EC%97%B0%EC%9E%A5",
-      "isAd": false,
-      "benefits": []
-    },
-    {
-      "id": 1000106,
-      "title": "[안동] 넌버벌 퍼포먼스 난타",
-      "amount": "",
-      "period": "2026.11.06 ~ 2026.11.06",
-      "start": "2026-11-06",
+      "period": "2026.11.05 ~ 2026.11.06",
+      "start": "2026-11-05",
       "end": "2026-11-06",
       "type": "공연",
       "source": "https://www.culture.go.kr/",
-      "note": "[서울 문화 알림] [안동] 넌버벌 퍼포먼스 난타. 장소: 안동문화예술의전당 웅부홀. 분야: 뮤지컬/오페라",
+      "note": "[경북 문화 알림] [영주] 2026 마당놀이 죽계선비뎐 시즌2. 장소: 영주문화예술회관 까치홀. 분야: 연극",
       "color": "#FF9500",
       "tags": [
         "culture",
         "theater"
       ],
-      "areaCd": 11,
-      "areaNm": "서울",
-      "sigunguCd": 11650,
-      "sigunguNm": "서초구",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%95%88%EB%8F%99%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9D%98%EC%A0%84%EB%8B%B9%20%EC%9B%85%EB%B6%80%ED%99%80",
+      "areaCd": 47,
+      "areaNm": "경북",
+      "sigunguCd": 47210,
+      "sigunguNm": "영주시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%98%81%EC%A3%BC%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%ED%9A%8C%EA%B4%80%20%EA%B9%8C%EC%B9%98%ED%99%80",
       "isAd": false,
-      "benefits": [
-        "서울사랑상품권"
-      ]
+      "benefits": []
     },
     {
-      "id": 1000107,
+      "id": 1000106,
       "title": "[경주] 양동 할매도깨비",
       "amount": "",
       "period": "2026.11.06 ~ 2026.11.06",
@@ -3399,25 +3375,49 @@
       ]
     },
     {
-      "id": 1000108,
-      "title": "경주에 평화온:담",
+      "id": 1000107,
+      "title": "[안동] 넌버벌 퍼포먼스 난타",
       "amount": "",
-      "period": "2026.11.07 ~ 2026.11.07",
-      "start": "2026-11-07",
-      "end": "2026-11-07",
-      "type": "축제/행사",
+      "period": "2026.11.06 ~ 2026.11.06",
+      "start": "2026-11-06",
+      "end": "2026-11-06",
+      "type": "공연",
       "source": "https://www.culture.go.kr/",
-      "note": "[경북 문화 알림] 경주에 평화온:담. 장소: 첨성대 옆 잔디광장(경북 경주시 황남동 104-1). 분야: 행사/축제",
-      "color": "#0064FF",
+      "note": "[서울 문화 알림] [안동] 넌버벌 퍼포먼스 난타. 장소: 안동문화예술의전당 웅부홀. 분야: 뮤지컬/오페라",
+      "color": "#FF9500",
       "tags": [
         "culture",
-        "festival"
+        "theater"
+      ],
+      "areaCd": 11,
+      "areaNm": "서울",
+      "sigunguCd": 11650,
+      "sigunguNm": "서초구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%95%88%EB%8F%99%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9D%98%EC%A0%84%EB%8B%B9%20%EC%9B%85%EB%B6%80%ED%99%80",
+      "isAd": false,
+      "benefits": [
+        "서울사랑상품권"
+      ]
+    },
+    {
+      "id": 1000108,
+      "title": "조선팝 콘서트(JOSEON-POP CONCERT)",
+      "amount": "",
+      "period": "2026.11.06 ~ 2026.11.06",
+      "start": "2026-11-06",
+      "end": "2026-11-06",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경북 문화 알림] 조선팝 콘서트(JOSEON-POP CONCERT). 장소: 상주문화회관 대공연장. 분야: 음악/콘서트",
+      "color": "#5AC8FA",
+      "tags": [
+        "culture"
       ],
       "areaCd": 47,
       "areaNm": "경북",
-      "sigunguCd": 47130,
-      "sigunguNm": "경주시",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%B2%A8%EC%84%B1%EB%8C%80%20%EC%98%86%20%EC%9E%94%EB%94%94%EA%B4%91%EC%9E%A5%28%EA%B2%BD%EB%B6%81%20%EA%B2%BD%EC%A3%BC%EC%8B%9C%20%ED%99%A9%EB%82%A8%EB%8F%99%20104-1%29",
+      "sigunguCd": 47250,
+      "sigunguNm": "상주시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%83%81%EC%A3%BC%EB%AC%B8%ED%99%94%ED%9A%8C%EA%B4%80%20%EB%8C%80%EA%B3%B5%EC%97%B0%EC%9E%A5",
       "isAd": false,
       "benefits": []
     },
@@ -4224,14 +4224,14 @@
     },
     {
       "id": 1000144,
-      "title": "정읍시립박물관 석지 채용신 테마전Ⅱ 『동물, 상징을 담다』",
+      "title": "정읍시립박물관 기획특별전 『백제가요 정읍사와 달』",
       "amount": "",
       "period": "2026.09.08 ~ 2026.12.06",
       "start": "2026-09-08",
       "end": "2026-12-06",
       "type": "전시",
       "source": "https://www.culture.go.kr/",
-      "note": "[전북 문화 알림] 정읍시립박물관 석지 채용신 테마전Ⅱ 『동물, 상징을 담다』. 장소: 정읍시립박물관. 분야: 전시",
+      "note": "[전북 문화 알림] 정읍시립박물관 기획특별전 『백제가요 정읍사와 달』. 장소: 정읍시립박물관. 분야: 전시",
       "color": "#AF52DE",
       "tags": [
         "culture",
@@ -4270,14 +4270,14 @@
     },
     {
       "id": 1000146,
-      "title": "정읍시립박물관 기획특별전 『백제가요 정읍사와 달』",
+      "title": "정읍시립박물관 석지 채용신 테마전Ⅱ 『동물, 상징을 담다』",
       "amount": "",
       "period": "2026.09.08 ~ 2026.12.06",
       "start": "2026-09-08",
       "end": "2026-12-06",
       "type": "전시",
       "source": "https://www.culture.go.kr/",
-      "note": "[전북 문화 알림] 정읍시립박물관 기획특별전 『백제가요 정읍사와 달』. 장소: 정읍시립박물관. 분야: 전시",
+      "note": "[전북 문화 알림] 정읍시립박물관 석지 채용신 테마전Ⅱ 『동물, 상징을 담다』. 장소: 정읍시립박물관. 분야: 전시",
       "color": "#AF52DE",
       "tags": [
         "culture",
