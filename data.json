@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated": "2026-11-08",
+  "generated": "2026-11-09",
   "items": [
     {
       "id": 501100,
@@ -928,6 +928,31 @@
     },
     {
       "id": 1000003,
+      "title": "뮤직드라마 <불편한 편의점>",
+      "amount": "",
+      "period": "2023.04.08 ~ 2026.12.31",
+      "start": "2023-04-08",
+      "end": "2026-12-31",
+      "type": "공연",
+      "source": "https://www.culture.go.kr/",
+      "note": "[서울 문화 알림] 뮤직드라마 <불편한 편의점>. 장소: 올웨이즈씨어터. 분야: 연극",
+      "color": "#FF9500",
+      "tags": [
+        "culture",
+        "theater"
+      ],
+      "areaCd": 11,
+      "areaNm": "서울",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%98%AC%EC%9B%A8%EC%9D%B4%EC%A6%88%EC%94%A8%EC%96%B4%ED%84%B0",
+      "isAd": false,
+      "benefits": [
+        "서울사랑상품권"
+      ]
+    },
+    {
+      "id": 1000004,
       "title": "그리스가 로마에게, 로마가 그리스에게",
       "amount": "",
       "period": "2023.06.15 ~ 2027.05.30",
@@ -952,7 +977,7 @@
       ]
     },
     {
-      "id": 1000004,
+      "id": 1000005,
       "title": "국립중앙박물관 기증관 재개관",
       "amount": "",
       "period": "2024.01.12 ~ 2026.12.31",
@@ -977,7 +1002,7 @@
       ]
     },
     {
-      "id": 1000005,
+      "id": 1000006,
       "title": "코믹 마샬아츠 퍼포먼스 점프",
       "amount": "",
       "period": "2024.11.01 ~ 2028.12.31",
@@ -1002,7 +1027,7 @@
       ]
     },
     {
-      "id": 1000006,
+      "id": 1000007,
       "title": "[상설] 외규장각 의궤실 공개",
       "amount": "",
       "period": "2024.11.15 ~ 2027.12.31",
@@ -1027,7 +1052,7 @@
       ]
     },
     {
-      "id": 1000007,
+      "id": 1000008,
       "title": "어린이박물관 새단장 <알기 덜기 잇기 문화유산 속 마음>",
       "amount": "",
       "period": "2024.11.19 ~ 2027.12.31",
@@ -1052,7 +1077,7 @@
       ]
     },
     {
-      "id": 1000008,
+      "id": 1000009,
       "title": "연극 행오버",
       "amount": "",
       "period": "2025.01.01 ~ 2026.12.31",
@@ -1071,31 +1096,6 @@
       "sigunguCd": 11110,
       "sigunguNm": "종로구",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%95%EA%B7%B9%EC%9E%A5%20%28%EA%B5%AC.%20M%EC%8B%9C%EC%96%B4%ED%84%B0%2C%20%EA%B5%AC.%ED%95%98%EB%AA%A8%EB%8B%88%EC%95%84%ED%8A%B8%ED%99%80%29",
-      "isAd": false,
-      "benefits": [
-        "서울사랑상품권"
-      ]
-    },
-    {
-      "id": 1000009,
-      "title": "[홍대] 미스터리 스릴러 연극 <흉터>",
-      "amount": "",
-      "period": "2025.03.01 ~ 2026.12.31",
-      "start": "2025-03-01",
-      "end": "2026-12-31",
-      "type": "공연",
-      "source": "https://www.culture.go.kr/",
-      "note": "[서울 문화 알림] [홍대] 미스터리 스릴러 연극 <흉터>. 장소: 홍대 씨어터 윤. 분야: 연극",
-      "color": "#FF9500",
-      "tags": [
-        "culture",
-        "theater"
-      ],
-      "areaCd": 11,
-      "areaNm": "서울",
-      "sigunguCd": 11440,
-      "sigunguNm": "마포구",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%ED%99%8D%EB%8C%80%20%EC%94%A8%EC%96%B4%ED%84%B0%20%EC%9C%A4",
       "isAd": false,
       "benefits": [
         "서울사랑상품권"
@@ -1511,6 +1511,29 @@
     },
     {
       "id": 1000027,
+      "title": "[팝업전시] 시간을 거슬러 옷의 처음으로 〈시간의 거울〉",
+      "amount": "",
+      "period": "2026.09.22 ~ 2026.11.29",
+      "start": "2026-09-22",
+      "end": "2026-11-29",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[대전 문화 알림] [팝업전시] 시간을 거슬러 옷의 처음으로 〈시간의 거울〉. 장소: 국립중앙과학관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 30,
+      "areaNm": "대전",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B5%AD%EB%A6%BD%EC%A4%91%EC%95%99%EA%B3%BC%ED%95%99%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000028,
       "title": "2026년 다섯 번째 박물관 속 작은 전시_송자대전판",
       "amount": "",
       "period": "2026.09.30 ~ 2026.11.24",
@@ -1533,7 +1556,7 @@
       "benefits": []
     },
     {
-      "id": 1000028,
+      "id": 1000029,
       "title": "제23회 이동훈미술상 본상 수상작가전: 임송자",
       "amount": "",
       "period": "2026.10.01 ~ 2026.11.22",
@@ -1552,29 +1575,6 @@
       "sigunguCd": 0,
       "sigunguNm": "전체",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%8C%80%EC%A0%84%EC%8B%9C%EB%A6%BD%EB%AF%B8%EC%88%A0%EA%B4%80",
-      "isAd": false,
-      "benefits": []
-    },
-    {
-      "id": 1000029,
-      "title": "2026 이응노미술관 기획전《춤: 붓과 몸의 리듬》",
-      "amount": "",
-      "period": "2026.10.13 ~ 2026.11.29",
-      "start": "2026-10-13",
-      "end": "2026-11-29",
-      "type": "전시",
-      "source": "https://www.culture.go.kr/",
-      "note": "[대전 문화 알림] 2026 이응노미술관 기획전《춤: 붓과 몸의 리듬》. 장소: 대전 이응노미술관. 분야: 전시",
-      "color": "#AF52DE",
-      "tags": [
-        "culture",
-        "exhibition"
-      ],
-      "areaCd": 30,
-      "areaNm": "대전",
-      "sigunguCd": 0,
-      "sigunguNm": "전체",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%8C%80%EC%A0%84%20%EC%9D%B4%EC%9D%91%EB%85%B8%EB%AF%B8%EC%88%A0%EA%B4%80",
       "isAd": false,
       "benefits": []
     },
@@ -1996,12 +1996,12 @@
       "id": 1000048,
       "title": "[대관공연] 캔들라이트 콘서트(8-12월)",
       "amount": "",
-      "period": "2026.08.01 ~ 2026.12.26",
+      "period": "2026.08.01 ~ 2026.12.25",
       "start": "2026-08-01",
-      "end": "2026-12-26",
+      "end": "2026-12-25",
       "type": "문화행사",
       "source": "https://www.culture.go.kr/",
-      "note": "[광주 문화 알림] [대관공연] 캔들라이트 콘서트(8-12월). 장소: 국립아시아문화전당 극장2. 분야: 음악/콘서트",
+      "note": "[광주 문화 알림] [대관공연] 캔들라이트 콘서트(8-12월). 장소: 국립아시아문화전당 극장2. 분야: 기타",
       "color": "#5AC8FA",
       "tags": [
         "culture"
@@ -3174,23 +3174,24 @@
     },
     {
       "id": 1000098,
-      "title": "[서천] 창작음악극 한산모시 천년의 숨결 MOSI : ON",
+      "title": "[논산] 이등병의 편지",
       "amount": "",
       "period": "2026.11.13 ~ 2026.11.13",
       "start": "2026-11-13",
       "end": "2026-11-13",
-      "type": "문화행사",
+      "type": "공연",
       "source": "https://www.culture.go.kr/",
-      "note": "[충남 문화 알림] [서천] 창작음악극 한산모시 천년의 숨결 MOSI : ON. 장소: 서천문예의전당 대강당. 분야: 기타",
-      "color": "#5AC8FA",
+      "note": "[충남 문화 알림] [논산] 이등병의 편지. 장소: 논산아트센터(구. 논산문화예술회관) 대공연장. 분야: 뮤지컬/오페라",
+      "color": "#FF9500",
       "tags": [
-        "culture"
+        "culture",
+        "theater"
       ],
       "areaCd": 44,
       "areaNm": "충남",
-      "sigunguCd": 44770,
-      "sigunguNm": "서천군",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%84%9C%EC%B2%9C%EB%AC%B8%EC%98%88%EC%9D%98%EC%A0%84%EB%8B%B9%20%EB%8C%80%EA%B0%95%EB%8B%B9",
+      "sigunguCd": 44230,
+      "sigunguNm": "논산시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%85%BC%EC%82%B0%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0%28%EA%B5%AC.%20%EB%85%BC%EC%82%B0%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%ED%9A%8C%EA%B4%80%29%20%EB%8C%80%EA%B3%B5%EC%97%B0%EC%9E%A5",
       "isAd": false,
       "benefits": []
     },
@@ -3267,28 +3268,6 @@
     },
     {
       "id": 1000102,
-      "title": "포항국제음악제, 포커스 스테이지 Ⅰ. 이한나 & 박영성",
-      "amount": "",
-      "period": "2026.11.09 ~ 2026.11.09",
-      "start": "2026-11-09",
-      "end": "2026-11-09",
-      "type": "문화행사",
-      "source": "https://www.culture.go.kr/",
-      "note": "[경북 문화 알림] 포항국제음악제, 포커스 스테이지 Ⅰ. 이한나 & 박영성. 장소: 포항시청 대잠홀. 분야: 음악/콘서트",
-      "color": "#5AC8FA",
-      "tags": [
-        "culture"
-      ],
-      "areaCd": 47,
-      "areaNm": "경북",
-      "sigunguCd": 47110,
-      "sigunguNm": "포항시",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%ED%8F%AC%ED%95%AD%EC%8B%9C%EC%B2%AD%20%EB%8C%80%EC%9E%A0%ED%99%80",
-      "isAd": false,
-      "benefits": []
-    },
-    {
-      "id": 1000103,
       "title": "2026 포항국제음악제, 포항시립교향악단 with 김영욱&율리안 슈테켈",
       "amount": "",
       "period": "2026.11.10 ~ 2026.11.10",
@@ -3310,7 +3289,7 @@
       "benefits": []
     },
     {
-      "id": 1000104,
+      "id": 1000103,
       "title": "[경주] 토우 김유신의 꿈",
       "amount": "",
       "period": "2026.11.12 ~ 2026.11.12",
@@ -3334,7 +3313,7 @@
       ]
     },
     {
-      "id": 1000105,
+      "id": 1000104,
       "title": "[문경] 디바",
       "amount": "",
       "period": "2026.11.13 ~ 2026.11.14",
@@ -3353,6 +3332,28 @@
       "sigunguCd": 47280,
       "sigunguNm": "문경시",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%AC%B8%EA%B2%BD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%ED%9A%8C%EA%B4%80%20%EB%AC%B8%ED%9D%AC%EC%95%84%ED%8A%B8%ED%99%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000105,
+      "title": "[의성] 신카이마코토 하이라이트 필름 콘서트",
+      "amount": "",
+      "period": "2026.11.13 ~ 2026.11.13",
+      "start": "2026-11-13",
+      "end": "2026-11-13",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경북 문화 알림] [의성] 신카이마코토 하이라이트 필름 콘서트. 장소: 의성문화회관. 분야: 음악/콘서트",
+      "color": "#5AC8FA",
+      "tags": [
+        "culture"
+      ],
+      "areaCd": 47,
+      "areaNm": "경북",
+      "sigunguCd": 47750,
+      "sigunguNm": "의성군",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%9D%98%EC%84%B1%EB%AC%B8%ED%99%94%ED%9A%8C%EA%B4%80",
       "isAd": false,
       "benefits": []
     },
@@ -3381,28 +3382,25 @@
     },
     {
       "id": 1000107,
-      "title": "2026 포항국제불빛축제",
+      "title": "[영주] 박중훈과 유리상자 이세준의 토크 & 뮤직 콘서트",
       "amount": "",
-      "period": "2026.11.19 ~ 2026.11.21",
-      "start": "2026-11-19",
-      "end": "2026-11-21",
-      "type": "축제/행사",
+      "period": "2026.11.14 ~ 2026.11.14",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "type": "문화행사",
       "source": "https://www.culture.go.kr/",
-      "note": "[인천 문화 알림] 2026 포항국제불빛축제. 장소: 영일대해수욕장 및 송도부두 일원. 분야: 행사/축제",
-      "color": "#0064FF",
+      "note": "[경북 문화 알림] [영주] 박중훈과 유리상자 이세준의 토크 & 뮤직 콘서트. 장소: 영주문화예술회관 까치홀. 분야: 기타",
+      "color": "#5AC8FA",
       "tags": [
-        "culture",
-        "festival"
+        "culture"
       ],
-      "areaCd": 28,
-      "areaNm": "인천",
-      "sigunguCd": 28185,
-      "sigunguNm": "연수구",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%98%81%EC%9D%BC%EB%8C%80%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5%20%EB%B0%8F%20%EC%86%A1%EB%8F%84%EB%B6%80%EB%91%90%20%EC%9D%BC%EC%9B%90",
+      "areaCd": 47,
+      "areaNm": "경북",
+      "sigunguCd": 47210,
+      "sigunguNm": "영주시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%98%81%EC%A3%BC%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%ED%9A%8C%EA%B4%80%20%EA%B9%8C%EC%B9%98%ED%99%80",
       "isAd": false,
-      "benefits": [
-        "인천사랑상품권 (인천e음)"
-      ]
+      "benefits": []
     },
     {
       "id": 1000108,
@@ -3864,14 +3862,14 @@
     },
     {
       "id": 1000128,
-      "title": "[제주] 부종휴와 꼬마 탐험대: 날개",
+      "title": "[제주] 바보 히어로",
       "amount": "",
-      "period": "2026.11.08 ~ 2026.11.09",
-      "start": "2026-11-08",
-      "end": "2026-11-09",
+      "period": "2026.11.04 ~ 2026.11.15",
+      "start": "2026-11-04",
+      "end": "2026-11-15",
       "type": "공연",
       "source": "https://www.culture.go.kr/",
-      "note": "[제주 문화 알림] [제주] 부종휴와 꼬마 탐험대: 날개. 장소: 제주아트센터 대극장. 분야: 뮤지컬/오페라",
+      "note": "[제주 문화 알림] [제주] 바보 히어로. 장소: 제주특별자치도문예회관. 분야: 연극",
       "color": "#FF9500",
       "tags": [
         "culture",
@@ -3881,7 +3879,7 @@
       "areaNm": "제주",
       "sigunguCd": 50110,
       "sigunguNm": "제주시",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%9C%EC%A3%BC%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0%20%EB%8C%80%EA%B7%B9%EC%9E%A5",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%EB%AC%B8%EC%98%88%ED%9A%8C%EA%B4%80",
       "isAd": false,
       "benefits": []
     },
@@ -4564,31 +4562,6 @@
       "isAd": false,
       "benefits": [
         "동백전 (부산화폐)"
-      ]
-    },
-    {
-      "id": 1000159,
-      "title": "《우리는 지구별 친구들》전시 연계 - 상설 체험 프로그램",
-      "amount": "",
-      "period": "2025.04.17 ~ 2026.12.31",
-      "start": "2025-04-17",
-      "end": "2026-12-31",
-      "type": "교육/체험",
-      "source": "https://www.culture.go.kr/",
-      "note": "[경기 문화 알림] 《우리는 지구별 친구들》전시 연계 - 상설 체험 프로그램. 장소: 경기도어린이박물관. 분야: 교육/체험",
-      "color": "#FF2D55",
-      "tags": [
-        "culture",
-        "education"
-      ],
-      "areaCd": 41,
-      "areaNm": "경기",
-      "sigunguCd": 41460,
-      "sigunguNm": "용인시",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B2%BD%EA%B8%B0%EB%8F%84%EC%96%B4%EB%A6%B0%EC%9D%B4%EB%B0%95%EB%AC%BC%EA%B4%80",
-      "isAd": false,
-      "benefits": [
-        "경기지역화폐"
       ]
     }
   ],
