@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated": "2026-11-09",
+  "generated": "2026-11-10",
   "items": [
     {
       "id": 501100,
@@ -3126,31 +3126,6 @@
     },
     {
       "id": 1000096,
-      "title": "상묵회 <천안문화예술컨퍼런스>",
-      "amount": "",
-      "period": "2026.11.05 ~ 2026.11.10",
-      "start": "2026-11-05",
-      "end": "2026-11-10",
-      "type": "전시",
-      "source": "https://www.culture.go.kr/",
-      "note": "[서울 문화 알림] 상묵회 <천안문화예술컨퍼런스>. 장소: 천안예술의전당. 분야: 전시",
-      "color": "#AF52DE",
-      "tags": [
-        "culture",
-        "exhibition"
-      ],
-      "areaCd": 11,
-      "areaNm": "서울",
-      "sigunguCd": 11650,
-      "sigunguNm": "서초구",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%B2%9C%EC%95%88%EC%98%88%EC%88%A0%EC%9D%98%EC%A0%84%EB%8B%B9",
-      "isAd": false,
-      "benefits": [
-        "서울사랑상품권"
-      ]
-    },
-    {
-      "id": 1000097,
       "title": "[보령] 늘근도둑이야기",
       "amount": "",
       "period": "2026.11.12 ~ 2026.11.13",
@@ -3173,25 +3148,46 @@
       "benefits": []
     },
     {
+      "id": 1000097,
+      "title": "[공주] 백가의 난",
+      "amount": "",
+      "period": "2026.11.12 ~ 2026.11.14",
+      "start": "2026-11-12",
+      "end": "2026-11-14",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[충남 문화 알림] [공주] 백가의 난. 장소: 백제문화전당  고마홀. 분야: 음악/콘서트",
+      "color": "#5AC8FA",
+      "tags": [
+        "culture"
+      ],
+      "areaCd": 44,
+      "areaNm": "충남",
+      "sigunguCd": 44150,
+      "sigunguNm": "공주시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%B0%B1%EC%A0%9C%EB%AC%B8%ED%99%94%EC%A0%84%EB%8B%B9%20%20%EA%B3%A0%EB%A7%88%ED%99%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
       "id": 1000098,
-      "title": "[논산] 이등병의 편지",
+      "title": "[서천] 창작음악극 한산모시 천년의 숨결 MOSI : ON",
       "amount": "",
       "period": "2026.11.13 ~ 2026.11.13",
       "start": "2026-11-13",
       "end": "2026-11-13",
-      "type": "공연",
+      "type": "문화행사",
       "source": "https://www.culture.go.kr/",
-      "note": "[충남 문화 알림] [논산] 이등병의 편지. 장소: 논산아트센터(구. 논산문화예술회관) 대공연장. 분야: 뮤지컬/오페라",
-      "color": "#FF9500",
+      "note": "[충남 문화 알림] [서천] 창작음악극 한산모시 천년의 숨결 MOSI : ON. 장소: 서천문예의전당 대강당. 분야: 기타",
+      "color": "#5AC8FA",
       "tags": [
-        "culture",
-        "theater"
+        "culture"
       ],
       "areaCd": 44,
       "areaNm": "충남",
-      "sigunguCd": 44230,
-      "sigunguNm": "논산시",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%85%BC%EC%82%B0%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0%28%EA%B5%AC.%20%EB%85%BC%EC%82%B0%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%ED%9A%8C%EA%B4%80%29%20%EB%8C%80%EA%B3%B5%EC%97%B0%EC%9E%A5",
+      "sigunguCd": 44770,
+      "sigunguNm": "서천군",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%84%9C%EC%B2%9C%EB%AC%B8%EC%98%88%EC%9D%98%EC%A0%84%EB%8B%B9%20%EB%8C%80%EA%B0%95%EB%8B%B9",
       "isAd": false,
       "benefits": []
     },
@@ -3268,28 +3264,6 @@
     },
     {
       "id": 1000102,
-      "title": "2026 포항국제음악제, 포항시립교향악단 with 김영욱&율리안 슈테켈",
-      "amount": "",
-      "period": "2026.11.10 ~ 2026.11.10",
-      "start": "2026-11-10",
-      "end": "2026-11-10",
-      "type": "문화행사",
-      "source": "https://www.culture.go.kr/",
-      "note": "[경북 문화 알림] 2026 포항국제음악제, 포항시립교향악단 with 김영욱&율리안 슈테켈. 장소: 포항문화예술회관 대공연장. 분야: 음악/콘서트",
-      "color": "#5AC8FA",
-      "tags": [
-        "culture"
-      ],
-      "areaCd": 47,
-      "areaNm": "경북",
-      "sigunguCd": 47110,
-      "sigunguNm": "포항시",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%ED%8F%AC%ED%95%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%ED%9A%8C%EA%B4%80%20%EB%8C%80%EA%B3%B5%EC%97%B0%EC%9E%A5",
-      "isAd": false,
-      "benefits": []
-    },
-    {
-      "id": 1000103,
       "title": "[경주] 토우 김유신의 꿈",
       "amount": "",
       "period": "2026.11.12 ~ 2026.11.12",
@@ -3313,7 +3287,52 @@
       ]
     },
     {
+      "id": 1000103,
+      "title": "[의성] 신카이마코토 하이라이트 필름 콘서트",
+      "amount": "",
+      "period": "2026.11.13 ~ 2026.11.13",
+      "start": "2026-11-13",
+      "end": "2026-11-13",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경북 문화 알림] [의성] 신카이마코토 하이라이트 필름 콘서트. 장소: 의성문화회관. 분야: 음악/콘서트",
+      "color": "#5AC8FA",
+      "tags": [
+        "culture"
+      ],
+      "areaCd": 47,
+      "areaNm": "경북",
+      "sigunguCd": 47750,
+      "sigunguNm": "의성군",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%9D%98%EC%84%B1%EB%AC%B8%ED%99%94%ED%9A%8C%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
       "id": 1000104,
+      "title": "제18회 경산시립극단 정기공연: 햄릿2026",
+      "amount": "",
+      "period": "2026.11.13 ~ 2026.11.14",
+      "start": "2026-11-13",
+      "end": "2026-11-14",
+      "type": "공연",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경북 문화 알림] 제18회 경산시립극단 정기공연: 햄릿2026. 장소: 천마아트센터 그랜드홀. 분야: 연극",
+      "color": "#FF9500",
+      "tags": [
+        "culture",
+        "theater"
+      ],
+      "areaCd": 47,
+      "areaNm": "경북",
+      "sigunguCd": 47290,
+      "sigunguNm": "경산시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%B2%9C%EB%A7%88%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0%20%EA%B7%B8%EB%9E%9C%EB%93%9C%ED%99%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000105,
       "title": "[문경] 디바",
       "amount": "",
       "period": "2026.11.13 ~ 2026.11.14",
@@ -3336,49 +3355,29 @@
       "benefits": []
     },
     {
-      "id": 1000105,
-      "title": "[의성] 신카이마코토 하이라이트 필름 콘서트",
+      "id": 1000106,
+      "title": "[안동] 팬레터",
       "amount": "",
       "period": "2026.11.13 ~ 2026.11.13",
       "start": "2026-11-13",
       "end": "2026-11-13",
-      "type": "문화행사",
-      "source": "https://www.culture.go.kr/",
-      "note": "[경북 문화 알림] [의성] 신카이마코토 하이라이트 필름 콘서트. 장소: 의성문화회관. 분야: 음악/콘서트",
-      "color": "#5AC8FA",
-      "tags": [
-        "culture"
-      ],
-      "areaCd": 47,
-      "areaNm": "경북",
-      "sigunguCd": 47750,
-      "sigunguNm": "의성군",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%9D%98%EC%84%B1%EB%AC%B8%ED%99%94%ED%9A%8C%EA%B4%80",
-      "isAd": false,
-      "benefits": []
-    },
-    {
-      "id": 1000106,
-      "title": "제18회 경산시립극단 정기공연: 햄릿2026",
-      "amount": "",
-      "period": "2026.11.13 ~ 2026.11.14",
-      "start": "2026-11-13",
-      "end": "2026-11-14",
       "type": "공연",
       "source": "https://www.culture.go.kr/",
-      "note": "[경북 문화 알림] 제18회 경산시립극단 정기공연: 햄릿2026. 장소: 천마아트센터 그랜드홀. 분야: 연극",
+      "note": "[서울 문화 알림] [안동] 팬레터. 장소: 안동문화예술의전당 웅부홀. 분야: 뮤지컬/오페라",
       "color": "#FF9500",
       "tags": [
         "culture",
         "theater"
       ],
-      "areaCd": 47,
-      "areaNm": "경북",
-      "sigunguCd": 47290,
-      "sigunguNm": "경산시",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%B2%9C%EB%A7%88%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0%20%EA%B7%B8%EB%9E%9C%EB%93%9C%ED%99%80",
+      "areaCd": 11,
+      "areaNm": "서울",
+      "sigunguCd": 11650,
+      "sigunguNm": "서초구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%95%88%EB%8F%99%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9D%98%EC%A0%84%EB%8B%B9%20%EC%9B%85%EB%B6%80%ED%99%80",
       "isAd": false,
-      "benefits": []
+      "benefits": [
+        "서울사랑상품권"
+      ]
     },
     {
       "id": 1000107,
@@ -4562,6 +4561,31 @@
       "isAd": false,
       "benefits": [
         "동백전 (부산화폐)"
+      ]
+    },
+    {
+      "id": 1000159,
+      "title": "[홍대] 미스터리 스릴러 연극 <흉터>",
+      "amount": "",
+      "period": "2025.03.01 ~ 2026.12.31",
+      "start": "2025-03-01",
+      "end": "2026-12-31",
+      "type": "공연",
+      "source": "https://www.culture.go.kr/",
+      "note": "[서울 문화 알림] [홍대] 미스터리 스릴러 연극 <흉터>. 장소: 홍대 씨어터 윤. 분야: 연극",
+      "color": "#FF9500",
+      "tags": [
+        "culture",
+        "theater"
+      ],
+      "areaCd": 11,
+      "areaNm": "서울",
+      "sigunguCd": 11440,
+      "sigunguNm": "마포구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%ED%99%8D%EB%8C%80%20%EC%94%A8%EC%96%B4%ED%84%B0%20%EC%9C%A4",
+      "isAd": false,
+      "benefits": [
+        "서울사랑상품권"
       ]
     }
   ],
