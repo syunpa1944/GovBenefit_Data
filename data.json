@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated": "2026-11-10",
+  "generated": "2026-11-11",
   "items": [
     {
       "id": 501100,
@@ -2200,29 +2200,6 @@
     },
     {
       "id": 1000057,
-      "title": "[울산] 보물찾기",
-      "amount": "",
-      "period": "2026.10.28 ~ 2026.11.11",
-      "start": "2026-10-28",
-      "end": "2026-11-11",
-      "type": "공연",
-      "source": "https://www.culture.go.kr/",
-      "note": "[울산 문화 알림] [울산] 보물찾기. 장소: 현대예술관. 분야: 연극",
-      "color": "#FF9500",
-      "tags": [
-        "culture",
-        "theater"
-      ],
-      "areaCd": 31,
-      "areaNm": "울산",
-      "sigunguCd": 0,
-      "sigunguNm": "전체",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%ED%98%84%EB%8C%80%EC%98%88%EC%88%A0%EA%B4%80",
-      "isAd": false,
-      "benefits": []
-    },
-    {
-      "id": 1000058,
       "title": "2026 울산시립미술관 신진작가 성과전 : 박지혜",
       "amount": "",
       "period": "2026.10.29 ~ 2026.12.06",
@@ -2241,6 +2218,29 @@
       "sigunguCd": 0,
       "sigunguNm": "전체",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%9A%B8%EC%82%B0%EC%8B%9C%EB%A6%BD%EB%AF%B8%EC%88%A0%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000058,
+      "title": "<끝내지 못한 이야기-국민화가 이중섭> 전시연계 강연",
+      "amount": "",
+      "period": "2026.10.31 ~ 2026.11.14",
+      "start": "2026-10-31",
+      "end": "2026-11-14",
+      "type": "교육/체험",
+      "source": "https://www.culture.go.kr/",
+      "note": "[울산 문화 알림] <끝내지 못한 이야기-국민화가 이중섭> 전시연계 강연. 장소: 전국. 분야: 교육/체험",
+      "color": "#FF2D55",
+      "tags": [
+        "culture",
+        "education"
+      ],
+      "areaCd": 31,
+      "areaNm": "울산",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EA%B5%AD",
       "isAd": false,
       "benefits": []
     },
@@ -3126,6 +3126,31 @@
     },
     {
       "id": 1000096,
+      "title": "천안서예가협회 《28회 천안서예가협회 정기전》",
+      "amount": "",
+      "period": "2026.11.11 ~ 2026.11.15",
+      "start": "2026-11-11",
+      "end": "2026-11-15",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[서울 문화 알림] 천안서예가협회 《28회 천안서예가협회 정기전》. 장소: 천안예술의전당. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 11,
+      "areaNm": "서울",
+      "sigunguCd": 11650,
+      "sigunguNm": "서초구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%B2%9C%EC%95%88%EC%98%88%EC%88%A0%EC%9D%98%EC%A0%84%EB%8B%B9",
+      "isAd": false,
+      "benefits": [
+        "서울사랑상품권"
+      ]
+    },
+    {
+      "id": 1000097,
       "title": "[보령] 늘근도둑이야기",
       "amount": "",
       "period": "2026.11.12 ~ 2026.11.13",
@@ -3148,7 +3173,7 @@
       "benefits": []
     },
     {
-      "id": 1000097,
+      "id": 1000098,
       "title": "[공주] 백가의 난",
       "amount": "",
       "period": "2026.11.12 ~ 2026.11.14",
@@ -3166,28 +3191,6 @@
       "sigunguCd": 44150,
       "sigunguNm": "공주시",
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%B0%B1%EC%A0%9C%EB%AC%B8%ED%99%94%EC%A0%84%EB%8B%B9%20%20%EA%B3%A0%EB%A7%88%ED%99%80",
-      "isAd": false,
-      "benefits": []
-    },
-    {
-      "id": 1000098,
-      "title": "[서천] 창작음악극 한산모시 천년의 숨결 MOSI : ON",
-      "amount": "",
-      "period": "2026.11.13 ~ 2026.11.13",
-      "start": "2026-11-13",
-      "end": "2026-11-13",
-      "type": "문화행사",
-      "source": "https://www.culture.go.kr/",
-      "note": "[충남 문화 알림] [서천] 창작음악극 한산모시 천년의 숨결 MOSI : ON. 장소: 서천문예의전당 대강당. 분야: 기타",
-      "color": "#5AC8FA",
-      "tags": [
-        "culture"
-      ],
-      "areaCd": 44,
-      "areaNm": "충남",
-      "sigunguCd": 44770,
-      "sigunguNm": "서천군",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%84%9C%EC%B2%9C%EB%AC%B8%EC%98%88%EC%9D%98%EC%A0%84%EB%8B%B9%20%EB%8C%80%EA%B0%95%EB%8B%B9",
       "isAd": false,
       "benefits": []
     },
@@ -3288,51 +3291,6 @@
     },
     {
       "id": 1000103,
-      "title": "[의성] 신카이마코토 하이라이트 필름 콘서트",
-      "amount": "",
-      "period": "2026.11.13 ~ 2026.11.13",
-      "start": "2026-11-13",
-      "end": "2026-11-13",
-      "type": "문화행사",
-      "source": "https://www.culture.go.kr/",
-      "note": "[경북 문화 알림] [의성] 신카이마코토 하이라이트 필름 콘서트. 장소: 의성문화회관. 분야: 음악/콘서트",
-      "color": "#5AC8FA",
-      "tags": [
-        "culture"
-      ],
-      "areaCd": 47,
-      "areaNm": "경북",
-      "sigunguCd": 47750,
-      "sigunguNm": "의성군",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%9D%98%EC%84%B1%EB%AC%B8%ED%99%94%ED%9A%8C%EA%B4%80",
-      "isAd": false,
-      "benefits": []
-    },
-    {
-      "id": 1000104,
-      "title": "제18회 경산시립극단 정기공연: 햄릿2026",
-      "amount": "",
-      "period": "2026.11.13 ~ 2026.11.14",
-      "start": "2026-11-13",
-      "end": "2026-11-14",
-      "type": "공연",
-      "source": "https://www.culture.go.kr/",
-      "note": "[경북 문화 알림] 제18회 경산시립극단 정기공연: 햄릿2026. 장소: 천마아트센터 그랜드홀. 분야: 연극",
-      "color": "#FF9500",
-      "tags": [
-        "culture",
-        "theater"
-      ],
-      "areaCd": 47,
-      "areaNm": "경북",
-      "sigunguCd": 47290,
-      "sigunguNm": "경산시",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%B2%9C%EB%A7%88%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0%20%EA%B7%B8%EB%9E%9C%EB%93%9C%ED%99%80",
-      "isAd": false,
-      "benefits": []
-    },
-    {
-      "id": 1000105,
       "title": "[문경] 디바",
       "amount": "",
       "period": "2026.11.13 ~ 2026.11.14",
@@ -3355,7 +3313,7 @@
       "benefits": []
     },
     {
-      "id": 1000106,
+      "id": 1000104,
       "title": "[안동] 팬레터",
       "amount": "",
       "period": "2026.11.13 ~ 2026.11.13",
@@ -3380,46 +3338,94 @@
       ]
     },
     {
-      "id": 1000107,
-      "title": "[영주] 박중훈과 유리상자 이세준의 토크 & 뮤직 콘서트",
+      "id": 1000105,
+      "title": "제18회 경산시립극단 정기공연: 햄릿2026",
       "amount": "",
-      "period": "2026.11.14 ~ 2026.11.14",
-      "start": "2026-11-14",
+      "period": "2026.11.13 ~ 2026.11.14",
+      "start": "2026-11-13",
       "end": "2026-11-14",
-      "type": "문화행사",
+      "type": "공연",
       "source": "https://www.culture.go.kr/",
-      "note": "[경북 문화 알림] [영주] 박중훈과 유리상자 이세준의 토크 & 뮤직 콘서트. 장소: 영주문화예술회관 까치홀. 분야: 기타",
-      "color": "#5AC8FA",
+      "note": "[경북 문화 알림] 제18회 경산시립극단 정기공연: 햄릿2026. 장소: 천마아트센터 그랜드홀. 분야: 연극",
+      "color": "#FF9500",
       "tags": [
-        "culture"
+        "culture",
+        "theater"
       ],
       "areaCd": 47,
       "areaNm": "경북",
-      "sigunguCd": 47210,
-      "sigunguNm": "영주시",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%98%81%EC%A3%BC%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%ED%9A%8C%EA%B4%80%20%EA%B9%8C%EC%B9%98%ED%99%80",
+      "sigunguCd": 47290,
+      "sigunguNm": "경산시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%B2%9C%EB%A7%88%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0%20%EA%B7%B8%EB%9E%9C%EB%93%9C%ED%99%80",
       "isAd": false,
       "benefits": []
     },
     {
-      "id": 1000108,
-      "title": "시립합창단 제40회 정기연주회: 교성곡 김천 & 뮤지컬 WOW",
+      "id": 1000106,
+      "title": "[의성] 신카이마코토 하이라이트 필름 콘서트",
       "amount": "",
-      "period": "2026.11.19 ~ 2026.11.19",
-      "start": "2026-11-19",
-      "end": "2026-11-19",
+      "period": "2026.11.13 ~ 2026.11.13",
+      "start": "2026-11-13",
+      "end": "2026-11-13",
       "type": "문화행사",
       "source": "https://www.culture.go.kr/",
-      "note": "[경북 문화 알림] 시립합창단 제40회 정기연주회: 교성곡 김천 & 뮤지컬 WOW. 장소: 김천시문화예술회관 대공연장. 분야: 음악/콘서트",
+      "note": "[경북 문화 알림] [의성] 신카이마코토 하이라이트 필름 콘서트. 장소: 의성문화회관. 분야: 음악/콘서트",
       "color": "#5AC8FA",
       "tags": [
         "culture"
       ],
       "areaCd": 47,
       "areaNm": "경북",
-      "sigunguCd": 47150,
-      "sigunguNm": "김천시",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B9%80%EC%B2%9C%EC%8B%9C%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%ED%9A%8C%EA%B4%80%20%EB%8C%80%EA%B3%B5%EC%97%B0%EC%9E%A5",
+      "sigunguCd": 47750,
+      "sigunguNm": "의성군",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%9D%98%EC%84%B1%EB%AC%B8%ED%99%94%ED%9A%8C%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000107,
+      "title": "[경주] 한수원 뮤직 페스티벌: THE THEATER",
+      "amount": "",
+      "period": "2026.11.13 ~ 2026.11.14",
+      "start": "2026-11-13",
+      "end": "2026-11-14",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[서울 문화 알림] [경주] 한수원 뮤직 페스티벌: THE THEATER. 장소: 경주예술의전당 대공연장(화랑홀). 분야: 음악/콘서트",
+      "color": "#5AC8FA",
+      "tags": [
+        "culture"
+      ],
+      "areaCd": 11,
+      "areaNm": "서울",
+      "sigunguCd": 11650,
+      "sigunguNm": "서초구",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B2%BD%EC%A3%BC%EC%98%88%EC%88%A0%EC%9D%98%EC%A0%84%EB%8B%B9%20%EB%8C%80%EA%B3%B5%EC%97%B0%EC%9E%A5%28%ED%99%94%EB%9E%91%ED%99%80%29",
+      "isAd": false,
+      "benefits": [
+        "서울사랑상품권"
+      ]
+    },
+    {
+      "id": 1000108,
+      "title": "[안동] 오늘을 기억해",
+      "amount": "",
+      "period": "2026.11.14 ~ 2026.11.14",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "type": "공연",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경북 문화 알림] [안동] 오늘을 기억해. 장소: 경북도청 동락관. 분야: 뮤지컬/오페라",
+      "color": "#FF9500",
+      "tags": [
+        "culture",
+        "theater"
+      ],
+      "areaCd": 47,
+      "areaNm": "경북",
+      "sigunguCd": 47170,
+      "sigunguNm": "안동시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B2%BD%EB%B6%81%EB%8F%84%EC%B2%AD%20%EB%8F%99%EB%9D%BD%EA%B4%80",
       "isAd": false,
       "benefits": []
     },
