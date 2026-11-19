@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated": "2026-11-18",
+  "generated": "2026-11-19",
   "items": [
     {
       "id": 501100,
@@ -1973,12 +1973,12 @@
       "id": 1000047,
       "title": "[대관공연] 캔들라이트 콘서트(8-12월)",
       "amount": "",
-      "period": "2026.08.01 ~ 2026.12.25",
+      "period": "2026.08.01 ~ 2026.12.26",
       "start": "2026-08-01",
-      "end": "2026-12-25",
+      "end": "2026-12-26",
       "type": "문화행사",
       "source": "https://www.culture.go.kr/",
-      "note": "[광주 문화 알림] [대관공연] 캔들라이트 콘서트(8-12월). 장소: 국립아시아문화전당 극장2. 분야: 기타",
+      "note": "[광주 문화 알림] [대관공연] 캔들라이트 콘서트(8-12월). 장소: 국립아시아문화전당 극장2. 분야: 음악/콘서트",
       "color": "#5AC8FA",
       "tags": [
         "culture"
@@ -2200,29 +2200,6 @@
     },
     {
       "id": 1000057,
-      "title": "김상현 展 《원격의 테두리》",
-      "amount": "",
-      "period": "2026.11.07 ~ 2026.12.13",
-      "start": "2026-11-07",
-      "end": "2026-12-13",
-      "type": "전시",
-      "source": "https://www.culture.go.kr/",
-      "note": "[울산 문화 알림] 김상현 展 《원격의 테두리》. 장소: 슬도아트. 분야: 전시",
-      "color": "#AF52DE",
-      "tags": [
-        "culture",
-        "exhibition"
-      ],
-      "areaCd": 31,
-      "areaNm": "울산",
-      "sigunguCd": 0,
-      "sigunguNm": "전체",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%8A%AC%EB%8F%84%EC%95%84%ED%8A%B8",
-      "isAd": false,
-      "benefits": []
-    },
-    {
-      "id": 1000058,
       "title": "나은민 展 《다가가는 방식》",
       "amount": "",
       "period": "2026.11.07 ~ 2026.12.13",
@@ -2245,31 +2222,30 @@
       "benefits": []
     },
     {
-      "id": 1000059,
-      "title": "2026 세종메세나 콘서트",
+      "id": 1000058,
+      "title": "김상현 展 《원격의 테두리》",
       "amount": "",
-      "period": "2026.11.19 ~ 2026.11.19",
-      "start": "2026-11-19",
-      "end": "2026-11-19",
-      "type": "문화행사",
+      "period": "2026.11.07 ~ 2026.12.13",
+      "start": "2026-11-07",
+      "end": "2026-12-13",
+      "type": "전시",
       "source": "https://www.culture.go.kr/",
-      "note": "[서울 문화 알림] 2026 세종메세나 콘서트. 장소: 세종예술의전당 대공연장. 분야: 기타",
-      "color": "#5AC8FA",
+      "note": "[울산 문화 알림] 김상현 展 《원격의 테두리》. 장소: 슬도아트. 분야: 전시",
+      "color": "#AF52DE",
       "tags": [
-        "culture"
+        "culture",
+        "exhibition"
       ],
-      "areaCd": 11,
-      "areaNm": "서울",
-      "sigunguCd": 11650,
-      "sigunguNm": "서초구",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%84%B8%EC%A2%85%EC%98%88%EC%88%A0%EC%9D%98%EC%A0%84%EB%8B%B9%20%EB%8C%80%EA%B3%B5%EC%97%B0%EC%9E%A5",
+      "areaCd": 31,
+      "areaNm": "울산",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%8A%AC%EB%8F%84%EC%95%84%ED%8A%B8",
       "isAd": false,
-      "benefits": [
-        "서울사랑상품권"
-      ]
+      "benefits": []
     },
     {
-      "id": 1000060,
+      "id": 1000059,
       "title": "시크릿콘서트, 슈베르트와 맥주-박유신＆김수연",
       "amount": "",
       "period": "2026.11.20 ~ 2026.11.20",
@@ -2293,7 +2269,7 @@
       ]
     },
     {
-      "id": 1000061,
+      "id": 1000060,
       "title": "[세종] 2026 꿈의 오케스트라 '세종' 제11회 정기연주회 : MUSICAL TONIGHT",
       "amount": "",
       "period": "2026.11.20 ~ 2026.11.20",
@@ -2315,6 +2291,29 @@
       "benefits": [
         "서울사랑상품권"
       ]
+    },
+    {
+      "id": 1000061,
+      "title": "[세종] WISH",
+      "amount": "",
+      "period": "2026.11.21 ~ 2026.11.22",
+      "start": "2026-11-21",
+      "end": "2026-11-22",
+      "type": "공연",
+      "source": "https://www.culture.go.kr/",
+      "note": "[세종 문화 알림] [세종] WISH. 장소: 세종 음악창작소 누리락 공연장. 분야: 뮤지컬/오페라",
+      "color": "#FF9500",
+      "tags": [
+        "culture",
+        "theater"
+      ],
+      "areaCd": 36,
+      "areaNm": "세종",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%84%B8%EC%A2%85%20%EC%9D%8C%EC%95%85%EC%B0%BD%EC%9E%91%EC%86%8C%20%EB%88%84%EB%A6%AC%EB%9D%BD%20%EA%B3%B5%EC%97%B0%EC%9E%A5",
+      "isAd": false,
+      "benefits": []
     },
     {
       "id": 1000062,
@@ -2965,6 +2964,236 @@
     },
     {
       "id": 1000089,
+      "title": "2026년 내포 힐링 아카데미 <온도락>",
+      "amount": "",
+      "period": "2026.03.25 ~ 2026.11.25",
+      "start": "2026-03-25",
+      "end": "2026-11-25",
+      "type": "교육/체험",
+      "source": "https://www.culture.go.kr/",
+      "note": "[충남 문화 알림] 2026년 내포 힐링 아카데미 <온도락>. 장소: 전국. 분야: 교육/체험",
+      "color": "#FF2D55",
+      "tags": [
+        "culture",
+        "education"
+      ],
+      "areaCd": 44,
+      "areaNm": "충남",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EA%B5%AD",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000090,
+      "title": "2026 천안제로프로젝트 《눈금 없는 자(尺): 분류 이전의 것들》",
+      "amount": "",
+      "period": "2026.09.15 ~ 2026.12.20",
+      "start": "2026-09-15",
+      "end": "2026-12-20",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[충남 문화 알림] 2026 천안제로프로젝트 《눈금 없는 자(尺): 분류 이전의 것들》. 장소: 천안시립미술관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 44,
+      "areaNm": "충남",
+      "sigunguCd": 44130,
+      "sigunguNm": "천안시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%B2%9C%EC%95%88%EC%8B%9C%EB%A6%BD%EB%AF%B8%EC%88%A0%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000091,
+      "title": "국립공주박물관 특별전 '한국의 영산, 계룡산(가제)'",
+      "amount": "",
+      "period": "2026.09.22 ~ 2027.03.01",
+      "start": "2026-09-22",
+      "end": "2027-03-01",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[충남 문화 알림] 국립공주박물관 특별전 '한국의 영산, 계룡산(가제)'. 장소: 국립공주박물관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 44,
+      "areaNm": "충남",
+      "sigunguCd": 44150,
+      "sigunguNm": "공주시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%A3%BC%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000092,
+      "title": "2026 천안시립문학관 문학창작아카데미 <책크숍>",
+      "amount": "",
+      "period": "2026.10.01 ~ 2026.11.30",
+      "start": "2026-10-01",
+      "end": "2026-11-30",
+      "type": "교육/체험",
+      "source": "https://www.culture.go.kr/",
+      "note": "[충남 문화 알림] 2026 천안시립문학관 문학창작아카데미 <책크숍>. 장소: 전국. 분야: 교육/체험",
+      "color": "#FF2D55",
+      "tags": [
+        "culture",
+        "education"
+      ],
+      "areaCd": 44,
+      "areaNm": "충남",
+      "sigunguCd": 44130,
+      "sigunguNm": "천안시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EA%B5%AD",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000093,
+      "title": "이응노의 집 창작스튜디오 9기 입주작가 결과보고전 《시시한 일상 밖에》",
+      "amount": "",
+      "period": "2026.10.27 ~ 2026.11.29",
+      "start": "2026-10-27",
+      "end": "2026-11-29",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[충남 문화 알림] 이응노의 집 창작스튜디오 9기 입주작가 결과보고전 《시시한 일상 밖에》. 장소: 고암 이응노생가기념관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 44,
+      "areaNm": "충남",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B3%A0%EC%95%94%20%EC%9D%B4%EC%9D%91%EB%85%B8%EC%83%9D%EA%B0%80%EA%B8%B0%EB%85%90%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000094,
+      "title": "2026 당진 도시문화 지역리서치 & 공유포럼",
+      "amount": "",
+      "period": "2026.10.28 ~ 2026.12.11",
+      "start": "2026-10-28",
+      "end": "2026-12-11",
+      "type": "교육/체험",
+      "source": "https://www.culture.go.kr/",
+      "note": "[충남 문화 알림] 2026 당진 도시문화 지역리서치 & 공유포럼. 장소: 전국. 분야: 교육/체험",
+      "color": "#FF2D55",
+      "tags": [
+        "culture",
+        "education"
+      ],
+      "areaCd": 44,
+      "areaNm": "충남",
+      "sigunguCd": 44270,
+      "sigunguNm": "당진시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EA%B5%AD",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000095,
+      "title": "[도고아트홀] 2026년 11월 기획 공연 안내",
+      "amount": "",
+      "period": "2026.11.01 ~ 2026.11.29",
+      "start": "2026-11-01",
+      "end": "2026-11-29",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[충남 문화 알림] [도고아트홀] 2026년 11월 기획 공연 안내. 장소: 도고아트홀. 분야: 아동/가족",
+      "color": "#34C759",
+      "tags": [
+        "culture",
+        "family"
+      ],
+      "areaCd": 44,
+      "areaNm": "충남",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EB%8F%84%EA%B3%A0%EC%95%84%ED%8A%B8%ED%99%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000096,
+      "title": "귀환: 독도 강치",
+      "amount": "",
+      "period": "2026.11.10 ~ 2027.08.29",
+      "start": "2026-11-10",
+      "end": "2027-08-29",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[충남 문화 알림] 귀환: 독도 강치. 장소: 국립해양생물자원관 씨큐리움. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 44,
+      "areaNm": "충남",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B5%AD%EB%A6%BD%ED%95%B4%EC%96%91%EC%83%9D%EB%AC%BC%EC%9E%90%EC%9B%90%EA%B4%80%20%EC%94%A8%ED%81%90%EB%A6%AC%EC%9B%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000097,
+      "title": "[천안] 명랑동화뮤지컬, 삼양동화",
+      "amount": "",
+      "period": "2026.11.14 ~ 2026.11.22",
+      "start": "2026-11-14",
+      "end": "2026-11-22",
+      "type": "공연",
+      "source": "https://www.culture.go.kr/",
+      "note": "[충남 문화 알림] [천안] 명랑동화뮤지컬, 삼양동화. 장소: 천안어린이꿈누리터(구. 천안시 어린이 회관) 꿈누리대공연장. 분야: 뮤지컬/오페라",
+      "color": "#FF9500",
+      "tags": [
+        "culture",
+        "theater"
+      ],
+      "areaCd": 44,
+      "areaNm": "충남",
+      "sigunguCd": 44130,
+      "sigunguNm": "천안시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%B2%9C%EC%95%88%EC%96%B4%EB%A6%B0%EC%9D%B4%EA%BF%88%EB%88%84%EB%A6%AC%ED%84%B0%28%EA%B5%AC.%20%EC%B2%9C%EC%95%88%EC%8B%9C%20%EC%96%B4%EB%A6%B0%EC%9D%B4%20%ED%9A%8C%EA%B4%80%29%20%EA%BF%88%EB%88%84%EB%A6%AC%EB%8C%80%EA%B3%B5%EC%97%B0%EC%9E%A5",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000098,
+      "title": "2026 천안시영상미디어센터 기획상영회",
+      "amount": "",
+      "period": "2026.11.17 ~ 2026.11.21",
+      "start": "2026-11-17",
+      "end": "2026-11-21",
+      "type": "축제/행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[충남 문화 알림] 2026 천안시영상미디어센터 기획상영회. 장소: 인디플러스천안. 분야: 행사/축제",
+      "color": "#0064FF",
+      "tags": [
+        "culture",
+        "festival"
+      ],
+      "areaCd": 44,
+      "areaNm": "충남",
+      "sigunguCd": 44130,
+      "sigunguNm": "천안시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%9D%B8%EB%94%94%ED%94%8C%EB%9F%AC%EC%8A%A4%EC%B2%9C%EC%95%88",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000099,
       "title": "[실감 미디어아트 체험전 리뉴얼] NEW! The경주; 경주연대기",
       "amount": "",
       "period": "2025.12.02 ~ 2026.12.31",
@@ -2989,7 +3218,7 @@
       ]
     },
     {
-      "id": 1000090,
+      "id": 1000100,
       "title": "2026년 수토역사전시관 공동기획전 \"울릉도, 1919\"",
       "amount": "",
       "period": "2026.08.14 ~ 2027.02.12",
@@ -3012,7 +3241,7 @@
       "benefits": []
     },
     {
-      "id": 1000091,
+      "id": 1000101,
       "title": "2026년 상주박물관 기증유물전 '당신이 건넨 시간, 상주의 역사가 되다'",
       "amount": "",
       "period": "2026.09.15 ~ 2027.03.01",
@@ -3035,7 +3264,7 @@
       "benefits": []
     },
     {
-      "id": 1000092,
+      "id": 1000102,
       "title": "2026 스틸아트기획전 《RE: Figure 변화하는 형상, 확장되는 조각》",
       "amount": "",
       "period": "2026.09.22 ~ 2027.01.03",
@@ -3058,7 +3287,7 @@
       "benefits": []
     },
     {
-      "id": 1000093,
+      "id": 1000103,
       "title": "2026 포항국제불빛축제",
       "amount": "",
       "period": "2026.11.19 ~ 2026.11.21",
@@ -3083,73 +3312,7 @@
       ]
     },
     {
-      "id": 1000094,
-      "title": "경산시립합창단 가을음악회: 낭만에 대하여",
-      "amount": "",
-      "period": "2026.11.19 ~ 2026.11.19",
-      "start": "2026-11-19",
-      "end": "2026-11-19",
-      "type": "문화행사",
-      "source": "https://www.culture.go.kr/",
-      "note": "[경북 문화 알림] 경산시립합창단 가을음악회: 낭만에 대하여. 장소: 경산시민회관 대강당. 분야: 음악/콘서트",
-      "color": "#5AC8FA",
-      "tags": [
-        "culture"
-      ],
-      "areaCd": 47,
-      "areaNm": "경북",
-      "sigunguCd": 47290,
-      "sigunguNm": "경산시",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B2%BD%EC%82%B0%EC%8B%9C%EB%AF%BC%ED%9A%8C%EA%B4%80%20%EB%8C%80%EA%B0%95%EB%8B%B9",
-      "isAd": false,
-      "benefits": []
-    },
-    {
-      "id": 1000095,
-      "title": "시립합창단 제40회 정기연주회: 교성곡 김천 & 뮤지컬 WOW",
-      "amount": "",
-      "period": "2026.11.19 ~ 2026.11.19",
-      "start": "2026-11-19",
-      "end": "2026-11-19",
-      "type": "문화행사",
-      "source": "https://www.culture.go.kr/",
-      "note": "[경북 문화 알림] 시립합창단 제40회 정기연주회: 교성곡 김천 & 뮤지컬 WOW. 장소: 김천시문화예술회관 대공연장. 분야: 음악/콘서트",
-      "color": "#5AC8FA",
-      "tags": [
-        "culture"
-      ],
-      "areaCd": 47,
-      "areaNm": "경북",
-      "sigunguCd": 47150,
-      "sigunguNm": "김천시",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B9%80%EC%B2%9C%EC%8B%9C%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%ED%9A%8C%EA%B4%80%20%EB%8C%80%EA%B3%B5%EC%97%B0%EC%9E%A5",
-      "isAd": false,
-      "benefits": []
-    },
-    {
-      "id": 1000096,
-      "title": "[구미] 레미제라블",
-      "amount": "",
-      "period": "2026.11.20 ~ 2026.11.21",
-      "start": "2026-11-20",
-      "end": "2026-11-21",
-      "type": "문화행사",
-      "source": "https://www.culture.go.kr/",
-      "note": "[경북 문화 알림] [구미] 레미제라블. 장소: 구미시문화예술회관 대공연장. 분야: 무용/발레",
-      "color": "#5AC8FA",
-      "tags": [
-        "culture"
-      ],
-      "areaCd": 47,
-      "areaNm": "경북",
-      "sigunguCd": 0,
-      "sigunguNm": "전체",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B5%AC%EB%AF%B8%EC%8B%9C%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%ED%9A%8C%EA%B4%80%20%EB%8C%80%EA%B3%B5%EC%97%B0%EC%9E%A5",
-      "isAd": false,
-      "benefits": []
-    },
-    {
-      "id": 1000097,
+      "id": 1000104,
       "title": "[고령] 아줌마가 달려간다",
       "amount": "",
       "period": "2026.11.20 ~ 2026.11.20",
@@ -3172,7 +3335,29 @@
       "benefits": []
     },
     {
-      "id": 1000098,
+      "id": 1000105,
+      "title": "[구미] 레미제라블",
+      "amount": "",
+      "period": "2026.11.20 ~ 2026.11.21",
+      "start": "2026-11-20",
+      "end": "2026-11-21",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경북 문화 알림] [구미] 레미제라블. 장소: 구미시문화예술회관 대공연장. 분야: 무용/발레",
+      "color": "#5AC8FA",
+      "tags": [
+        "culture"
+      ],
+      "areaCd": 47,
+      "areaNm": "경북",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B5%AC%EB%AF%B8%EC%8B%9C%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%ED%9A%8C%EA%B4%80%20%EB%8C%80%EA%B3%B5%EC%97%B0%EC%9E%A5",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000106,
       "title": "2026 아시아 디제이 페스티벌(2026 Asia Dj Festival) in 포항",
       "amount": "",
       "period": "2026.11.20 ~ 2026.11.20",
@@ -3194,7 +3379,52 @@
       "benefits": []
     },
     {
-      "id": 1000099,
+      "id": 1000107,
+      "title": "[성주] 누가 내 머리에 똥 쌌어?",
+      "amount": "",
+      "period": "2026.11.21 ~ 2026.11.21",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "type": "공연",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경북 문화 알림] [성주] 누가 내 머리에 똥 쌌어?. 장소: 성주문화예술회관 대공연장. 분야: 뮤지컬/오페라",
+      "color": "#FF9500",
+      "tags": [
+        "culture",
+        "theater"
+      ],
+      "areaCd": 47,
+      "areaNm": "경북",
+      "sigunguCd": 0,
+      "sigunguNm": "전체",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%84%B1%EC%A3%BC%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%ED%9A%8C%EA%B4%80%20%EB%8C%80%EA%B3%B5%EC%97%B0%EC%9E%A5",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000108,
+      "title": "[영덕] 와이즈발레단, 춤추는 팬더",
+      "amount": "",
+      "period": "2026.11.21 ~ 2026.11.22",
+      "start": "2026-11-21",
+      "end": "2026-11-22",
+      "type": "문화행사",
+      "source": "https://www.culture.go.kr/",
+      "note": "[경북 문화 알림] [영덕] 와이즈발레단, 춤추는 팬더. 장소: 예주문화예술회관. 분야: 무용/발레",
+      "color": "#5AC8FA",
+      "tags": [
+        "culture"
+      ],
+      "areaCd": 47,
+      "areaNm": "경북",
+      "sigunguCd": 47820,
+      "sigunguNm": "영덕군",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%98%88%EC%A3%BC%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%ED%9A%8C%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000109,
       "title": "《The Origin》석고 원형, 최초의 형태",
       "amount": "",
       "period": "2026.02.24 ~ 2027.08.29",
@@ -3217,7 +3447,7 @@
       "benefits": []
     },
     {
-      "id": 1000100,
+      "id": 1000110,
       "title": "2026년 문화소외계층 교육 <손끝 가야, 패총 비누 만들기>",
       "amount": "",
       "period": "2026.02.27 ~ 2026.11.27",
@@ -3240,7 +3470,7 @@
       "benefits": []
     },
     {
-      "id": 1000101,
+      "id": 1000111,
       "title": "[창원] 움라우트 뮤직 키즈 클래식 (13시)",
       "amount": "",
       "period": "2026.02.28 ~ 2026.12.19",
@@ -3262,7 +3492,7 @@
       "benefits": []
     },
     {
-      "id": 1000102,
+      "id": 1000112,
       "title": "클레이아크김해미술관 개관 20주년 특별기획전 <주름과 덧댐>",
       "amount": "",
       "period": "2026.04.17 ~ 2026.11.29",
@@ -3285,7 +3515,7 @@
       "benefits": []
     },
     {
-      "id": 1000103,
+      "id": 1000113,
       "title": "「담쟁이 창작소」 문화예술교육 프로그램 「엄마의 9경 : 아카이브」",
       "amount": "",
       "period": "2026.09.09 ~ 2026.11.28",
@@ -3308,7 +3538,7 @@
       "benefits": []
     },
     {
-      "id": 1000104,
+      "id": 1000114,
       "title": "창원 현동 사람들 이야기 : 가야, 바다, 무덤",
       "amount": "",
       "period": "2026.09.18 ~ 2027.02.14",
@@ -3331,7 +3561,7 @@
       "benefits": []
     },
     {
-      "id": 1000105,
+      "id": 1000115,
       "title": "두암 김용두 기증 30년 기념 특별전 '나의 인생 박물관'",
       "amount": "",
       "period": "2026.09.22 ~ 2027.02.28",
@@ -3354,7 +3584,7 @@
       "benefits": []
     },
     {
-      "id": 1000106,
+      "id": 1000116,
       "title": "《다정한 영토》",
       "amount": "",
       "period": "2026.10.08 ~ 2026.11.22",
@@ -3377,7 +3607,7 @@
       "benefits": []
     },
     {
-      "id": 1000107,
+      "id": 1000117,
       "title": "2026년 갤러리(昌) 종합전시",
       "amount": "",
       "period": "2026.11.03 ~ 2026.11.20",
@@ -3400,7 +3630,7 @@
       "benefits": []
     },
     {
-      "id": 1000108,
+      "id": 1000118,
       "title": "[창원] 어린이놀이형뮤지컬 미녀와 야수",
       "amount": "",
       "period": "2026.11.07 ~ 2026.12.27",
@@ -3423,7 +3653,7 @@
       "benefits": []
     },
     {
-      "id": 1000109,
+      "id": 1000119,
       "title": "10/10: 미술관 10년의 선택",
       "amount": "",
       "period": "2026.02.10 ~ 2026.12.31",
@@ -3446,7 +3676,7 @@
       "benefits": []
     },
     {
-      "id": 1000110,
+      "id": 1000120,
       "title": "2026년 <문화:소셜 플래너> 양성과정(진입/성장과정)",
       "amount": "",
       "period": "2026.06.01 ~ 2026.11.30",
@@ -3469,7 +3699,7 @@
       "benefits": []
     },
     {
-      "id": 1000111,
+      "id": 1000121,
       "title": "찰나의 영원, 제주를 담다 - 고 김영갑 작가 기증 사진전",
       "amount": "",
       "period": "2026.06.16 ~ 2027.03.01",
@@ -3492,7 +3722,7 @@
       "benefits": []
     },
     {
-      "id": 1000112,
+      "id": 1000122,
       "title": "큐레이터와의 대화",
       "amount": "",
       "period": "2026.07.01 ~ 2026.12.24",
@@ -3515,7 +3745,7 @@
       "benefits": []
     },
     {
-      "id": 1000113,
+      "id": 1000123,
       "title": "독립기념관 현충시설 순회전 <태극기, 모두의 염원을 담다>",
       "amount": "",
       "period": "2026.10.15 ~ 2026.11.30",
@@ -3538,7 +3768,7 @@
       "benefits": []
     },
     {
-      "id": 1000114,
+      "id": 1000124,
       "title": "기획전시 《김만덕, 기록이 되다》",
       "amount": "",
       "period": "2026.10.22 ~ 2027.01.31",
@@ -3561,7 +3791,7 @@
       "benefits": []
     },
     {
-      "id": 1000115,
+      "id": 1000125,
       "title": "2026 산지천갤러리 《SJC 아카이브 윈도우: 붉은 방》 상설전시 및 작가와의 대화",
       "amount": "",
       "period": "2026.10.28 ~ 2027.02.28",
@@ -3584,7 +3814,7 @@
       "benefits": []
     },
     {
-      "id": 1000116,
+      "id": 1000126,
       "title": "2026 예술공간 이아 하반기 예술교육 프로그램 「이아로 잇는 삶」",
       "amount": "",
       "period": "2026.11.03 ~ 2026.11.26",
@@ -3607,7 +3837,7 @@
       "benefits": []
     },
     {
-      "id": 1000117,
+      "id": 1000127,
       "title": "[제주] 크리스마스&애니메이션 OST 섀도우콘서트",
       "amount": "",
       "period": "2026.11.14 ~ 2027.01.03",
@@ -3629,30 +3859,29 @@
       "benefits": []
     },
     {
-      "id": 1000118,
-      "title": "[제주] 여자의 일생",
+      "id": 1000128,
+      "title": "[제주] 2026 대한민국 작곡제전, 귀환: 김순남 피아노 협주곡",
       "amount": "",
-      "period": "2026.11.18 ~ 2026.11.19",
-      "start": "2026-11-18",
-      "end": "2026-11-19",
-      "type": "공연",
+      "period": "2026.11.21 ~ 2026.11.21",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "type": "문화행사",
       "source": "https://www.culture.go.kr/",
-      "note": "[제주 문화 알림] [제주] 여자의 일생. 장소: 제주특별자치도문예회관. 분야: 연극",
-      "color": "#FF9500",
+      "note": "[제주 문화 알림] [제주] 2026 대한민국 작곡제전, 귀환: 김순남 피아노 협주곡. 장소: 제주아트센터 대극장. 분야: 음악/콘서트",
+      "color": "#5AC8FA",
       "tags": [
-        "culture",
-        "theater"
+        "culture"
       ],
       "areaCd": 50,
       "areaNm": "제주",
       "sigunguCd": 50110,
       "sigunguNm": "제주시",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%EB%AC%B8%EC%98%88%ED%9A%8C%EA%B4%80",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%9C%EC%A3%BC%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0%20%EB%8C%80%EA%B7%B9%EC%9E%A5",
       "isAd": false,
       "benefits": []
     },
     {
-      "id": 1000119,
+      "id": 1000129,
       "title": "[상설전시] 강원도, 불교도의 이상향",
       "amount": "",
       "period": "2025.09.16 ~ 2027.12.31",
@@ -3675,7 +3904,7 @@
       "benefits": []
     },
     {
-      "id": 1000120,
+      "id": 1000130,
       "title": "국립춘천박물관 '강원의 삶과 이상향'",
       "amount": "",
       "period": "2025.11.11 ~ 2028.12.31",
@@ -3698,7 +3927,7 @@
       "benefits": []
     },
     {
-      "id": 1000121,
+      "id": 1000131,
       "title": "국립춘천박물관 브랜드2 '강원의 불교미술, 깨달음을 찾는 길'",
       "amount": "",
       "period": "2025.11.25 ~ 2026.12.31",
@@ -3721,7 +3950,7 @@
       "benefits": []
     },
     {
-      "id": 1000122,
+      "id": 1000132,
       "title": "[갤러리 원] 2026년 정기 대관모집",
       "amount": "",
       "period": "2026.01.01 ~ 2026.12.31",
@@ -3744,7 +3973,7 @@
       "benefits": []
     },
     {
-      "id": 1000123,
+      "id": 1000133,
       "title": "여초서예관 2026 여초서예교실 서예강좌",
       "amount": "",
       "period": "2026.03.07 ~ 2026.12.31",
@@ -3767,7 +3996,7 @@
       "benefits": []
     },
     {
-      "id": 1000124,
+      "id": 1000134,
       "title": "[정선] 아리아라리 - 뮤지컬 퍼포먼스",
       "amount": "",
       "period": "2026.04.02 ~ 2026.11.27",
@@ -3790,7 +4019,7 @@
       "benefits": []
     },
     {
-      "id": 1000125,
+      "id": 1000135,
       "title": "[정선] 뗏꾼 - 정선아리랑 토요상설공연",
       "amount": "",
       "period": "2026.04.04 ~ 2026.11.28",
@@ -3812,7 +4041,7 @@
       "benefits": []
     },
     {
-      "id": 1000126,
+      "id": 1000136,
       "title": "[속초] 월간 하랑: 계절의 온도",
       "amount": "",
       "period": "2026.06.27 ~ 2026.12.26",
@@ -3834,7 +4063,7 @@
       "benefits": []
     },
     {
-      "id": 1000127,
+      "id": 1000137,
       "title": "민들레의 영토에서 해인의 바다로 상설전 안내",
       "amount": "",
       "period": "2026.07.14 ~ 2027.06.13",
@@ -3857,7 +4086,7 @@
       "benefits": []
     },
     {
-      "id": 1000128,
+      "id": 1000138,
       "title": "아리랑박물관 기획전시 「석탄산업유산의 기억, 빛을 캐던 사람들」",
       "amount": "",
       "period": "2026.07.16 ~ 2027.06.30",
@@ -3880,7 +4109,7 @@
       "benefits": []
     },
     {
-      "id": 1000129,
+      "id": 1000139,
       "title": "어진박물관 실감콘텐츠 체험관",
       "amount": "",
       "period": "2022.06.07 ~ 2032.06.30",
@@ -3903,7 +4132,7 @@
       "benefits": []
     },
     {
-      "id": 1000130,
+      "id": 1000140,
       "title": "[남원] 차와 이야기가 있는 국악콘서트 <다담>",
       "amount": "",
       "period": "2026.03.25 ~ 2026.11.25",
@@ -3925,7 +4154,7 @@
       "benefits": []
     },
     {
-      "id": 1000131,
+      "id": 1000141,
       "title": "《고귀하고 고귀한 Ⅴ》",
       "amount": "",
       "period": "2026.09.04 ~ 2026.12.06",
@@ -3948,30 +4177,7 @@
       "benefits": []
     },
     {
-      "id": 1000132,
-      "title": "짓고 쓰다 - 건축과 기록",
-      "amount": "",
-      "period": "2026.09.08 ~ 2026.12.07",
-      "start": "2026-09-08",
-      "end": "2026-12-07",
-      "type": "전시",
-      "source": "https://www.culture.go.kr/",
-      "note": "[전북 문화 알림] 짓고 쓰다 - 건축과 기록. 장소: 국립전주박물관. 분야: 전시",
-      "color": "#AF52DE",
-      "tags": [
-        "culture",
-        "exhibition"
-      ],
-      "areaCd": 52,
-      "areaNm": "전북",
-      "sigunguCd": 52110,
-      "sigunguNm": "전주시",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B5%AD%EB%A6%BD%EC%A0%84%EC%A3%BC%EB%B0%95%EB%AC%BC%EA%B4%80",
-      "isAd": false,
-      "benefits": []
-    },
-    {
-      "id": 1000133,
+      "id": 1000142,
       "title": "정읍시립박물관 석지 채용신 테마전Ⅱ 『동물, 상징을 담다』",
       "amount": "",
       "period": "2026.09.08 ~ 2026.12.06",
@@ -3994,7 +4200,7 @@
       "benefits": []
     },
     {
-      "id": 1000134,
+      "id": 1000143,
       "title": "정읍시립박물관 기획특별전 『백제가요 정읍사와 달』",
       "amount": "",
       "period": "2026.09.08 ~ 2026.12.06",
@@ -4017,7 +4223,30 @@
       "benefits": []
     },
     {
-      "id": 1000135,
+      "id": 1000144,
+      "title": "짓고 쓰다 - 건축과 기록",
+      "amount": "",
+      "period": "2026.09.08 ~ 2026.12.07",
+      "start": "2026-09-08",
+      "end": "2026-12-07",
+      "type": "전시",
+      "source": "https://www.culture.go.kr/",
+      "note": "[전북 문화 알림] 짓고 쓰다 - 건축과 기록. 장소: 국립전주박물관. 분야: 전시",
+      "color": "#AF52DE",
+      "tags": [
+        "culture",
+        "exhibition"
+      ],
+      "areaCd": 52,
+      "areaNm": "전북",
+      "sigunguCd": 52110,
+      "sigunguNm": "전주시",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B5%AD%EB%A6%BD%EC%A0%84%EC%A3%BC%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "isAd": false,
+      "benefits": []
+    },
+    {
+      "id": 1000145,
       "title": "도량道場으로의 귀환, 전주 서고사 나한",
       "amount": "",
       "period": "2026.09.16 ~ 2026.11.29",
@@ -4040,7 +4269,7 @@
       "benefits": []
     },
     {
-      "id": 1000136,
+      "id": 1000146,
       "title": "제3회 휘게 실내악 축제",
       "amount": "",
       "period": "2026.10.02 ~ 2026.11.27",
@@ -4062,7 +4291,7 @@
       "benefits": []
     },
     {
-      "id": 1000137,
+      "id": 1000147,
       "title": "전북미술사 연구시리즈Ⅱ《참여의 미술, 온다라미술관》",
       "amount": "",
       "period": "2026.10.23 ~ 2027.02.14",
@@ -4085,7 +4314,7 @@
       "benefits": []
     },
     {
-      "id": 1000138,
+      "id": 1000148,
       "title": "《징게 맹갱 외에밋들, 물이 있던 자리》",
       "amount": "",
       "period": "2026.10.23 ~ 2027.02.14",
@@ -4108,7 +4337,7 @@
       "benefits": []
     },
     {
-      "id": 1000139,
+      "id": 1000149,
       "title": "패트릭 블랑: 수직정원",
       "amount": "",
       "period": "2018.06.16 ~ 2028.12.31",
@@ -4133,7 +4362,7 @@
       ]
     },
     {
-      "id": 1000140,
+      "id": 1000150,
       "title": "홍영철의 유산, 부산영화를 담다",
       "amount": "",
       "period": "2018.10.05 ~ 2030.12.31",
@@ -4158,7 +4387,7 @@
       ]
     },
     {
-      "id": 1000141,
+      "id": 1000151,
       "title": "이우환 공간 상설전시",
       "amount": "",
       "period": "2023.01.01 ~ 2030.12.31",
@@ -4183,7 +4412,7 @@
       ]
     },
     {
-      "id": 1000142,
+      "id": 1000152,
       "title": "2025년 박물관 미술관 주간 「뮤지엄×만나다」 - 큰이빨부리고래 전신 골격",
       "amount": "",
       "period": "2025.03.01 ~ 2026.12.31",
@@ -4208,7 +4437,7 @@
       ]
     },
     {
-      "id": 1000144,
+      "id": 1000154,
       "title": "2026년 홍티아트센터 입주작가 ∑Mmm(이음)전 - Serendipity: 우연이 의미가 되는 순간",
       "amount": "",
       "period": "2026.04.29 ~ 2026.11.25",
@@ -4233,7 +4462,7 @@
       ]
     },
     {
-      "id": 1000145,
+      "id": 1000155,
       "title": "2026년 국립해양박물관 테마전시 <푸른 심장, 맹그로브>",
       "amount": "",
       "period": "2026.05.19 ~ 2027.06.27",
@@ -4258,7 +4487,7 @@
       ]
     },
     {
-      "id": 1000146,
+      "id": 1000156,
       "title": "[부산] 그때, 변홍례",
       "amount": "",
       "period": "2026.05.22 ~ 2026.12.31",
@@ -4283,7 +4512,7 @@
       ]
     },
     {
-      "id": 1000147,
+      "id": 1000157,
       "title": "2026년 기획전시 <호랑이 담배 피던 시절>",
       "amount": "",
       "period": "2026.06.23 ~ 2027.01.31",
@@ -4308,7 +4537,7 @@
       ]
     },
     {
-      "id": 1000148,
+      "id": 1000158,
       "title": "발코니 뮤직쇼 앤 스트릿 페스타",
       "amount": "",
       "period": "2026.07.25 ~ 2026.12.19",
@@ -4333,7 +4562,7 @@
       ]
     },
     {
-      "id": 1000149,
+      "id": 1000159,
       "title": "[홍대] 미스터리 스릴러 연극 <흉터>",
       "amount": "",
       "period": "2025.03.01 ~ 2026.12.31",
